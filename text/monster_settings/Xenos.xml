@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Xenos Threats</h1>
+<Body><p aid:pstyle="MonsterName">Ork Boy	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Choppa (d8 damage)	6 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Regenerating</p>
+<p aid:pstyle="MonsterDescription">Brutal, green-skinned warriors who live for war. They're strong, tough, and utterly fearless. Their crude weapons are surprisingly effective, and their regenerative abilities mean they can survive wounds that would kill a human. They're always looking for a fight, and they'll attack anything that looks like a threat. <em>Instinct</em>: To fight</p>
+<ul><li>Charge into combat</li>
+<li>Fight with brutal ferocity</li>
+<li>Regenerate from wounds</li></ul>
+<p aid:pstyle="MonsterName">Ork Nob	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Organized, Forceful</span></p>
+<p aid:pstyle="MonsterStats">Power klaw (d12+2 damage, ignores armor)	16 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Regenerating, Leadership</p>
+<p aid:pstyle="MonsterDescription">A larger, stronger Ork who leads a warband. They're clad in crude but effective armor and armed with devastating weapons. They're natural leaders, inspiring their followers with their brutality and strength. They're faster and stronger than regular Orks, and their regenerative abilities are even more pronounced. <em>Instinct</em>: To lead</p>
+<ul><li>Lead the charge</li>
+<li>Crush with overwhelming force</li>
+<li>Inspire followers</li></ul>
+<p aid:pstyle="MonsterName">Genestealer	<span aid:cstyle="Tags">Group, Intelligent, Stealthy, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Rending claws (d10+1 damage, 2 piercing)	12 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Stealthy, Regenerating</p>
+<p aid:pstyle="MonsterDescription">Vanguard organisms of the Tyranid hive fleets. They're fast, agile, and deadly, with claws that can rend through armor. They're infiltration specialists, moving silently through the jungle to strike from ambush. They're the first sign of a Tyranid invasion, and their presence means that worse is coming. <em>Instinct</em>: To infiltrate</p>
+<ul><li>Strike from ambush</li>
+<li>Rend through armor</li>
+<li>Call the hive fleet</li></ul>
+<p aid:pstyle="MonsterName">Tyranid Warrior	<span aid:cstyle="Tags">Group, Large, Intelligent, Organized, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Bonesword (d10+2 damage, 2 piercing)	14 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Regenerating, Synapse</p>
+<p aid:pstyle="MonsterDescription">The backbone of the Tyranid swarm. They're large, heavily armored, and armed with devastating bio-weapons. They're intelligent and coordinated, using their synapse link to direct lesser organisms. They're the command structure of the swarm, and their presence means the invasion is in full swing. <em>Instinct</em>: To command</p>
+<ul><li>Direct the swarm</li>
+<li>Strike with bio-weapons</li>
+<li>Coordinate attacks</li></ul>
+<p aid:pstyle="MonsterName">Gaunt Swarm	<span aid:cstyle="Tags">Horde, Small, Swarming, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Claw (d4 damage)	2 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Swarming</p>
+<p aid:pstyle="MonsterDescription">The basic organisms of the Tyranid swarm. Individually weak, but they attack in overwhelming numbers. They're fast and aggressive, swarming over their prey in a tide of claws and teeth. They're expendable, but their numbers make them deadly. They're the first wave of the invasion, softening up targets for the larger organisms. <em>Instinct</em>: To swarm</p>
+<ul><li>Swarm in overwhelming numbers</li>
+<li>Overwhelm with sheer volume</li>
+<li>Sacrifice themselves for the swarm</li></ul>
+<p aid:pstyle="MonsterName">Eldar Ranger	<span aid:cstyle="Tags">Solitary, Intelligent, Stealthy, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Ranger long rifle (d10 damage, 3 piercing)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Stealthy, Intelligent</p>
+<p aid:pstyle="MonsterDescription">Elite Eldar scouts who operate deep behind enemy lines. They're masters of stealth and marksmanship, striking from impossible distances. They're not necessarily hostile, but they're unpredictable and dangerous. They might be on a mission, or they might simply be observing. Either way, they're best avoided. <em>Instinct</em>: To observe</p>
+<ul><li>Strike from extreme range</li>
+<li>Use stealth and camouflage</li>
+<li>Disappear into the jungle</li></ul>
+<p aid:pstyle="MonsterName">Tau Pathfinder	<span aid:cstyle="Tags">Group, Intelligent, Organized, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Pulse carbine (d8 damage, ignores armor)	8 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Intelligent, Technology</p>
+<p aid:pstyle="MonsterDescription">Tau scouts who use advanced technology to track and eliminate targets. They're well-equipped and well-trained, using their superior technology to gain an advantage. They're not as physically tough as other xenos, but their weapons and tactics make them dangerous. They're usually part of a larger force, and their presence means more Tau are nearby. <em>Instinct</em>: To scout</p>
+<ul><li>Mark targets for elimination</li>
+<li>Use advanced technology</li>
+<li>Call in support</li></ul>
+<p aid:pstyle="MonsterName">Necron Warrior	<span aid:cstyle="Tags">Horde, Intelligent, Organized, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Gauss flayer (d8 damage ignores armor)	7 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Construct, Regenerating</p>
+<p aid:pstyle="MonsterDescription">Ancient robotic warriors who have awakened from eons of slumber. They're nearly indestructible, their bodies regenerating from any damage. Their gauss weapons can disintegrate matter at the molecular level, making them deadly even at range. They're relentless and emotionless, driven by ancient programming to destroy all life. <em>Instinct</em>: To destroy</p>
+<ul><li>Regenerate from damage</li>
+<li>Disintegrate with gauss weapons</li>
+<li>Advance relentlessly</li></ul>
+<p aid:pstyle="MonsterName">Ork Kommando	<span aid:cstyle="Tags">Group, Intelligent, Stealthy, Organized, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Sneaky choppa (d8+1 damage, 1 piercing)	8 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Stealthy, Regenerating</p>
+<p aid:pstyle="MonsterDescription">Orks who have learned the value of stealth and tactics. They're still brutal and violent, but they're smart enough to use ambushes and traps. They're experts at using the jungle to their advantage, setting up elaborate ambushes that would make a Catachan proud. They're a different kind of threat—not just brute force, but cunning and violence combined. <em>Instinct</em>: To ambush</p>
+<ul><li>Strike from ambush</li>
+<li>Set traps and snares</li>
+<li>Use the jungle to advantage</li></ul>
+<p aid:pstyle="MonsterName">Lictor	<span aid:cstyle="Tags">Solitary, Large, Stealthy, Intelligent, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Rending claws (d12+1 damage, 3 piercing)	17 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Stealthy, Regenerating, Camouflage</p>
+<p aid:pstyle="MonsterDescription">An elite Tyranid organism designed for assassination and infiltration. It's a perfect killing machine, with chameleonic skin that makes it nearly invisible. It's intelligent and patient, studying its prey before striking. Its claws can rend through power armor, and it's fast enough to strike and disappear before anyone can react. It's the ultimate predator, and its presence means the hive fleet is close. <em>Instinct</em>: To assassinate</p>
+<ul><li>Strike from perfect camouflage</li>
+<li>Rend through any armor</li>
+<li>Disappear into the jungle</li></ul>
+<p aid:pstyle="MonsterName">Kroot Carnivore	<span aid:cstyle="Tags">Group, Intelligent, Organized, Xenos</span></p>
+<p aid:pstyle="MonsterStats">Kroot rifle (d8 damage, 1 piercing)	9 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Xenos, Intelligent, Regenerating</p>
+<p aid:pstyle="MonsterDescription">Mercenary xenos who serve the Tau Empire. They're skilled hunters and trackers, using their knowledge of the jungle to hunt their prey. They're not necessarily hostile, but they're unpredictable and dangerous. They might be on a mission for the Tau, or they might be hunting for their own reasons. Either way, they're best avoided. <em>Instinct</em>: To hunt</p>
+<ul><li>Track and hunt prey</li>
+<li>Use jungle knowledge</li>
+<li>Strike from ambush</li></ul>
+</Body></Root>

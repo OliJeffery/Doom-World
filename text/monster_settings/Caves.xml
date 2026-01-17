@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Caves</h1>
+<Body><p aid:pstyle="MonsterName">Cave-Scorpion	<span aid:cstyle="Tags">Group, Large, Poisonous</span></p>
+<p aid:pstyle="MonsterStats">Stinger (d10+1 damage, ignores armor)	13 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Poisonous, Burrowing</p>
+<p aid:pstyle="MonsterDescription">Massive scorpions that dwell in the deep caves of Catachan. Their chitinous armor is nearly impenetrable, and their venom can kill in seconds. They're ambush predators, waiting in the darkness until prey comes close. Their pincers can crush bone, and their stinger delivers a lethal dose of neurotoxin. <em>Instinct</em>: To ambush</p>
+<ul><li>Strike from darkness</li>
+<li>Inject lethal venom</li>
+<li>Crush with powerful pincers</li></ul>
+<p aid:pstyle="MonsterName">Blind-Stalker	<span aid:cstyle="Tags">Solitary, Large, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Rending claws (d12 damage, 2 piercing)	18 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Blind, Tremorsense</p>
+<p aid:pstyle="MonsterDescription">A massive predator that has adapted to life in total darkness. It has no eyes, instead sensing prey through vibrations in the ground and air. Its claws can rend through armor, and its powerful jaws can crush bone. It hunts silently, using the echoes of the cave to locate prey. <em>Instinct</em>: To hunt</p>
+<ul><li>Track by sound and vibration</li>
+<li>Strike from perfect silence</li>
+<li>Rend with razor-sharp claws</li></ul>
+<p aid:pstyle="MonsterName">Rock-Borer	<span aid:cstyle="Tags">Horde, Small, Burrowing</span></p>
+<p aid:pstyle="MonsterStats">Acid spray (d6 damage ignores armor)	4 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing, Acidic</p>
+<p aid:pstyle="MonsterDescription">Small creatures that can burrow through solid rock. They hunt in swarms, using their acidic secretions to dissolve stone and flesh alike. They're drawn to heat and movement, emerging from the walls and floor to attack. Their shells are tough, but their soft bodies are vulnerable once exposed. <em>Instinct</em>: To consume</p>
+<ul><li>Burrow through rock</li>
+<li>Spray corrosive acid</li>
+<li>Swarm from all directions</li></ul>
+<p aid:pstyle="MonsterName">Crystal-Shard	<span aid:cstyle="Tags">Group, Small, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Piercing shard (d8 damage, 2 piercing)	7 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Crystalline, Reflective</p>
+<p aid:pstyle="MonsterDescription">Living crystals that grow in the deep caves. They're nearly invisible until they move, their reflective surfaces making them blend with the cave walls. They can fire shards of themselves as projectiles, and their edges are razor-sharp. They're drawn to light, using it to power their attacks. <em>Instinct</em>: To reflect</p>
+<ul><li>Fire crystalline shards</li>
+<li>Reflect light as a weapon</li>
+<li>Blend with cave walls</li></ul>
+<p aid:pstyle="MonsterName">Tunnel-Worm	<span aid:cstyle="Tags">Solitary, Huge, Burrowing</span></p>
+<p aid:pstyle="MonsterStats">Crushing bite (d12+3 damage, ignores armor)	22 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing, Regenerating</p>
+<p aid:pstyle="MonsterDescription">A massive worm that can tunnel through solid rock. Its mouth is lined with rotating teeth that can grind through anything. It hunts by sensing vibrations, bursting from the ground to swallow prey whole. Its regenerative abilities mean that even losing large sections of its body won't kill it. <em>Instinct</em>: To consume</p>
+<ul><li>Burrow beneath prey</li>
+<li>Swallow whole</li>
+<li>Regenerate lost segments</li></ul>
+<p aid:pstyle="MonsterName">Shadow-Bat Swarm	<span aid:cstyle="Tags">Horde, Tiny, Swarming</span></p>
+<p aid:pstyle="MonsterStats">Bite (d4 damage)	1 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Flight, Echolocation</p>
+<p aid:pstyle="MonsterDescription">Tiny bats that hunt in swarms of thousands. They use echolocation to navigate in total darkness, and their sharp teeth can strip flesh from bone in minutes. They're drawn to sound and movement, swarming anything that makes noise. The sound of their wings is deafening, and it means death is coming. <em>Instinct</em>: To swarm</p>
+<ul><li>Swarm in overwhelming numbers</li>
+<li>Strike from all directions</li>
+<li>Strip flesh from bone</li></ul>
+<p aid:pstyle="MonsterName">Cave-Fungus Colony	<span aid:cstyle="Tags">Solitary, Amorphous, Poisonous, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Toxic spores (d8 damage ignores armor, area)	14 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amorphous, Poisonous, Regenerating</p>
+<p aid:pstyle="MonsterDescription">A massive fungal colony that has taken root in the deep caves. It spreads slowly but inexorably, covering walls and floors in a carpet of toxic growth. It releases clouds of spores that dissolve flesh and metal, and touching it means certain death. It's drawn to heat and organic matter, slowly consuming anything that enters its domain. <em>Instinct</em>: To spread</p>
+<ul><li>Release toxic spore clouds</li>
+<li>Consume organic matter</li>
+<li>Spread through the caves</li></ul>
+<p aid:pstyle="MonsterName">Echo-Mimic	<span aid:cstyle="Tags">Solitary, Intelligent, Devious, Stealthy</span></p>
+<p aid:pstyle="MonsterStats">Psychic scream (d10 damage ignores armor)	15 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Intelligent, Stealthy</p>
+<p aid:pstyle="MonsterDescription">A Warp-touched creature that uses the echoes of the cave to confuse and disorient its prey. It can mimic sounds perfectly, creating false echoes that lead victims into traps. It's intelligent and sadistic, playing with its food before killing it. It's nearly invisible, using the darkness and echoes to hide. It feeds on fear and confusion as much as flesh. <em>Instinct</em>: To confuse</p>
+<ul><li>Mimic sounds and voices</li>
+<li>Create false echoes</li>
+<li>Strike from perfect hiding</li></ul>
+<p aid:pstyle="MonsterName">Cave-Drake	<span aid:cstyle="Tags">Solitary, Huge, Terrifying, Forceful</span></p>
+<p aid:pstyle="MonsterStats">Acid breath (d12+2 damage ignores armor, area)	24 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far, Forceful</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Poisonous, Regenerating, Flight</p>
+<p aid:pstyle="MonsterDescription">A massive, serpentine creature that has made the deep caves its lair. It's covered in scales as hard as ceramite, and its breath is a cloud of corrosive acid that can dissolve anything. It's ancient and intelligent, having learned to hunt in the darkness over centuries. It's territorial, attacking anything that enters its domain. Some say it's a remnant of an ancient war, others claim it's a native predator that has grown to massive size. <em>Instinct</em>: To dominate</p>
+<ul><li>Breathe corrosive acid</li>
+<li>Strike with crushing force</li>
+<li>Use the caves to its advantage</li></ul>
+</Body></Root>
