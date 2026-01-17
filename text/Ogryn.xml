@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Ogryn</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You're big. Bigger than most men. Bigger than most things that want to kill you. You're strong, too. Strong enough to pull a damaged Chimera across a battlefield. Strong enough to carry your wounded friend to safety while being shot at by thousands of enemy troops. Strong enough that you don't feel pain like the little 'uns do.</p>
+<p>You're not smart. You know that. The little 'uns are smart. They tell you what to do, and you do it. Because they're your friends. Because they keep you safe. Because when something big and mean comes out of the jungle, you're the one who stands between it and them. And nothing gets past you.</p>
+<p>Protect your friends. Follow orders. Be strong. That's what you do.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Ogryn</em>: Nork, Grug, Thud, Bonk, Smash, Crush, Biggun, Stomp, Grunt, Bork</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Simple Eyes, Confused Eyes, or Loyal Eyes</p>
+<p aid:pstyle="NoIndent">Shaved Head, Messy Hair, or Helmet</p>
+<p aid:pstyle="NoIndent">Huge Body, Massive Body, or Bulky Body</p>
+<p aid:pstyle="NoIndent">Scarred Skin, Tattooed Skin, or Marked Skin</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 12+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d12</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">You are Ogryn, so you get this move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Ogryn</h3>
+<p aid:pstyle="NoIndent">When you <strong>follow orders from someone you trust</strong>, you may use CON instead of INT or WIS for that action.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Break Through</h3>
+<p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.</p>
+<ul><li>It doesn't take a very long time</li>
+<li>Nothing of value is damaged</li>
+<li>It doesn't make an inordinate amount of noise</li>
+<li>You can fix the thing again without a lot of effort</li></ul>
+<h3 aid:pstyle="BasicMoveName">Thick Hide</h3>
+<p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear. You also have +1 armor from your natural toughness.</p>
+<h3 aid:pstyle="BasicMoveName">Bodyguard</h3>
+<p aid:pstyle="NoIndent">Choose someone you protect. When you <strong>stand in defense of that person</strong>, roll+Con. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. So long as you stand in defense, when you or the person you protect is attacked you may spend hold, 1 for 1, to choose an option:</p>
+<ul><li>Redirect an attack from the person you protect to yourself</li>
+<li>Halve the attack's effect or damage</li>
+<li>Open up the attacker to an ally giving that ally +1 forward against the attacker</li>
+<li>Deal damage to the attacker equal to your level</li></ul>
+<h3 aid:pstyle="BasicMoveName">Simple Mind</h3>
+<p aid:pstyle="NoIndent">When you <strong>try to understand something complicated</strong>, roll+Int. ✴On a 10+, you understand it, but in a simple way. ✴On a 7–9, you understand part of it, but the GM will tell you what you got wrong. ✴On a 6-, you don't understand it at all, but you think you do.</p></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Protect someone weaker than you.</p>
+<h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Follow orders without question.</p>
+<h3 aid:pstyle="MoveName">Combat</h3>
+<p aid:pstyle="NoIndent">Defeat a threat that's bigger than you.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 15+Str. You carry rations (5 uses, 1 weight). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Flak armor (1 armor, 1 weight) and field gear (1 weight)</li>
+<li aid:pstyle="Option">Carapace armor (2 armor, 3 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose your weapon:</p>
+<ul><li aid:pstyle="Option">Ripper gun (near, +1 damage, 2 weight)</li>
+<li aid:pstyle="Option">Heavy stubber (near, far, +1 damage, 3 weight)</li>
+<li aid:pstyle="Option">Brute shield (+1 armor, 2 weight) and club (close, forceful, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Extra rations (5 uses, 1 weight)</li>
+<li aid:pstyle="Option">Medkit (0 weight)</li>
+<li aid:pstyle="Option">Field gear (1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ is my friend. I will protect them.</p>
+<p>_______________ gives me orders. I will follow them.</p>
+<p>_______________ is smart. I will listen to them.</p>
+<p>_______________ saved me once. I owe them.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Merciless</h3>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Loyal</h3>
+<p aid:pstyle="NoIndent">When you <strong>protect someone you have a bond with</strong>, you take +1 forward to all actions related to that protection.</p>
+<h3 aid:pstyle="MoveName">Iron Hide</h3>
+<p aid:pstyle="NoIndent">You gain +1 armor.</p>
+<h3 aid:pstyle="MoveName">Unstoppable</h3>
+<p aid:pstyle="NoIndent">When you <strong>power through an obstacle or enemy</strong>, roll+Str. ✴On a 10+, you break through completely. ✴On a 7-9, you break through but take damage or leave yourself exposed, your choice.</p>
+<h3 aid:pstyle="MoveName">Simple Solutions</h3>
+<p aid:pstyle="NoIndent">When you <strong>try to solve a problem in the simplest way possible</strong>, roll+Con. ✴On a 10+, your simple solution works perfectly. ✴On a 7-9, your solution works but has unexpected consequences.</p>
+<h3 aid:pstyle="MoveName">Protective Rage</h3>
+<p aid:pstyle="NoIndent">When someone you protect is hurt, you deal +1d6 damage until the threat is eliminated.</p>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Thick Skull</h3>
+<p aid:pstyle="NoIndent">You have +1 armor against attacks to your head.</p>
+<h3 aid:pstyle="MoveName">Carry</h3>
+<p aid:pstyle="NoIndent">When you <strong>carry someone or something heavy</strong>, you can move at normal speed and still fight. You ignore the weight of anything you're carrying.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Bloodthirsty</h3>
+<p aid:pstyle="Requirement">Replaces: Merciless</p>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Perfect Loyalty</h3>
+<p aid:pstyle="Requirement">Replaces: Loyal</p>
+<p aid:pstyle="NoIndent">When you <strong>protect someone you have a bond with</strong>, you take +2 forward to all actions related to that protection and they take +1 armor.</p>
+<h3 aid:pstyle="MoveName">Steel Hide</h3>
+<p aid:pstyle="Requirement">Replaces: Iron Hide</p>
+<p aid:pstyle="NoIndent">You gain +2 armor.</p>
+<h3 aid:pstyle="MoveName">Unstoppable Force</h3>
+<p aid:pstyle="Requirement">Replaces: Unstoppable</p>
+<p aid:pstyle="NoIndent">When you <strong>power through an obstacle or enemy</strong>, roll+Str. ✴On a 10+, you break through completely and deal damage to anything in your way. ✴On a 7-9, you break through but take damage or leave yourself exposed, your choice.</p>
+<h3 aid:pstyle="MoveName">Perfect Solutions</h3>
+<p aid:pstyle="Requirement">Replaces: Simple Solutions</p>
+<p aid:pstyle="NoIndent">When you <strong>try to solve a problem in the simplest way possible</strong>, roll+Con. ✴On a 10+, your simple solution works perfectly and you gain +1 forward. ✴On a 7-9, your solution works but has unexpected consequences.</p>
+<h3 aid:pstyle="MoveName">Protective Fury</h3>
+<p aid:pstyle="Requirement">Replaces: Protective Rage</p>
+<p aid:pstyle="NoIndent">When someone you protect is hurt, you deal +1d8 damage and take +1 forward until the threat is eliminated.</p>
+<h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Thick Skull Master</h3>
+<p aid:pstyle="Requirement">Replaces: Thick Skull</p>
+<p aid:pstyle="NoIndent">You have +2 armor against attacks to your head and are immune to stun damage.</p>
+<h3 aid:pstyle="MoveName">Carry Everything</h3>
+<p aid:pstyle="Requirement">Replaces: Carry</p>
+<p aid:pstyle="NoIndent">When you <strong>carry someone or something heavy</strong>, you can move at normal speed and still fight. You ignore the weight of anything you're carrying. You can carry multiple people or objects at once.</p>
+<h3 aid:pstyle="MoveName">Nork's Strength</h3>
+<p aid:pstyle="NoIndent">When you <strong>use your strength to accomplish something impossible</strong>, roll+Str. ✴On a 10+, you do it. ✴On a 7-9, you do it but suffer a debility or take damage, your choice. ✴On a 6-, you fail but you don't give up—you can try again immediately.</p></div></Body></Root>

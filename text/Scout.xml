@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Scout</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You move like a ghost through the jungle. While the others crash through the undergrowth like grox in a china shop, you're already ahead, reading the signs, spotting the ambushes before they happen. You've spent more time alone in the deep jungle than most men have spent breathing. You know which plants will kill you, which animals are hunting, and which shadows are just shadows.</p>
+<p>Your squad relies on you. Without your eyes, they'd walk into a Catachan Devil's nest. Without your ears, they'd miss the sound of something big moving in the canopy. Without your instincts, they'd all be dead. You're the one who finds the safe paths, the clean water, the high ground. You're the one who keeps them alive.</p>
+<p>Keep moving. Keep watching. The jungle never sleeps.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Sharp Eyes, Watchful Eyes, or Hard Eyes</p>
+<p aid:pstyle="NoIndent">Bandana, Shorn Hair, or Camouflage Paint</p>
+<p aid:pstyle="NoIndent">Tattered Fatigues, Camouflage Gear, or Light Armor</p>
+<p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 8+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Unseen Lurkers</h3>
+<p aid:pstyle="NoIndent">When you navigate the jungle through wilderness whatever job you take you succeed as if you rolled a 10+.</p>
+<h3 aid:pstyle="MoveName">Green Devils</h3>
+<p aid:pstyle="NoIndent">When you bivouac in the jungle, you don't need to consume a ration.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
+<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. ✴On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
+<ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
+<li>Determine what caused the trail to end</li></ul>
+<h3 aid:pstyle="BasicMoveName">Called Shot</h3>
+<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>
+<ul><li>Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.</li>
+<li>Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they're holding.</li>
+<li>Legs ✴10+: As 7-9, plus your damage ✴7-9: They're hobbled and slow moving.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Jungle Sense</h3>
+<p aid:pstyle="NoIndent">You have an almost supernatural connection with the jungle. You can read its signs, feel its dangers, and know its secrets. Choose a focus:</p>
+<p aid:pstyle="Example">Tracking, Survival, Navigation, Stealth, Threat Detection</p>
+<p aid:pstyle="NoIndent">Choose a base:</p>
+<ul><li>Alertness +2, Instinct +1, +1 to Read the Signs</li>
+<li>Alertness +2, Instinct +2, +1 to Defy Danger</li>
+<li>Alertness +1, Instinct +2, +1 to Read the Signs</li>
+<li>Alertness +3, Instinct +1, +1 to Hunt and Track</li></ul>
+<p aid:pstyle="NoIndent">Choose as many strengths as your alertness:</p>
+<p aid:pstyle="Example">Fast, tireless, adaptable, quick reflexes, camouflage, keen senses, stealthy, silent movement</p>
+<p aid:pstyle="NoIndent">Your jungle sense is trained for specific situations. Choose as many additional trainings as your instinct:</p>
+<p aid:pstyle="Example">Track, search, scout, guard, identify threats, navigate, survive, evade</p>
+<p aid:pstyle="NoIndent">Choose as many weaknesses as your instinct:</p>
+<p aid:pstyle="Example">Paranoid, jumpy, slow, forgetful, stubborn, reckless</p>
+<h3 aid:pstyle="BasicMoveName">Trust Your Instincts</h3>
+<p aid:pstyle="NoIndent">When you work with your jungle sense on something it's trained in…</p>
+<ul><li>…and you attack the same target, add your alertness to your damage</li>
+<li>…and you track, add your instinct to your roll</li>
+<li>…and you take damage, add your alertness to your armor</li>
+<li>…and you read the signs, add your instinct to your roll</li>
+<li>…and you negotiate, add your instinct to your roll</li>
+<li>…and someone interferes with you, add your alertness to their roll</li></ul></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Help the squad avoid a deadly threat.</p>
+<h3 aid:pstyle="MoveName">Combat</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to eliminate a threat before it attacks.</p>
+<h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Complete a mission objective through stealth and reconnaissance.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 11+Str. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), and a lascarbine power pack (3 ammo, 1 weight). Choose your armament:</p>
+<ul><li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and Catachan knife (close, 1 weight)</li>
+<li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and machete (reach, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Field gear (1 weight) and rations (1 weight)</li>
+<li aid:pstyle="Option">Field gear (1 weight) and lascarbine power pack (3 ammo, 1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>I have guided _______________ before and they owe me for it.</p>
+<p>_______________ trusts my judgment in the jungle, so I will protect them.</p>
+<p>_______________ has no respect for the jungle, so I have no respect for them.</p>
+<p>_______________ does not understand survival in the wild, so I will teach them.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">You may take this move only if it is your first advancement.</p>
+<h3 aid:pstyle="MoveName">Jungle Born</h3>
+<p aid:pstyle="NoIndent">You were born and raised in the deepest parts of the Catachan jungle. You gain the Unseen Lurkers starting move if you took the Green Devils one at character creation or vice versa.</p>
+<p aid:pstyle="Instructions">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Jungle Whisperer</h3>
+<p aid:pstyle="NoIndent">You can read the signs of the jungle so well that you can predict threats before they appear. When you read the signs about jungle threats, you may ask an additional question.</p>
+<h3 aid:pstyle="MoveName">Familiar Threat</h3>
+<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use WIS instead of INT.</p>
+<h3 aid:pstyle="MoveName">Dual Strike</h3>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
+<h3 aid:pstyle="MoveName">Camouflage</h3>
+<p aid:pstyle="NoIndent">When you <strong>keep still in natural surroundings</strong>, enemies never spot you until you make a movement.</p>
+<h3 aid:pstyle="MoveName">Take the Hit</h3>
+<p aid:pstyle="NoIndent">When you <strong>use your jungle sense to take a blow that was meant for an ally</strong>, the damage is negated but your alertness becomes 0. If your alertness is already 0 you can't use this ability. When you have a few hours of rest your alertness returns to normal.</p>
+<h3 aid:pstyle="MoveName">Suppressing Fire</h3>
+<p aid:pstyle="NoIndent">When you take aim you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
+<h3 aid:pstyle="MoveName">Well-Trained</h3>
+<p aid:pstyle="NoIndent">Choose another training for your jungle sense.</p>
+<h3 aid:pstyle="MoveName">Veteran Scout</h3>
+<p aid:pstyle="NoIndent">You've been scouting the jungle for so long that you've learned to read it like a book. When you navigate the jungle, you can take two roles. You make a separate roll for each.</p>
+<h3 aid:pstyle="MoveName">A Safe Place</h3>
+<p aid:pstyle="NoIndent">When you <strong>set the watch for the night</strong>, everyone takes +1 to stand watch.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Jungle Master</h3>
+<p aid:pstyle="Requirement">Replaces: Jungle Whisperer</p>
+<p aid:pstyle="NoIndent">You can read the signs of the jungle so well that you can predict threats before they appear. When you read the signs about jungle threats, you may ask two additional questions.</p>
+<h3 aid:pstyle="MoveName">Hunter's Prey</h3>
+<p aid:pstyle="Requirement">Replaces: Familiar Threat</p>
+<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
+<h3 aid:pstyle="MoveName">Dual Strike Master</h3>
+<p aid:pstyle="Requirement">Replaces: Dual Strike</p>
+<p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
+<h3 aid:pstyle="MoveName">Weak Point</h3>
+<p aid:pstyle="NoIndent">When you know your target's weakest point your shots have 2 piercing.</p>
+<h3 aid:pstyle="MoveName">Pathfinder</h3>
+<p aid:pstyle="Requirement">Replaces: Veteran Scout</p>
+<p aid:pstyle="NoIndent">When you navigate the jungle you can take two roles. Roll twice and use the better result for both roles.</p>
+<h3 aid:pstyle="MoveName">A Safer Place</h3>
+<p aid:pstyle="Requirement">Replaces: A Safe Place</p>
+<p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to stand watch. After a night in bivouac when you set the watch everyone takes +1 forward.</p>
+<h3 aid:pstyle="MoveName">Observant</h3>
+<p aid:pstyle="NoIndent">When you hunt and track, on a hit you may also ask one question about the creature you are tracking from the read the signs list for free.</p>
+<h3 aid:pstyle="MoveName">Special Technique</h3>
+<p aid:pstyle="NoIndent">Choose a move from another specialization. So long as you are working with your jungle sense you have access to that move.</p>
+<h3 aid:pstyle="MoveName">Unnatural Instinct</h3>
+<p aid:pstyle="NoIndent">Your jungle sense has become so attuned that you can sense things that shouldn't be possible. Describe it. Give yourself +2 alertness and +1 instinct, plus a new training.</p></div></Body></Root>

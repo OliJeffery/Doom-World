@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Sergeant</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You've been fighting on Catachan longer than most of your squad has been alive. You've seen it all. The ambushes. The traps. The things that come out of the dark. You've lost more friends than you can count. You've got more scars than you have clean skin. And you're still here.</p>
+<p>Experience is the only teacher that matters on a Death World. You've learned the hard way what works and what gets you killed. Your squad looks to you for wisdom, for leadership, for the knowledge that only comes from surviving when you shouldn't have. You've forgotten more about jungle warfare than most men will ever learn.</p>
+<p>Pass on what you know. Keep them alive. That's your duty now.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent">Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Watchful Eyes</p>
+<p aid:pstyle="NoIndent">Peaked Cap, Shorn Hair, or Bandana</p>
+<p aid:pstyle="NoIndent">Sergeant's Insignia or Standard Gear</p>
+<p aid:pstyle="NoIndent">Built Body, Scarred Body, or Ravaged Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are Catachan, so you get this move.</p>
+<h3 aid:pstyle="MoveName">Catachan</h3>
+<p aid:pstyle="NoIndent">When you <strong>survey the battlefield, even for a moment, and ask, "What here is the biggest threat?"</strong> the GM will tell you, honestly.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Lead by Example (Cha)</h3>
+<p aid:pstyle="NoIndent">When you <strong>take action to inspire and protect your squad</strong>, roll+CHA. ✴On a 10+ you grant them +1 forward or remove one threat. ✴On a 7–9, they are inspired, but you draw the threat to yourself.</p>
+<h3 aid:pstyle="BasicMoveName">Armored</h3>
+<p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
+<h3 aid:pstyle="BasicMoveName">I Am the Leader</h3>
+<p aid:pstyle="NoIndent">When you <strong>give an order based on your authority and experience</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
+<ul><li>Do what you say</li>
+<li>Back away cautiously, then flee</li>
+<li>Attack you</li></ul>
+<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p>
+<h3 aid:pstyle="BasicMoveName">Mission Command</h3>
+<p aid:pstyle="NoIndent">When you <strong>dedicate yourself to a mission through planning and leadership</strong>, state what you set out to do:</p>
+<ul><li>Eliminate _______, a great threat to the mission</li>
+<li>Defend _______ from the threats that beset them</li>
+<li>Discover the truth of _______</li></ul>
+<p aid:pstyle="NoIndent">Then choose up to two boons:</p>
+<ul><li>An unwavering sense of direction to _______.</li>
+<li>Resistance to _______ (e.g., fire, poison, disease, etc.)</li>
+<li>A mark of leadership</li>
+<li>Senses that pierce deception</li>
+<li>A voice that commands respect</li>
+<li>A freedom from fatigue and exhaustion</li></ul>
+<p aid:pstyle="NoIndent">The GM will then tell you what requirement or requirements is needed of you to maintain your command:</p>
+<ul><li>Honor (forbidden: cowardly tactics and tricks)</li>
+<li>Discipline (forbidden: breaking formation or orders)</li>
+<li>Duty (required: observance of mission objectives)</li>
+<li>Valor (forbidden: suffering a threat to live)</li>
+<li>Truth (forbidden: lies)</li>
+<li>Loyalty (required: support to those in need, no matter who they are)</li></ul></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Lead your squad to complete a mission objective.</p>
+<h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and some mark of your rank, describe it (0 weight). Choose your weapon:</p>
+<ul><li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and chainsword (close, 1 weight)</li>
+<li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and power sword (close, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Field gear (1 weight)</li>
+<li aid:pstyle="Option">Rations (1 weight) and medkit (0 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________'s reckless behavior endangers the whole squad!</p>
+<p>_______________ has stood by me in battle and can be trusted completely.</p>
+<p>I respect the skills of _______________ but hope they will someday see the value of experience.</p>
+<p>_______________ is a brave soul, I have much to learn from them.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Veteran Knowledge</h3>
+<p aid:pstyle="NoIndent">You've learned from experience. Choose one specialization move. You can use that move as if it was a sergeant move. When you select this move, treat yourself as that specialization of level 1. Every time you gain a level thereafter, increase your effective specialization level by 1.</p>
+<h3 aid:pstyle="MoveName">Take the Hit</h3>
+<p aid:pstyle="NoIndent">When you take damage you can grit your teeth and accept the blow. If you do you take no damage but instead suffer a debility of your choice. If you already have all six debilities you can't use this move.</p>
+<h3 aid:pstyle="MoveName">Mission Focus</h3>
+<p aid:pstyle="NoIndent">While on a mission you deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">No Retreat</h3>
+<p aid:pstyle="NoIndent">When you <strong>speak aloud your promise to defeat an enemy</strong>, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.</p>
+<h3 aid:pstyle="MoveName">Charge!</h3>
+<p aid:pstyle="NoIndent">When you <strong>lead the charge into combat</strong>, those you lead take +1 forward.</p>
+<h3 aid:pstyle="MoveName">Staunch Defender</h3>
+<p aid:pstyle="NoIndent">When you cover fire you always get +1 hold, even on a 6-.</p>
+<h3 aid:pstyle="MoveName">Setup Strike</h3>
+<p aid:pstyle="NoIndent">When you close combat, choose an ally. Their next attack against your target does +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Mission Protection</h3>
+<p aid:pstyle="NoIndent">You get +1 armor while on a mission.</p>
+<h3 aid:pstyle="MoveName">Voice of Authority</h3>
+<p aid:pstyle="NoIndent">Take +1 to request reinforcements.</p>
+<h3 aid:pstyle="MoveName">Field Medic</h3>
+<p aid:pstyle="NoIndent">When you treat an ally's wounds, you heal +1d8 damage.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
+<h3 aid:pstyle="MoveName">Master Tactician</h3>
+<p aid:pstyle="Requirement">Requires: Veteran Knowledge</p>
+<p aid:pstyle="NoIndent">When you <strong>see enemy tactics as they happen</strong>, you can ask the GM what their strategy is and its effects. Take +1 when acting on the answers.</p>
+<h3 aid:pstyle="MoveName">Mission Master</h3>
+<p aid:pstyle="Requirement">Replaces: Mission Focus</p>
+<p aid:pstyle="NoIndent">While on a mission you deal +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Ever Onward</h3>
+<p aid:pstyle="Requirement">Replaces: Charge!</p>
+<p aid:pstyle="NoIndent">When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.</p>
+<h3 aid:pstyle="MoveName">Impervious Defender</h3>
+<p aid:pstyle="Requirement">Replaces: Staunch Defender</p>
+<p aid:pstyle="NoIndent">When you cover fire you always get +1 hold, even on a 6-. When you get a 12+ to cover fire instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
+<h3 aid:pstyle="MoveName">Tandem Strike</h3>
+<p aid:pstyle="Requirement">Replaces: Setup Strike</p>
+<p aid:pstyle="NoIndent">When you close combat, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.</p>
+<h3 aid:pstyle="MoveName">Mission Armor</h3>
+<p aid:pstyle="Requirement">Replaces: Mission Protection</p>
+<p aid:pstyle="NoIndent">You get +2 armor while on a mission.</p>
+<h3 aid:pstyle="MoveName">Command Authority</h3>
+<p aid:pstyle="Requirement">Replaces: Voice of Authority</p>
+<p aid:pstyle="NoIndent">Take +1 to request reinforcements. When you roll a 12+ the reinforcement transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.</p>
+<h3 aid:pstyle="MoveName">Perfect Medic</h3>
+<p aid:pstyle="Requirement">Replaces: Field Medic</p>
+<p aid:pstyle="NoIndent">When you treat an ally's wounds, you heal +2d8 damage.</p>
+<h3 aid:pstyle="MoveName">Indomitable</h3>
+<p aid:pstyle="NoIndent">When you suffer a debility (even through Take the Hit) take +1 forward against whatever caused it.</p>
+<h3 aid:pstyle="MoveName">Perfect Leader</h3>
+<p aid:pstyle="NoIndent">When you mission command you choose three boons instead of two.</p></div></Body></Root>

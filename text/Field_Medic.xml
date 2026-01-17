@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Field Medic</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">On Catachan, death comes in a thousand forms. Poison. Disease. Wounds that won't heal. You've seen men die from scratches. You've seen men survive wounds that should have killed them instantly. You know which plants can save a life and which will end it. You know how to treat a man who's been stung by a death-spider, bitten by a venom-snake, or infected with jungle rot.</p>
+<p>Your squad trusts you with their lives. Literally. When they're bleeding out, when the poison is spreading, when the fever is burning them alive, you're the one who saves them. You're the one who keeps them fighting when their bodies want to give up. You're the difference between life and death.</p>
+<p>Save who you can. Learn from the ones you can't. The jungle teaches harsh lessons.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Kind Eyes, Sharp Eyes, or Tired Eyes</p>
+<p aid:pstyle="NoIndent">Bandana, Shorn Hair, or Medical Cap</p>
+<p aid:pstyle="NoIndent">Medical Coat, Tattered Uniform, or Standard Fatigues</p>
+<p aid:pstyle="NoIndent">Thin Body, Lithe Body, or Scarred Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 8+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Green Devils</h3>
+<p aid:pstyle="NoIndent">You are one with the jungle's remedies. When you treat wounds you are also granted a special version of Field Treatment as a rote which only works on your regiment.</p>
+<h3 aid:pstyle="MoveName">Savage Jaguars</h3>
+<p aid:pstyle="NoIndent">Your medical knowledge is extensive. Choose one specialization move. You can use that move as if it was a medic move.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<div id="MedicalKnowledge"><h3 aid:pstyle="BasicMoveName">Medical Knowledge</h3>
+<p aid:pstyle="NoIndent">You serve the squad and save lives through knowledge and skill. Give your medical focus (maybe Trauma, Poison, Disease, or Field Surgery) and choose your medical domain:</p>
+<ul><li aid:pstyle="Option">Trauma and Wounds</li>
+<li aid:pstyle="Option">Poison and Toxins</li>
+<li aid:pstyle="Option">Disease and Infection</li>
+<li aid:pstyle="Option">Field Surgery</li>
+<li aid:pstyle="Option">Jungle Remedies</li>
+<li aid:pstyle="Option">Emergency Care</li></ul>
+<p aid:pstyle="NoIndent">Choose one precept of your medical practice:</p>
+<ul><li aid:pstyle="Option">Your practice preaches the sanctity of life, add Treatment: Life</li>
+<li aid:pstyle="Option">Your practice is pragmatic and efficient, add Treatment: Efficiency</li>
+<li aid:pstyle="Option">Your practice has important procedures, add Treatment: Procedure</li>
+<li aid:pstyle="Option">Your practice believes in trial by experience, add Treatment: Experience</li></ul></div>
+<div id="FieldTreatment"><h3 aid:pstyle="BasicMoveName">Field Treatment</h3>
+<p aid:pstyle="NoIndent">When you <strong>treat a patient according to the precept of your medical practice</strong>, you grant some useful knowledge or boon related to your medical domain. The GM will tell you what.</p></div>
+<div id="Stabilize"><h3 aid:pstyle="BasicMoveName">Stabilize</h3>
+<p aid:pstyle="NoIndent">When you <strong>use your medkit and call on your medical knowledge to save a life</strong>, roll+Wis. ✴On a 7+, so long as you continue to treat and use your medical supplies, no death may come within reach of you. ✴On a 10+, you also momentarily stabilize your patient and cause death to flee. Aggression breaks the effects and they are able to act as normal. Severe wounds may still find ways to harry you from afar. They're persistent like that.</p></div>
+<div id="PrepareSupplies"><h3 aid:pstyle="BasicMoveName">Prepare Supplies</h3>
+<p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet preparation of medical supplies</strong>, you:</p>
+<ul><li>Lose any supplies already granted to you.</li>
+<li>Are granted new supplies of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
+<li>Prepare all of your standard supplies, which never count against your limit.</li></ul></div>
+<div id="TreatWound"><h3 aid:pstyle="BasicMoveName">Treat Wound</h3>
+<p aid:pstyle="NoIndent">When you <strong>use medical supplies granted to you by your medical knowledge</strong>, roll+Wis. ✴On a 10+, the treatment is successfully applied and your medical knowledge does not revoke the supplies, so you may use them again. ✴On a 7–9, the treatment is applied, but choose one:</p>
+<ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
+<li>Your treatment distances you from your medical knowledge—take -1 ongoing to treat wounds until the next time you prepare supplies.</li>
+<li>After you use them, the supplies are revoked by your medical knowledge. You cannot use the supplies again until you prepare supplies and have them granted to you.</li></ul>
+<p aid:pstyle="NoIndent">Note that maintaining treatments with ongoing effects will sometimes cause a penalty to your roll to treat wounds.</p></div></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to save another's life.</p>
+<h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Endanger yourself following the precepts of your medical practice or the Emperor.</p>
+<h3 aid:pstyle="MoveName">Combat</h3>
+<p aid:pstyle="NoIndent">Save a life that should have been lost.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 10+Str. You carry rations (5 uses, 1 weight) and your medkit, describe it (0 weight). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Flak armor (1 armor, 1 weight)</li>
+<li aid:pstyle="Option">Carapace armor (2 armor, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose your armament:</p>
+<ul><li aid:pstyle="Option">Laspistol (near, 1 weight) and Catachan knife (close, 1 weight)</li>
+<li aid:pstyle="Option">Lascarbine (near, 1 weight) and field dressings (0 weight)</li>
+<li aid:pstyle="Option">Laspistol (near, 1 weight) and medkit (0 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Field gear (1 weight) and rations (5 uses, 1 weight)</li>
+<li aid:pstyle="Option">Advanced medkit (0 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ has been saved by my medical skills; I will keep them alive.</p>
+<p>_______________ is a good and loyal soldier; I trust them implicitly.</p>
+<p>_______________ is in constant danger, I will keep them safe.</p>
+<p>I am working on teaching _______________ basic first aid.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Specialized Knowledge</h3>
+<p aid:pstyle="NoIndent">Choose one medical treatment. You are granted that treatment as if it was one level lower.</p>
+<h3 aid:pstyle="MoveName">Invigorate</h3>
+<p aid:pstyle="NoIndent">When you <strong>heal someone</strong> they take +2 forward to their damage.</p>
+<h3 aid:pstyle="MoveName">The Scales of Life and Death</h3>
+<p aid:pstyle="NoIndent">When <strong>someone takes their last breath in your presence</strong>, they take +1 to the roll.</p>
+<h3 aid:pstyle="MoveName">Serenity</h3>
+<p aid:pstyle="NoIndent">When you treat wounds you ignore the first -1 penalty from ongoing treatments.</p>
+<h3 aid:pstyle="MoveName">First Aid</h3>
+<p aid:pstyle="NoIndent">Basic field treatment is a standard procedure for you, and therefore doesn't count against your limit of granted treatments.</p>
+<h3 aid:pstyle="MoveName">Emergency Response</h3>
+<p aid:pstyle="NoIndent">When you prepare supplies you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to use your medical knowledge, you intervene with an appropriate treatment (a quick injection, a pressure bandage, a stimulant) and negate the damage.</p>
+<h3 aid:pstyle="MoveName">Self-Sacrifice</h3>
+<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to treat wounds.</p>
+<h3 aid:pstyle="MoveName">Empower</h3>
+<p aid:pstyle="NoIndent">When you treat wounds, on a 10+ you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well:</p>
+<ul><li>The treatment's effects are doubled</li>
+<li>The treatment's targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Medical Intuition</h3>
+<p aid:pstyle="NoIndent">When you <strong>study a patient and use your medical knowledge for guidance</strong>, your medical knowledge tells you what it would have you do. If you do it, mark experience.</p>
+<h3 aid:pstyle="MoveName">Field Protection</h3>
+<p aid:pstyle="NoIndent">When you wear no armor you get 2 armor from your medical gear.</p>
+<h3 aid:pstyle="MoveName">Devoted Healer</h3>
+<p aid:pstyle="NoIndent">When you heal someone else of damage, add your level to the amount of damage healed.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
+<h3 aid:pstyle="MoveName">Master Medic</h3>
+<p aid:pstyle="Requirement">Requires: Specialized Knowledge</p>
+<p aid:pstyle="NoIndent">Choose one medical treatment in addition to the one you picked for specialized knowledge. You are granted that treatment as if it was one level lower.</p>
+<h3 aid:pstyle="MoveName">Jungle Doctor</h3>
+<p aid:pstyle="NoIndent">The first time you <strong>spend time studying jungle remedies as appropriate to your medical focus</strong> after taking this move, choose a feature associated with your medical knowledge (enhanced senses, steady hands, perfect memory, etc.). When you emerge from study, you permanently gain that physical feature.</p>
+<h3 aid:pstyle="MoveName">Reaper</h3>
+<p aid:pstyle="NoIndent">When you <strong>take time after a conflict to treat the wounded and deal with the dead</strong>, take +1 forward.</p>
+<h3 aid:pstyle="MoveName">Providence</h3>
+<p aid:pstyle="Requirement">Replaces: Serenity</p>
+<p aid:pstyle="NoIndent">You ignore the -1 penalty from two treatments you maintain.</p>
+<h3 aid:pstyle="MoveName">Greater First Aid</h3>
+<p aid:pstyle="Requirement">Requires: First Aid</p>
+<p aid:pstyle="NoIndent">Advanced field treatment is a standard procedure for you, and therefore doesn't count against your limit of granted treatments.</p>
+<h3 aid:pstyle="MoveName">Emergency Mastery</h3>
+<p aid:pstyle="Requirement">Replaces: Emergency Response</p>
+<p aid:pstyle="NoIndent">When you prepare supplies you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to use your medical knowledge, who intervenes with an appropriate treatment (a quick injection, a pressure bandage, a stimulant) and negates the damage.</p>
+<h3 aid:pstyle="MoveName">Martyr</h3>
+<p aid:pstyle="Requirement">Replaces: Self-Sacrifice</p>
+<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to treat wounds and add your level to any damage done or healed by the treatment.</p>
+<h3 aid:pstyle="MoveName">Field Armor</h3>
+<p aid:pstyle="Requirement">Replaces: Field Protection</p>
+<p aid:pstyle="NoIndent">When you wear no armor you get 3 armor from your medical gear.</p>
+<h3 aid:pstyle="MoveName">Greater Empower</h3>
+<p aid:pstyle="Requirement">Replaces: Empower</p>
+<p aid:pstyle="NoIndent">When you treat wounds, on a 10–11 you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well. On a 12+ you get to choose one of these effects for free.</p>
+<ul><li>The treatment's effects are doubled</li>
+<li>The treatment's targets are doubled</li></ul>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p></div></Body></Root>

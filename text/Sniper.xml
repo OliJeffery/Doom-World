@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Sniper</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You kill from the shadows. One shot. One kill. That's your way. While the others are fighting in the open, you're in the canopy, in the rocks, in the perfect position. You've learned to wait. To watch. To strike when the moment is right. You've learned that the best way to survive is to never be seen at all.</p>
+<p>Your lascarbine is an extension of your will. You know every creak, every whisper, every way it can kill. You've learned to read the wind, the light, the distance. You've learned to kill things that most men can't even see. You're the ghost in the jungle, the death that comes from nowhere.</p>
+<p>Take the shot. Make it count. The jungle is watching.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Watchful Eyes or Dead Eyes</p>
+<p aid:pstyle="NoIndent">Bandana, Shorn Hair, or Camouflage Paint</p>
+<p aid:pstyle="NoIndent">Camouflage Gear, Tattered Fatigues, or Light Armor</p>
+<p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 6+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Unseen Lurkers</h3>
+<p aid:pstyle="NoIndent">When you attack with a ranged weapon, deal +2 damage.</p>
+<h3 aid:pstyle="MoveName">Green Devils</h3>
+<p aid:pstyle="NoIndent">You are a professional. When you use jungle knowledge or read the signs about threats, take +1.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Threat Assessment</h3>
+<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you move through the area to ask these questions:</p>
+<ul><li>Is there a threat here and if so, what activates it?</li>
+<li>What does the threat do when activated?</li>
+<li>What else is hidden here?</li></ul>
+<h3 aid:pstyle="BasicMoveName">Marksman</h3>
+<p aid:pstyle="NoIndent">When you <strong>take aim at a target</strong>, roll+DEX. ✴On a 10+, you have a perfect shot—deal your damage. ✴On a 7–9, you still hit, but the GM will offer you two options between suspicion, danger, or cost.</p>
+<h3 aid:pstyle="BasicMoveName">Precision Shot</h3>
+<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
+<ul><li>You don't reveal your position</li>
+<li>You deal your damage+1d6</li>
+<li>You create an advantage, +1 forward to you or an ally acting on it</li>
+<li>Reduce their armor by 1 until they repair it</li></ul>
+<h3 aid:pstyle="BasicMoveName">Ghost</h3>
+<p aid:pstyle="NoIndent">When someone tries to detect your position you can tell them any position you like.</p>
+<h3 aid:pstyle="BasicMoveName">One Shot, One Kill</h3>
+<p aid:pstyle="NoIndent">You've mastered the art of the perfect shot. Choose a specialty from the list below; that specialty gives you +1 damage when used. You also start with three uses of specialized ammo for that specialty. Whenever you have time to craft and a safe place to work you can make three uses of specialized ammo for free.</p>
+<ul><li>Armor Piercing: Your shots ignore 2 armor</li>
+<li>Explosive: Your shots deal +1d4 damage in an area</li>
+<li>Incendiary: Your shots set targets on fire</li>
+<li>Hollow Point: Your shots deal +1d6 damage to unarmored targets</li></ul></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Combat</h3>
+<p aid:pstyle="NoIndent">Eliminate a high-value target.</p>
+<h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Avoid detection or eliminate a threat before it attacks.</p>
+<h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Complete a mission objective through precision and stealth.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 9+Str. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), 3 uses of your chosen specialized ammo, and 10 thrones. Choose your arms:</p>
+<ul><li aid:pstyle="Option">Catachan knife (hand, 1 weight) and lascarbine (near, 1 weight)</li>
+<li aid:pstyle="Option">Sniper rifle (far, precise, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
+<ul><li aid:pstyle="Option">3 throwing knives (thrown, near, 0 weight)</li>
+<li aid:pstyle="Option">Lascarbine (near, far, 2 weight) and power pack (3 ammo, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Field gear (1 weight)</li>
+<li aid:pstyle="Option">Medkit (0 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>I saved _______________ with a well-placed shot.</p>
+<p>_______________ has my back when things go wrong.</p>
+<p>_______________ knows my true kill count.</p>
+<p>_______________ and I work together as a team.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Precise Shot</h3>
+<p aid:pstyle="NoIndent">When using a precise or ranged weapon, your precision shot deals an extra +1d6 damage.</p>
+<h3 aid:pstyle="MoveName">Cautious</h3>
+<p aid:pstyle="NoIndent">When you use threat assessment you always get +1 hold, even on a 6-.</p>
+<h3 aid:pstyle="MoveName">Reputation</h3>
+<p aid:pstyle="NoIndent">When you <strong>make a show of your kill count or marksmanship</strong>, choose someone present. They will do anything they can to avoid being your target.</p>
+<h3 aid:pstyle="MoveName">Shoot First</h3>
+<p aid:pstyle="NoIndent">You're never caught by surprise. When an enemy would get the drop on you, you get to act first instead.</p>
+<h3 aid:pstyle="MoveName">Ammo Master</h3>
+<p aid:pstyle="NoIndent">After you've used a specialized ammo type once it's no longer dangerous for you to use.</p>
+<h3 aid:pstyle="MoveName">Specialized Load</h3>
+<p aid:pstyle="NoIndent">You can load even complex specialized ammo quickly. When you load specialized ammo that's not dangerous for you to use, it takes no extra time.</p>
+<h3 aid:pstyle="MoveName">Ammo Crafting</h3>
+<p aid:pstyle="NoIndent">When you have time to gather materials and a safe place to work you can create three rounds of any one specialized ammo you've used before.</p>
+<h3 aid:pstyle="MoveName">Hard to Hit</h3>
+<p aid:pstyle="NoIndent">When you're in cover, you have +1 armor.</p>
+<h3 aid:pstyle="MoveName">Connections</h3>
+<p aid:pstyle="NoIndent">When you put out word to other snipers or scouts about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
+<h3 aid:pstyle="MoveName">Master Marksman</h3>
+<p aid:pstyle="Requirement">Replaces: Precise Shot</p>
+<p aid:pstyle="NoIndent">When using a precise or ranged weapon, your precision shot deals an extra +1d8 damage and all other attacks deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Extremely Cautious</h3>
+<p aid:pstyle="Requirement">Replaces: Cautious</p>
+<p aid:pstyle="NoIndent">When you use threat assessment you always get +1 hold, even on a 6-. On a 12+ you get 3 hold and the next time you come near a threat the GM will immediately tell you what it does, what triggers it, who set it, and how you can use it to your advantage.</p>
+<h3 aid:pstyle="MoveName">Master Craftsman</h3>
+<p aid:pstyle="Requirement">Replaces: Ammo Crafting</p>
+<p aid:pstyle="NoIndent">When you have time to gather materials and a safe place to work you can create three rounds of any specialized ammo you've used before. Alternately you can describe the effects of specialized ammo you'd like to create. The GM will tell you that you can create it, but with one or more caveats:</p>
+<ul><li>It will only work under specific circumstances</li>
+<li>The best you can manage is a weaker version</li>
+<li>It'll take a while to take effect</li>
+<li>It'll have obvious side effects</li></ul>
+<h3 aid:pstyle="MoveName">Harder to Hit</h3>
+<p aid:pstyle="Requirement">Replaces: Hard to Hit</p>
+<p aid:pstyle="NoIndent">You have +1 armor. When you're in cover, you have +2 armor instead.</p>
+<h3 aid:pstyle="MoveName">Ghost</h3>
+<p aid:pstyle="NoIndent">When you defy danger on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
+<h3 aid:pstyle="MoveName">Perfect Shot</h3>
+<p aid:pstyle="NoIndent">You can make impossible shots. When you take aim, you can choose to ignore cover, range, or other obstacles. A perfect shot costs extra ammo; you can never choose to reduce ammo on a 7–9.</p>
+<h3 aid:pstyle="MoveName">Escape Route</h3>
+<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<h3 aid:pstyle="MoveName">Camouflage</h3>
+<p aid:pstyle="NoIndent">When you have time and materials you can create camouflage that will fool anyone into thinking you're part of the environment. Your actions can give you away but your appearance won't.</p>
+<h3 aid:pstyle="MoveName">Assassination</h3>
+<p aid:pstyle="NoIndent">When you take time to make a plan to eliminate a target, name the target you want to kill and ask the GM these questions. When acting on the answers you and your allies take +1 forward.</p>
+<ul><li>Who will notice they're dead?</li>
+<li>What's their most powerful defense?</li>
+<li>Who will come after you?</li>
+<li>Who else wants them dead?</li></ul></div></Body></Root>

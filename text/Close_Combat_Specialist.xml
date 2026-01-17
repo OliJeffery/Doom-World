@@ -3,7 +3,7 @@
 <h1>The Close Combat Specialist</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">It's a thankless job—living day to day by your knife and the skill of your arm. To dive heedlessly into danger. They won't be playing golden horns for the time you took that Catachan Devil's claw to the ribs for them. No flock of angels to sing of the time you dragged them, still screaming, from the jaws of a death-spider, no.</p>
 <p>Forget them.</p>
-<p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your squad may carry lasguns and heavy weapons but, close combat specialist, you are the knife. While your squadmates might moan about their wounds over a bivouac in the jungle, you bear your scars with pride.</p>
+<p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your squad may carry lasguns and heavy weapons but, close combat specialist, you are the chainsword. While your squadmates might moan about their wounds over a bivouac in the jungle, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you'll be the last one standing.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
@@ -35,24 +35,24 @@
 <li>You can fix the thing again without a lot of effort</li></ul>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
-<h3 aid:pstyle="BasicMoveName">Catachan Knife</h3>
-<p aid:pstyle="NoIndent">This is your knife. There are many like it, but this one is yours. Your knife is your best friend. It is your life. You master it as you master your life. Your knife, without you, is useless. Without your knife, you are useless. You must wield your knife true.</p>
-<p>Choose a base description, all are 1 weight:</p>
-<ul><li aid:pstyle="Option">Standard Catachan Knife</li>
-<li aid:pstyle="Option">Combat Blade</li>
-<li aid:pstyle="Option">Machete</li>
-<li aid:pstyle="Option">Bayonet</li>
+<h3 aid:pstyle="BasicMoveName">Chainsword</h3>
+<p aid:pstyle="NoIndent">This is your chainsword. There are many like it, but this one is yours. Your chainsword is your best friend. It is your life. You master it as you master your life. Your chainsword, without you, is useless. Without your chainsword, you are useless. You must wield your chainsword true.</p>
+<p>Choose a base description, all are 2 weight:</p>
+<ul><li aid:pstyle="Option">Standard Chainsword</li>
+<li aid:pstyle="Option">Eviscerator</li>
+<li aid:pstyle="Option">Combat Chainsword</li>
+<li aid:pstyle="Option">Power Chainsword</li>
 <li aid:pstyle="Option">Fists</li></ul>
 <p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
 <ul><li aid:pstyle="Option">Hand</li>
 <li aid:pstyle="Option">Close</li>
 <li aid:pstyle="Option">Reach</li></ul>
 <p aid:pstyle="NoIndent">Choose two enhancements:</p>
-<ul><li aid:pstyle="Option">Serrated edge. +1 damage.</li>
-<li aid:pstyle="Option">Razor sharp. +2 piercing.</li>
+<ul><li aid:pstyle="Option">Reinforced teeth. +1 damage.</li>
+<li aid:pstyle="Option">Power field. +2 piercing.</li>
 <li aid:pstyle="Option">Perfectly balanced. Add precise.</li>
-<li aid:pstyle="Option">Heavy blade. +1 damage, but +1 weight.</li>
-<li aid:pstyle="Option">Camouflaged. Harder to spot when sheathed.</li>
+<li aid:pstyle="Option">Heavy chain. +1 damage, but +1 weight.</li>
+<li aid:pstyle="Option">Well-oiled. Quieter operation.</li>
 <li aid:pstyle="Option">Large. Add messy and forceful.</li>
 <li aid:pstyle="Option">Versatile. Choose an additional range.</li>
 <li aid:pstyle="Option">Well-maintained. -1 weight.</li></ul>
@@ -71,7 +71,7 @@
 <h3 aid:pstyle="MoveName">Duty</h3>
 <p aid:pstyle="NoIndent">Complete a mission objective.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You carry your Catachan knife and rations (5 uses, 1 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You carry your chainsword and rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Flak armor (1 armor, 1 weight) and field gear (1 weight)</li>
 <li aid:pstyle="Option">Carapace armor (2 armor, 3 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose two:</p>

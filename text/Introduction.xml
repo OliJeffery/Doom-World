@@ -11,18 +11,14 @@
 <p aid:pstyle="NoIndent">You move like a ghost through the jungle. While the others crash through the undergrowth like grox in a china shop, you're already ahead, reading the signs, spotting the ambushes before they happen. You've spent more time alone in the deep jungle than most men have spent breathing. You know which plants will kill you, which animals are hunting, and which shadows are just shadows.</p>
 <p>Your squad relies on you. Without your eyes, they'd walk into a Catachan Devil's nest. Without your ears, they'd miss the sound of something big moving in the canopy. Without your instincts, they'd all be dead. You're the one who finds the safe paths, the clean water, the high ground. You're the one who keeps them alive.</p>
 <p>Keep moving. Keep watching. The jungle never sleeps.</p>
-<h2>The Commissar</h2>
-<p aid:pstyle="NoIndent">Discipline. Duty. The God-Emperor's will. These are the things that keep men alive on Catachan. Not luck. Not skill. Discipline. You've seen what happens to squads that lose their nerve. You've seen what happens when men break. You've put bullets in the heads of cowards and traitors, and you'll do it again if you have to.</p>
-<p>Your squad may not like you. They may fear you. But they'll follow you. Because you're the one who reminds them why they're here. You're the one who keeps them focused when the jungle tries to break them. You're the one who makes sure they remember: they are Catachan. They are the deadliest soldiers in the galaxy. And they will not break.</p>
-<p>Maintain order. Enforce discipline. Serve the Emperor.</p>
-<h2>The Veteran</h2>
+<h2>The Field Medic</h2>
+<p aid:pstyle="NoIndent">On Catachan, death comes in a thousand forms. Poison. Disease. Wounds that won't heal. You've seen men die from scratches. You've seen men survive wounds that should have killed them instantly. You know which plants can save a life and which will end it. You know how to treat a man who's been stung by a death-spider, bitten by a venom-snake, or infected with jungle rot.</p>
+<p>Your squad trusts you with their lives. Literally. When they're bleeding out, when the poison is spreading, when the fever is burning them alive, you're the one who saves them. You're the one who keeps them fighting when their bodies want to give up. You're the difference between life and death.</p>
+<p>Save who you can. Learn from the ones you can't. The jungle teaches harsh lessons.</p>
+<h2>The Sergeant</h2>
 <p aid:pstyle="NoIndent">You've been fighting on Catachan longer than most of your squad has been alive. You've seen it all. The ambushes. The traps. The things that come out of the dark. You've lost more friends than you can count. You've got more scars than you have clean skin. And you're still here.</p>
 <p>Experience is the only teacher that matters on a Death World. You've learned the hard way what works and what gets you killed. Your squad looks to you for wisdom, for leadership, for the knowledge that only comes from surviving when you shouldn't have. You've forgotten more about jungle warfare than most men will ever learn.</p>
 <p>Pass on what you know. Keep them alive. That's your duty now.</p>
-<h2>The Heavy Weapons Specialist</h2>
-<p aid:pstyle="NoIndent">When something big comes out of the jungle, something that won't die to a lasgun, that's when they call for you. You carry the heavy weapons. The flamers that burn the jungle back. The heavy bolters that can punch through chitin and scale. The weapons that turn monsters into paste.</p>
-<p>You're not fast. You're not quiet. But when the Catachan Devils come, when the giant scorpions attack, when something that shouldn't exist tries to eat your squad, you're the one who makes it regret that decision. You're the wall of fire and lead that stands between your squad and the things that want to kill them.</p>
-<p>Lock and load. Make every shot count. The jungle is full of targets.</p>
 <h2>The Medic</h2>
 <p aid:pstyle="NoIndent">On Catachan, death comes in a thousand forms. Poison. Disease. Wounds that won't heal. You've seen men die from scratches. You've seen men survive wounds that should have killed them instantly. You know which plants can save a life and which will end it. You know how to treat a man who's been stung by a death-spider, bitten by a venom-snake, or infected with jungle rot.</p>
 <p>Your squad trusts you with their lives. Literally. When they're bleeding out, when the poison is spreading, when the fever is burning them alive, you're the one who saves them. You're the one who keeps them fighting when their bodies want to give up. You're the difference between life and death.</p>
@@ -32,8 +28,8 @@
 <p>Your lascarbine is an extension of your will. You know every creak, every whisper, every way it can kill. You've learned to read the wind, the light, the distance. You've learned to kill things that most men can't even see. You're the ghost in the jungle, the death that comes from nowhere.</p>
 <p>Take the shot. Make it count. The jungle is watching.</p>
 <h2>The Close Combat Specialist</h2>
-<p aid:pstyle="NoIndent">Your Catachan knife is your best friend. You've killed more things with it than you have with your lasgun. When the fighting gets close, when the jungle closes in, when there's no room to shoot, that's when you shine. You've learned to fight in the dark, in the mud, in places where most men would die.</p>
-<p>You're not afraid of close combat. You welcome it. You've learned that sometimes the best way to kill something is to get close enough to smell its breath. You've learned that a knife in the right place can kill things that bullets can't. You're the one who charges when others retreat, who fights when others run.</p>
+<p aid:pstyle="NoIndent">Your chainsword is your best friend. You've killed more things with it than you have with your lasgun. When the fighting gets close, when the jungle closes in, when there's no room to shoot, that's when you shine. You've learned to fight in the dark, in the mud, in places where most men would die.</p>
+<p>You're not afraid of close combat. You welcome it. You've learned that sometimes the best way to kill something is to get close enough to smell its breath. You've learned that a chainsword in the right place can kill things that bullets can't. You're the one who charges when others retreat, who fights when others run.</p>
 <p>Get close. Get bloody. The jungle respects strength.</p>
 <h2>The Tech-Priest</h2>
 <p aid:pstyle="NoIndent">The jungle hates technology. The humidity rusts metal. The plants grow over machinery. The animals chew through cables. But you understand the machine-spirit. You know how to keep the weapons working when they shouldn't. You know how to repair the vox when it breaks. You know how to make the equipment last longer than it has any right to.</p>

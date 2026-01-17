@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Heavy Weapons Specialist</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">When something big comes out of the jungle, something that won't die to a lasgun, that's when they call for you. You carry the heavy weapons. The flamers that burn the jungle back. The heavy bolters that can punch through chitin and scale. The weapons that turn monsters into paste.</p>
+<p>You're not fast. You're not quiet. But when the Catachan Devils come, when the giant scorpions attack, when something that shouldn't exist tries to eat your squad, you're the one who makes it regret that decision. You're the wall of fire and lead that stands between your squad and the things that want to kill them.</p>
+<p>Lock and load. Make every shot count. The jungle is full of targets.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Watchful Eyes</p>
+<p aid:pstyle="NoIndent">Helmet, Shorn Hair, or Bandana</p>
+<p aid:pstyle="NoIndent">Heavy Weapons Harness or Standard Gear</p>
+<p aid:pstyle="NoIndent">Built Body, Bulky Body, or Scarred Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are Catachan, so you get this move.</p>
+<h3 aid:pstyle="MoveName">Catachan</h3>
+<p aid:pstyle="NoIndent">When you <strong>survey the battlefield, even for a moment, and ask, "What here is the biggest threat?"</strong> the GM will tell you, honestly.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Suppressing Fire (Cha)</h3>
+<p aid:pstyle="NoIndent">When you <strong>lay down covering fire to protect an ally</strong>, roll+CHA. ✴On a 10+ you grant them +1 armor or remove one threat. ✴On a 7–9, they are protected, but you draw the threat to yourself.</p>
+<h3 aid:pstyle="BasicMoveName">Armored</h3>
+<p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
+<h3 aid:pstyle="BasicMoveName">Heavy Weapon</h3>
+<p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
+<p>Choose a base description, all are 3 weight:</p>
+<ul><li aid:pstyle="Option">Heavy Bolter</li>
+<li aid:pstyle="Option">Flamer</li>
+<li aid:pstyle="Option">Grenade Launcher</li>
+<li aid:pstyle="Option">Multi-Melta</li>
+<li aid:pstyle="Option">Autocannon</li></ul>
+<p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
+<ul><li aid:pstyle="Option">Near</li>
+<li aid:pstyle="Option">Far</li>
+<li aid:pstyle="Option">Near and Far</li></ul>
+<p aid:pstyle="NoIndent">Choose two enhancements:</p>
+<ul><li aid:pstyle="Option">High-capacity magazine. +3 ammo.</li>
+<li aid:pstyle="Option">Armor-piercing rounds. +2 piercing.</li>
+<li aid:pstyle="Option">Stabilized mount. Add precise.</li>
+<li aid:pstyle="Option">Overcharged. +1 damage, but +1 weight.</li>
+<li aid:pstyle="Option">Area effect. Deal damage to multiple targets.</li>
+<li aid:pstyle="Option">Incendiary. Sets targets on fire.</li>
+<li aid:pstyle="Option">Rapid fire. Can fire multiple shots per turn.</li>
+<li aid:pstyle="Option">Well-maintained. -1 weight.</li></ul>
+<p aid:pstyle="NoIndent">Choose a look:</p>
+<ul><li aid:pstyle="Option">Worn</li>
+<li aid:pstyle="Option">Pristine</li>
+<li aid:pstyle="Option">Decorated</li>
+<li aid:pstyle="Option">Blood-stained</li>
+<li aid:pstyle="Option">Sinister</li></ul>
+<h3 aid:pstyle="BasicMoveName">I Am the Wall</h3>
+<p aid:pstyle="NoIndent">When you <strong>give an order based on your heavy weapons support</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
+<ul><li>Do what you say</li>
+<li>Back away cautiously, then flee</li>
+<li>Attack you</li></ul>
+<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p></div></div>
+<h2>Duty</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Duty</h3>
+<p aid:pstyle="NoIndent">Eliminate a high-value target with heavy weapons.</p>
+<h3 aid:pstyle="MoveName">Survival</h3>
+<p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you with covering fire.</p>
+<h3 aid:pstyle="MoveName">Combat</h3>
+<p aid:pstyle="NoIndent">Destroy a threat that normal weapons can't harm.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and your heavy weapon. Choose your secondary weapon:</p>
+<ul><li aid:pstyle="Option">Lascarbine (near, 1 weight)</li>
+<li aid:pstyle="Option">Laspistol (near, 1 weight) and Catachan knife (close, 1 weight)</li>
+<li aid:pstyle="Option">Chainsword (close, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Field gear (1 weight)</li>
+<li aid:pstyle="Option">Rations (1 weight) and medkit (0 weight)</li>
+<li aid:pstyle="Option">Extra ammo (3 ammo, 1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________'s reckless behavior endangers the whole squad!</p>
+<p>_______________ has stood by me in battle and can be trusted completely.</p>
+<p>I respect the skills of _______________ but hope they will someday see the value of heavy weapons.</p>
+<p>_______________ is a brave soul, I have much to learn from them.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Merciless</h3>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Area Denial</h3>
+<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must defy danger to enter that area. ✴On a 10+, they can't enter at all. ✴On a 7-9, they can enter but take damage.</p>
+<h3 aid:pstyle="MoveName">Armor Mastery</h3>
+<p aid:pstyle="NoIndent">When you <strong>make your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
+<h3 aid:pstyle="MoveName">Improved Weapon</h3>
+<p aid:pstyle="NoIndent">Choose one extra enhancement for your heavy weapon.</p>
+<h3 aid:pstyle="MoveName">Target Priority</h3>
+<p aid:pstyle="NoIndent">When you read the signs during combat, you take +1.</p>
+<h3 aid:pstyle="MoveName">Sustained Fire</h3>
+<p aid:pstyle="NoIndent">When you <strong>keep firing at the same target</strong>, your next attack against that target deals +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Iron Hide</h3>
+<p aid:pstyle="NoIndent">You gain +1 armor.</p>
+<h3 aid:pstyle="MoveName">Weapon Master</h3>
+<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can upgrade your heavy weapon. Choose one enhancement to add permanently.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">Bloodthirsty</h3>
+<p aid:pstyle="Requirement">Replaces: Merciless</p>
+<p aid:pstyle="NoIndent">When you deal damage, deal +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Kill Zone</h3>
+<p aid:pstyle="Requirement">Replaces: Area Denial</p>
+<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must defy danger to enter that area. ✴On a 10+, they can't enter at all and take damage if they try. ✴On a 7-9, they can enter but take damage.</p>
+<h3 aid:pstyle="MoveName">Armored Perfection</h3>
+<p aid:pstyle="Requirement">Replaces: Armor Mastery</p>
+<p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
+<h3 aid:pstyle="MoveName">Perfect Target</h3>
+<p aid:pstyle="Requirement">Replaces: Target Priority</p>
+<p aid:pstyle="NoIndent">When you read the signs during combat, you take +2 and can ask an additional question.</p>
+<h3 aid:pstyle="MoveName">Sustained Barrage</h3>
+<p aid:pstyle="Requirement">Replaces: Sustained Fire</p>
+<p aid:pstyle="NoIndent">When you <strong>keep firing at the same target</strong>, your next attack against that target deals +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
+<p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
+<p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Steel Hide</h3>
+<p aid:pstyle="Requirement">Replaces: Iron Hide</p>
+<p aid:pstyle="NoIndent">You gain +2 armor.</p>
+<h3 aid:pstyle="MoveName">Master Craftsman</h3>
+<p aid:pstyle="Requirement">Replaces: Weapon Master</p>
+<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can upgrade your heavy weapon. Choose two enhancements to add permanently.</p>
+<h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.</p>
+<h3 aid:pstyle="MoveName">Eye for Targets</h3>
+<p aid:pstyle="NoIndent">When you look over an enemy's defenses, ask the GM how much armor they have.</p>
+<h3 aid:pstyle="MoveName">Superior Firepower</h3>
+<p aid:pstyle="NoIndent">When you take aim on a 12+ you deal your damage, avoid their attack, and suppress, dismay, or frighten your enemy.</p></div></Body></Root>
