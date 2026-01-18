@@ -36,7 +36,7 @@
 <p aid:pstyle="Example">Tracking, Survival, Navigation, Stealth, Threat Detection</p>
 <p aid:pstyle="NoIndent">Choose a base:</p>
 <ul><li>Alertness +2, Instinct +1, +1 to Read the Signs</li>
-<li>Alertness +2, Instinct +2, +1 to Defy Danger</li>
+<li>Alertness +2, Instinct +2, +1 to Press On</li>
 <li>Alertness +1, Instinct +2, +1 to Read the Signs</li>
 <li>Alertness +3, Instinct +1, +1 to Hunt and Track</li></ul>
 <p aid:pstyle="NoIndent">Choose as many strengths as your alertness:</p>
@@ -90,7 +90,7 @@
 <h3 aid:pstyle="MoveName">Take the Hit</h3>
 <p aid:pstyle="NoIndent">When you <strong>use your jungle sense to take a blow that was meant for an ally</strong>, the damage is negated but your alertness becomes 0. If your alertness is already 0 you can't use this ability. When you have a few hours of rest your alertness returns to normal.</p>
 <h3 aid:pstyle="MoveName">Suppressing Fire</h3>
-<p aid:pstyle="NoIndent">When you take aim you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
+<p aid:pstyle="NoIndent">When you use Ranged Combat you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
 <h3 aid:pstyle="MoveName">Well-Trained</h3>
 <p aid:pstyle="NoIndent">Choose another training for your jungle sense.</p>
 <h3 aid:pstyle="MoveName">Veteran Scout</h3>

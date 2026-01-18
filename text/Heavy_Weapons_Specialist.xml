@@ -85,7 +85,7 @@
 <h3 aid:pstyle="MoveName">Merciless</h3>
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Area Denial</h3>
-<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must defy danger to enter that area. ✴On a 10+, they can't enter at all. ✴On a 7-9, they can enter but take damage.</p>
+<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must press on to enter that area. ✴On a 10+, they can't enter at all. ✴On a 7-9, they can enter but take damage.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>make your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Improved Weapon</h3>
@@ -106,7 +106,7 @@
 <p aid:pstyle="NoIndent">When you deal damage, deal +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Kill Zone</h3>
 <p aid:pstyle="Requirement">Replaces: Area Denial</p>
-<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must defy danger to enter that area. ✴On a 10+, they can't enter at all and take damage if they try. ✴On a 7-9, they can enter but take damage.</p>
+<p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must press on to enter that area. ✴On a 10+, they can't enter at all and take damage if they try. ✴On a 7-9, they can enter but take damage.</p>
 <h3 aid:pstyle="MoveName">Armored Perfection</h3>
 <p aid:pstyle="Requirement">Replaces: Armor Mastery</p>
 <p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
@@ -130,6 +130,6 @@
 <h3 aid:pstyle="MoveName">Eye for Targets</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's defenses, ask the GM how much armor they have.</p>
 <h3 aid:pstyle="MoveName">Superior Firepower</h3>
-<p aid:pstyle="NoIndent">When you take aim on a 12+ you deal your damage, avoid their attack, and suppress, dismay, or frighten your enemy.</p>
+<p aid:pstyle="NoIndent">When you use Ranged Combat on a 12+ you deal your damage, avoid their attack, and suppress, dismay, or frighten your enemy.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you unleash everything your heavy weapon has left in a final, apocalyptic barrage. You may target every enemy in sight with devastating firepower. Roll+Cha. ✴On a 10+, you deal your damage+3d12 to all enemies in sight, ignoring all armor. The area becomes a permanent kill zone—enemies must defy danger at -2 to enter it, and those who fail take your damage+1d10. All allies take +2 forward and +2 armor for the rest of the battle. Your final barrage creates a legend—the battlefield is permanently scarred, and future enemies who hear of it take -1 ongoing. ✴On a 7-9, you deal your damage+2d10 to all enemies, ignoring armor. The area becomes a kill zone for the rest of the battle. All allies take +1 forward and +1 armor. ✴On a miss, your weapon overheats and explodes in a cataclysmic blast, dealing your damage+2d10 to all nearby enemies and creating a permanent barrier of fire and wreckage that blocks all movement. Your final stand becomes a legend, and your squad takes +2 forward and +1 armor for the rest of the battle. Your sacrifice ensures the mission succeeds.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you unleash everything your heavy weapon has left in a final, apocalyptic barrage. You may target every enemy in sight with devastating firepower. Roll+Cha. ✴On a 10+, you deal your damage+3d12 to all enemies in sight, ignoring all armor. The area becomes a permanent kill zone—enemies must press on at -2 to enter it, and those who fail take your damage+1d10. All allies take +2 forward and +2 armor for the rest of the battle. Your final barrage creates a legend—the battlefield is permanently scarred, and future enemies who hear of it take -1 ongoing. ✴On a 7-9, you deal your damage+2d10 to all enemies, ignoring armor. The area becomes a kill zone for the rest of the battle. All allies take +1 forward and +1 armor. ✴On a miss, your weapon overheats and explodes in a cataclysmic blast, dealing your damage+2d10 to all nearby enemies and creating a permanent barrier of fire and wreckage that blocks all movement. Your final stand becomes a legend, and your squad takes +2 forward and +1 armor for the rest of the battle. Your sacrifice ensures the mission succeeds.</p></div></Body></Root>

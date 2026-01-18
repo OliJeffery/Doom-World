@@ -23,7 +23,7 @@
 <h3 aid:pstyle="MoveName">Unseen Lurkers</h3>
 <p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the precise tag.</p>
 <h3 aid:pstyle="MoveName">Spire Hunters</h3>
-<p aid:pstyle="NoIndent">When you defy danger and <strong>use your small size to your advantage</strong>, take +1.</p>
+<p aid:pstyle="NoIndent">When you press on and <strong>use your small size to your advantage</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Savage Jaguars</h3>
 <p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else's).</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
@@ -100,7 +100,7 @@
 <h3 aid:pstyle="MoveName">Interrogator</h3>
 <p aid:pstyle="NoIndent">When you <strong>parley using threats of impending violence as leverage</strong>, you may use STR instead of CHA.</p>
 <h3 aid:pstyle="MoveName">Scent of Blood</h3>
-<p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
+<p aid:pstyle="NoIndent">When you engage in melee combat with an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
@@ -119,7 +119,7 @@
 <p aid:pstyle="NoIndent">When you <strong>enter combat</strong>, roll+CHA. ✴On a 10+, hold 2. ✴On a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. ✴On a 6-, your enemies immediately identify you as their biggest threat.</p>
 <h3 aid:pstyle="MoveName">Taste of Blood</h3>
 <p aid:pstyle="Requirement">Replaces: Scent of Blood</p>
-<p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d8 damage.</p>
+<p aid:pstyle="NoIndent">When you engage in melee combat with an enemy, your next attack against that same foe deals +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
 <p aid:pstyle="Requirement">Requires: Multiclass Dabbler</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
@@ -131,6 +131,6 @@
 <h3 aid:pstyle="MoveName">Eye for Weaponry</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy’s weaponry, ask the GM how much damage they do.</p>
 <h3 aid:pstyle="MoveName">Superior Warrior</h3>
-<p aid:pstyle="NoIndent">When you hack and slash on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p>
+<p aid:pstyle="NoIndent">When you engage in melee combat on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, your chainsword becomes an extension of your final will. You may make one last attack against any enemy you can see, or charge through multiple enemies in a final rampage. Roll+Str. ✴On a 10+, you deal your damage+3d12 to your primary target, ignoring all armor. The enemy is utterly destroyed. You may also deal your damage+2d10 to up to three additional enemies in your path, ignoring armor. All allies take +2 forward and +1 armor for the rest of the battle. Your chainsword's final roar becomes a legend—enemies within earshot must defy danger or flee. ✴On a 7-9, you deal your damage+2d10 to your target, ignoring armor, and your damage+1d10 to one additional enemy. All allies take +1 forward for the rest of the battle. ✴On a miss, you still deal your damage+1d10 to your target, ignoring armor. Your final strike becomes a legend that inspires your allies—they all take +2 forward and +1 armor for the rest of the battle. Your death is remembered, and your chainsword's final roar echoes across Catachan, granting all future Close Combat Specialists +1 forward when they enter combat.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, your chainsword becomes an extension of your final will. You may make one last attack against any enemy you can see, or charge through multiple enemies in a final rampage. Roll+Str. ✴On a 10+, you deal your damage+3d12 to your primary target, ignoring all armor. The enemy is utterly destroyed. You may also deal your damage+2d10 to up to three additional enemies in your path, ignoring armor. All allies take +2 forward and +1 armor for the rest of the battle. Your chainsword's final roar becomes a legend—enemies within earshot must press on or flee. ✴On a 7-9, you deal your damage+2d10 to your target, ignoring armor, and your damage+1d10 to one additional enemy. All allies take +1 forward for the rest of the battle. ✴On a miss, you still deal your damage+1d10 to your target, ignoring armor. Your final strike becomes a legend that inspires your allies—they all take +2 forward and +1 armor for the rest of the battle. Your death is remembered, and your chainsword's final roar echoes across Catachan, granting all future Close Combat Specialists +1 forward when they enter combat.</p></div></Body></Root>

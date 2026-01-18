@@ -3,12 +3,12 @@
 <h1>Basic Moves</h1>
 <Story><h2 aid:pstyle="BasicMoveName">Close Combat</h2>
 <p aid:pstyle="NoIndent">When you <strong>attack an enemy in melee</strong>, roll+Str. On a 10+ you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.</p>
-<h2 aid:pstyle="BasicMoveName">Take Aim</h2>
-<p aid:pstyle="NoIndent">When you <strong>take aim and shoot at an enemy at range</strong>, roll+Dex. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one (whichever you choose you deal your damage):</p>
+<h2 aid:pstyle="BasicMoveName">Ranged Combat</h2>
+<p aid:pstyle="NoIndent">When you <strong>attack an enemy at range</strong>, roll+Dex. On a 10+ you have a clear shot—deal your damage. On a 7–9, choose one (whichever you choose you deal your damage):</p>
 <ul><li>You have to move to get the shot placing you in danger of the GM's choice</li>
 <li>You have to take what you can get: -1d6 damage</li>
 <li>You have to take several shots, reducing your ammo by one.</li></ul>
-<h2 aid:pstyle="BasicMoveName">Defy Danger</h2>
+<h2 aid:pstyle="BasicMoveName">Press On</h2>
 <p aid:pstyle="NoIndent">When you <strong>act despite an imminent threat</strong> or <strong>suffer a calamity</strong>, when the darkness closes in and death itself reaches for you, say how you deal with it and roll. If you do it…</p>
 <ul><li>…by powering through, +Str</li>
 <li>…by getting out of the way or acting fast, +Dex</li>
@@ -16,7 +16,7 @@
 <li>…with quick thinking, +Int</li>
 <li>…through mental fortitude, +Wis</li>
 <li>…using charm and social grace, +Cha</li></ul>
-<p aid:pstyle="NoIndent">On a 10+, you do what you set out to, the threat does not come to bear, the Emperor's grace shining through the darkness. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice, for on Catachan, even success comes at a price.</p>
+<p aid:pstyle="NoIndent">On a 10+, you do what you set out to, the threat does not come to bear. On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice, for on Catachan, even success comes at a price.</p>
 <h2 aid:pstyle="BasicMoveName">Cover Fire</h2>
 <p aid:pstyle="NoIndent">When you <strong>stand in defense of a person, item, or location</strong> under attack, when you become the wall between your squad and the darkness that hungers for their souls, roll+Con. On a 10+, hold 3. On a 7–9, hold 1. So long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:</p>
 <ul><li>Redirect an attack from the thing you defend to yourself</li>
@@ -51,7 +51,7 @@
 <h2 aid:pstyle="BasicMoveName">Stand Watch</h2>
 <p aid:pstyle="NoIndent">When <strong>you're on watch and something approaches the bivouac</strong> roll+Wis. On a 10+ you're able to wake the squad and prepare a response, the squad takes +1 forward. On a 7–9 you react just a moment too late; the squad is awake but hasn't had time to prepare. You have weapons and armor but little else. On a miss whatever lurks outside the perimeter has the drop on you.</p>
 <h2 aid:pstyle="BasicMoveName">Navigate the Jungle</h2>
-<p aid:pstyle="NoIndent">When you <strong>travel through hostile territory</strong>, choose one member of the squad to act as trailblazer, one to scout ahead, and one to be quartermaster (the same character cannot have two jobs). If you don't have enough squad members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+Wis. On a 10+ the quartermaster reduces the number of rations required by one. On a 10+ the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much). On a 10+ the scout will spot any trouble quick enough to let you get the drop on it. On a 7–9 each role performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</p>
+<p aid:pstyle="NoIndent">When you <strong>travel through hostile territory</strong>, choose one member of the squad to act as <em>trailblazer</em>, one to <em>scout</em> ahead, and one to be <em>quartermaster</em> (the same character cannot have two jobs). If you don't have enough squad members or choose not to assign a job, treat that job as if it had rolled a 6. Each character with a job to do rolls+Wis. On a 10+ the <em>quartermaster</em> reduces the number of rations required by one. On a 10+ the <em>trailblazer</em> reduces the amount of time it takes to reach your destination (the GM will say by how much). On a 10+ the <em>scout</em> will spot any trouble quick enough to let you get the drop on it. On a 7–9 each role performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don't get the drop on them either.</p>
 <h2 aid:pstyle="BasicMoveName">Level Up</h2>
 <p aid:pstyle="NoIndent">When you <strong>have downtime (hours or days) and XP equal to (or greater than) your current level + 7</strong>, subtract your current level +7 from your XP, increase your level by 1, and choose a new advanced move from your specialization.</p>
 <p>Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Constitution increases your maximum and current HP. Ability scores can't go higher than 18.</p>
@@ -62,8 +62,8 @@
 <li>Did we overcome a notable threat or complete a mission objective?</li>
 <li>Did we survive something that should have killed us?</li></ul>
 <p>For each "yes" answer everyone marks XP.</p></Story>
-<Story><h2 aid:pstyle="BasicMoveName">Celebrate</h2>
-<p aid:pstyle="NoIndent">When you <strong>return triumphant and throw a big celebration</strong>, spend resources and roll + extra resources spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss, you still choose one, but things get really out of hand.</p>
+<Story><h2 aid:pstyle="BasicMoveName">Debrief</h2>
+<p aid:pstyle="NoIndent">When you <strong>return from a mission and report to command</strong>, spend resources and roll + extra resources spent. On a 10+ choose 3. On a 7–9 choose 1. On a miss, you still choose one, but things get complicated.</p>
 <ul><li>You befriend a useful NPC</li>
 <li>You hear rumors of a new mission</li>
 <li>You gain useful information</li>

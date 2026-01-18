@@ -28,7 +28,7 @@
 <li>What does the threat do when activated?</li>
 <li>What else is hidden here?</li></ul>
 <h3 aid:pstyle="BasicMoveName">Marksman</h3>
-<p aid:pstyle="NoIndent">When you <strong>take aim at a target</strong>, roll+DEX. ✴On a 10+, you have a perfect shot—deal your damage. ✴On a 7–9, you still hit, but the GM will offer you two options between suspicion, danger, or cost.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a target at range</strong>, roll+DEX. ✴On a 10+, you have a perfect shot—deal your damage. ✴On a 7–9, you still hit, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Precision Shot</h3>
 <p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
 <ul><li>You don't reveal your position</li>
@@ -105,9 +105,9 @@
 <p aid:pstyle="Requirement">Replaces: Hard to Hit</p>
 <p aid:pstyle="NoIndent">You have +1 armor. When you're in cover, you have +2 armor instead.</p>
 <h3 aid:pstyle="MoveName">Ghost</h3>
-<p aid:pstyle="NoIndent">When you defy danger on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
+<p aid:pstyle="NoIndent">When you press on on a 12+, you transcend the danger. You not only do what you set out to, but the GM will offer you a better outcome, true beauty, or a moment of grace.</p>
 <h3 aid:pstyle="MoveName">Perfect Shot</h3>
-<p aid:pstyle="NoIndent">You can make impossible shots. When you take aim, you can choose to ignore cover, range, or other obstacles. A perfect shot costs extra ammo; you can never choose to reduce ammo on a 7–9.</p>
+<p aid:pstyle="NoIndent">You can make impossible shots. When you use Ranged Combat, you can choose to ignore cover, range, or other obstacles. A perfect shot costs extra ammo; you can never choose to reduce ammo on a 7–9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
 <p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
