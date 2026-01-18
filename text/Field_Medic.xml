@@ -81,7 +81,7 @@
 <h3 aid:pstyle="MoveName">Invigorate</h3>
 <p aid:pstyle="NoIndent">When you <strong>heal someone</strong> they take +2 forward to their damage.</p>
 <h3 aid:pstyle="MoveName">The Scales of Life and Death</h3>
-<p aid:pstyle="NoIndent">When <strong>someone takes their last breath in your presence</strong>, they take +1 to the roll.</p>
+<p aid:pstyle="NoIndent">When <strong>someone is at death's door in your presence</strong>, they take +1 to the roll.</p>
 <h3 aid:pstyle="MoveName">Serenity</h3>
 <p aid:pstyle="NoIndent">When you treat wounds you ignore the first -1 penalty from ongoing treatments.</p>
 <h3 aid:pstyle="MoveName">First Aid</h3>

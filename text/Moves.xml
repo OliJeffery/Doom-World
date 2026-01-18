@@ -38,8 +38,12 @@
 <h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
 <p aid:pstyle="NoIndent">When you <strong>help or hinder someone</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p></Story>
 <h1>Special Moves</h1>
-<Story><h2 aid:pstyle="BasicMoveName">Last Breath</h2>
-<p aid:pstyle="NoIndent">When <strong>you're dying</strong> you catch a glimpse of what lies beyond (the GM will describe it). Then roll (just roll, +nothing—yeah, Death doesn't care how tough or cool you are). On a 10+ you've cheated death—you're in a bad spot but you're still alive. On a 7–9 Death will offer you a bargain. Take it and stabilize or refuse and pass beyond into whatever fate awaits you. On a miss, your fate is sealed. You're marked as Death's own and you'll cross the threshold soon. The GM will tell you when.</p>
+<Story><h2 aid:pstyle="BasicMoveName">At Death's Door</h2>
+<p aid:pstyle="NoIndent">When <strong>you're at death's door</strong> either by taking a hit that should kill you or by reaching 0 HP, roll the dice. On a 10+, suffer harm as the GM feels is appropriate. On a 7–9, choose 1:</p>
+<ul><li>Strike out an advanced move from your character sheet (if already taken, lose its benefit)</li>
+<li>Lower one of your Stats by 1 permanently</li>
+<li>The injury leaves you maimed</li></ul>
+<p aid:pstyle="NoIndent">On a miss, choose all three of the above or have your character go out in a blaze of glory, your call.</p>
 <h2 aid:pstyle="BasicMoveName">Encumbrance</h2>
 <p aid:pstyle="NoIndent">When you <strong>make a move while carrying weight</strong> up to or equal to load, you're fine. When you make a move while carrying weight equal to load+1 or load+2, you take -1. When you make a move while carrying weight greater than load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail.</p>
 <h2 aid:pstyle="BasicMoveName">Bivouac</h2>
