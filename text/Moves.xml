@@ -36,7 +36,21 @@
 <h2 aid:pstyle="BasicMoveName">Negotiate</h2>
 <p aid:pstyle="NoIndent">When you <strong>have leverage on a GM character and manipulate them</strong>, roll+Cha. Leverage is something they need or want. On a hit they ask you for something and do it if you make them a promise first. On a 7–9, they need some concrete assurance of your promise, right now.</p>
 <h2 aid:pstyle="BasicMoveName">Aid or Interfere</h2>
-<p aid:pstyle="NoIndent">When you <strong>help or hinder someone</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p></Story>
+<p aid:pstyle="NoIndent">When you <strong>help or hinder someone</strong>, roll+Bond with them. On a 10+ they take +1 or -2, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p>
+<h2 aid:pstyle="BasicMoveName">Scrounge</h2>
+<p aid:pstyle="NoIndent">When you <strong>desperately search for resources in hostile territory</strong>, roll+Wis. On a 10+, you find something useful—the GM will tell you what. On a 7–9, you find something, but choose one:</p>
+<ul><li>It's damaged or degraded—it works but not as well as it should</li>
+<li>Finding it exposes you to danger—the GM will tell you how</li>
+<li>You must leave something behind to take it</li></ul>
+<p aid:pstyle="NoIndent">On a miss, you find nothing useful, and your search draws unwanted attention.</p>
+<h2 aid:pstyle="BasicMoveName">Hold Your Nerve</h2>
+<p aid:pstyle="NoIndent">When you <strong>must maintain composure under extreme psychological pressure</strong>—witnessing unspeakable horrors, facing overwhelming odds, enduring torture, resisting Warp corruption, or staring into the abyss—roll+Con. On a 10+, you remain steady and focused. On a 7–9, you hold on, but the pressure takes its toll—choose one:</p>
+<ul><li>You freeze for a moment, unable to act—the GM will tell you when you can move again</li>
+<li>You take -1 ongoing until you can rest</li>
+<li>You must act immediately or lose your nerve—the GM will tell you what action is required</li>
+<li>You lash out blindly, attacking the nearest threat or ally</li>
+<li>You succeed, but something breaks inside you—mark a debility of the GM's choice</li></ul>
+<p aid:pstyle="NoIndent">On a miss, your nerve fails you completely. The GM will tell you how you break.</p></Story>
 <h1>Special Moves</h1>
 <Story><h2 aid:pstyle="BasicMoveName">At Death's Door</h2>
 <p aid:pstyle="NoIndent">When <strong>you're at death's door</strong> either by taking a hit that should kill you or by reaching 0 HP, roll the dice. On a 10+, suffer harm as the GM feels is appropriate. On a 7–9, choose 1:</p>

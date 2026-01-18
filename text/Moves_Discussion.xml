@@ -162,6 +162,42 @@
 <p aid:pstyle="ExampleDialogue">Dan: I stand firm, chainsword raised. I will defend the Commissar.</p>
 <p aid:pstyle="ExampleDialogue">Rob: I emerge from the shadows, lasgun raised. "You're not alone, Marcus." I take position beside him. "I've seen you fight. If we die today, we die together." I want to aid him, but I don't have a bond with him.</p>
 <p aid:pstyle="ExampleDialogueLastLine">Oli: Roll+0 to aid. If you succeed, Marcus takes +1 to his Cover Fire attempt.</p>
+<h2 aid:pstyle="BasicMoveName">Scrounge</h2>
+<p aid:pstyle="MoveOneLine">When you <strong>desperately search for resources in hostile territory</strong>, roll+Wis. ✴On a 10+, you find something useful—the GM will tell you what. ✴On a 7–9, you find something, but choose one:</p>
+<ul><li aid:pstyle="li">It's damaged or degraded—it works but not as well as it should</li>
+<li aid:pstyle="li">Finding it exposes you to danger—the GM will tell you how</li>
+<li aid:pstyle="Lastli">You must leave something behind to take it</li></ul>
+<p aid:pstyle="MoveOneLine">✴On a miss, you find nothing useful, and your search draws unwanted attention.</p>
+<p aid:pstyle="NoIndent">On Catachan, resources are everything. Ammunition runs low, rations spoil, equipment breaks, and medical supplies dwindle. Scrounge is for those desperate moments when you need something—anything—to survive, when you're searching through the wreckage of a battle, the ruins of an outpost, or the corpse of a fallen enemy.</p>
+<p>This move is different from Resupply, which is for getting things at base. Scrounge is for finding resources in the field, in hostile territory, when you're cut off and desperate. The GM should make what you find appropriate to where you're searching and what you need.</p>
+<p>On a 10+, you find something genuinely useful. Maybe it's a half-empty ammo pack, a ration that's still edible, a medkit with some supplies left, or a piece of equipment that can be salvaged. The GM will tell you what you find and how useful it is.</p>
+<p aid:pstyle="ExampleDialogueFirstLine">Rob: We're out of ammo, and there are more Orks coming. I need to find something—anything—I can use. I start searching through the bodies of the Orks we just killed.</p>
+<p aid:pstyle="ExampleDialogue">Oli: Scrounge. Roll+Wis.</p>
+<p aid:pstyle="ExampleDialogue">Rob: I got a 9. I'll take the danger—I need that ammo.</p>
+<p aid:pstyle="ExampleDialogue">Oli: You find a crude but functional slugga with three rounds left. As you grab it, you hear the sound of heavy footsteps. A Nob is coming around the corner, and he's seen you. What do you do?</p>
+<p aid:pstyle="ExampleDialogueLastLine">Rob: I raise the slugga and fire. Three rounds. I need to make them count.</p>
+<h2 aid:pstyle="BasicMoveName">Hold Your Nerve</h2>
+<p aid:pstyle="MoveOneLine">When you <strong>must maintain composure under extreme psychological pressure</strong>—witnessing unspeakable horrors, facing overwhelming odds, enduring torture, resisting Warp corruption, or staring into the abyss—roll+Con. ✴On a 10+, you remain steady and focused. ✴On a 7–9, you hold on, but the pressure takes its toll—choose one:</p>
+<ul><li aid:pstyle="li">You freeze for a moment, unable to act—the GM will tell you when you can move again</li>
+<li aid:pstyle="li">You take -1 ongoing until you can rest</li>
+<li aid:pstyle="li">You must act immediately or lose your nerve—the GM will tell you what action is required</li>
+<li aid:pstyle="li">You lash out blindly, attacking the nearest threat or ally</li>
+<li aid:pstyle="Lastli">You succeed, but something breaks inside you—mark a debility of the GM's choice</li></ul>
+<p aid:pstyle="MoveOneLine">✴On a miss, your nerve fails you completely. The GM will tell you how you break.</p>
+<p aid:pstyle="NoIndent">Survival on Catachan is not just about physical endurance—it's about mental fortitude, about holding on when everything tells you to give up, about maintaining your humanity in the face of endless horror. Hold Your Nerve is for those moments when the psychological pressure becomes unbearable: when you witness unspeakable atrocities, when you're outnumbered ten to one, when you're being tortured, when the Warp whispers promises of power, or when you must make an impossible choice.</p>
+<p>This move is different from Press On, which is for physical danger. Hold Your Nerve is specifically for psychological pressure, for moments when your will is being tested, when your faith is being challenged, when your sanity is hanging by a thread. It covers both the initial shock of witnessing something horrific and the ongoing pressure of maintaining composure.</p>
+<p>On a miss, your nerve fails completely. You might break and run, surrender, give in to corruption, become catatonic, flee in terror, or even turn on your allies. The GM should make this meaningful and appropriate to the situation.</p>
+<p aid:pstyle="ExampleDialogueFirstLine">Oli: Kael, as you round the corner, you see what the cultists have been doing. The chamber is filled with bodies—dozens of them, all Imperial Guardsmen. They're not just dead. They're... changed. Their flesh has been twisted into impossible shapes, their faces frozen in expressions of pure terror. In the center of the room, something that was once human writhes on an altar, its form shifting and changing, Warp energy crackling around it. What do you do?</p>
+<p aid:pstyle="ExampleDialogue">Tom: I... I can't look away. This is... this is what they did to them. I have to hold my nerve.</p>
+<p aid:pstyle="ExampleDialogue">Oli: Hold Your Nerve. Roll+Con.</p>
+<p aid:pstyle="ExampleDialogue">Tom: I got a 6.</p>
+<p aid:pstyle="ExampleDialogueLastLine">Oli: The horror of what you've seen breaks something inside you. You drop to your knees, your lasgun clattering to the floor. You can't stop seeing their faces, their twisted forms. You're frozen in place, unable to act. The thing on the altar turns its many eyes toward you. What do you do?</p>
+<p aid:pstyle="ExampleDialogueFirstLine">Oli: The Chaos cultist has you pinned, his blade at your throat. "Renounce the False Emperor," he whispers, his breath hot against your ear. "Join us, and you'll live. Refuse, and I'll make you watch as I gut your friends one by one." The Warp energy around him makes your skin crawl. What do you do?</p>
+<p aid:pstyle="ExampleDialogue">Kris: I... I can't. I won't. The Emperor protects. I hold my nerve.</p>
+<p aid:pstyle="ExampleDialogue">Oli: Hold Your Nerve. Roll+Con.</p>
+<p aid:pstyle="ExampleDialogue">Kris: I got an 8. I'll take the -1 ongoing. I can handle it.</p>
+<p aid:pstyle="ExampleDialogue">Oli: You steel yourself against the corruption, against the fear, against the temptation. You remain steady, but the effort takes its toll. You take -1 ongoing until you can rest. The cultist's eyes narrow. "So be it." What do you do?</p>
+<p aid:pstyle="ExampleDialogueLastLine">Kris: I headbutt him. The Emperor protects.</p>
 <h1>Special Moves</h1>
 <p aid:pstyle="NoIndent">Special moves are moves that come up less often or in more specific situations. They're still the basis of what characters do in Death World: Catachan—particularly what they do between missions and high-stakes operations.</p>
 <h2 aid:pstyle="BasicMoveName">At Death's Door</h2>
