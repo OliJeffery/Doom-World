@@ -39,7 +39,7 @@
 <p aid:pstyle="NoIndent">When you <strong>help or hinder someone</strong>, roll+Squad Cohesion. On a 10+ they take Advantage or Disadvantage, your choice. On a 7–9 you also expose yourself to danger, retribution, or cost.</p>
 <h2 aid:pstyle="BasicMoveName">Give Orders</h2>
 <p aid:pstyle="NoIndent">When you <strong>issue a clear tactical order to coordinate your squad</strong>, roll+Leadership. On a 10+, choose 2. On a 7–9, choose 1:</p>
-<ul><li>An ally takes their next action immediately</li>
+<ul><li>An ally's next roll is improved by one success level (miss becomes 7-9, 7-9 becomes 10+)</li>
 <li>An ally gains Advantage on their next roll</li>
 <li>An ally moves to a better position without triggering danger</li>
 <li>Two allies coordinate their actions, both gaining Advantage</li>
