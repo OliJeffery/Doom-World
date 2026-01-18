@@ -13,7 +13,7 @@
 <p aid:pstyle="NoIndent">Tattered Fatigues, Camouflage Gear, or Light Armor</p>
 <p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">Your maximum HP is 8+Constitution.</p>
+<p aid:pstyle="NoIndent">Your maximum Wounds is 8+Toughness.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
@@ -22,12 +22,12 @@
 <h3 aid:pstyle="MoveName">Green Devils</h3>
 <p aid:pstyle="NoIndent">When you bivouac in the jungle, you don't need to consume a ration.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
-<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. ✴On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
+<h3 aid:pstyle="BasicMoveName">Hunt and Track</h3>
+<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+Perception. ✴On a 7+, you follow the creature's trail until there's a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
 <ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
 <li>Determine what caused the trail to end</li></ul>
 <h3 aid:pstyle="BasicMoveName">Called Shot</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+Ballistic Skill.</p>
 <ul><li>Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.</li>
 <li>Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they're holding.</li>
 <li>Legs ✴10+: As 7-9, plus your damage ✴7-9: They're hobbled and slow moving.</li></ul>
@@ -36,9 +36,9 @@
 <p aid:pstyle="Example">Tracking, Survival, Navigation, Stealth, Threat Detection</p>
 <p aid:pstyle="NoIndent">Choose a base:</p>
 <ul><li>Alertness +2, Instinct +1, +1 to Read the Signs</li>
-<li>Alertness +2, Instinct +2, +1 to Press On</li>
+<li>Alertness +2, Instinct +2, Advantage to Press On</li>
 <li>Alertness +1, Instinct +2, +1 to Read the Signs</li>
-<li>Alertness +3, Instinct +1, +1 to Hunt and Track</li></ul>
+<li>Alertness +3, Instinct +1, Advantage to Hunt and Track</li></ul>
 <p aid:pstyle="NoIndent">Choose as many strengths as your alertness:</p>
 <p aid:pstyle="Example">Fast, tireless, adaptable, quick reflexes, camouflage, keen senses, stealthy, silent movement</p>
 <p aid:pstyle="NoIndent">Your jungle sense is trained for specific situations. Choose as many additional trainings as your instinct:</p>
@@ -62,18 +62,12 @@
 <h3 aid:pstyle="MoveName">Duty</h3>
 <p aid:pstyle="NoIndent">Complete a mission objective through stealth and reconnaissance.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 11+Str. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), and a lascarbine power pack (3 ammo, 1 weight). Choose your armament:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 11+Strength. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), and a lascarbine power pack (3 ammo, 1 weight). Choose your armament:</p>
 <ul><li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and Catachan knife (close, 1 weight)</li>
 <li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and machete (reach, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Field gear (1 weight) and rations (1 weight)</li>
 <li aid:pstyle="Option">Field gear (1 weight) and lascarbine power pack (3 ammo, 1 weight)</li></ul></div>
-<h2>Bonds</h2>
-<div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>I have guided _______________ before and they owe me for it.</p>
-<p>_______________ trusts my judgment in the jungle, so I will protect them.</p>
-<p>_______________ has no respect for the jungle, so I have no respect for them.</p>
-<p>_______________ does not understand survival in the wild, so I will teach them.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">You may take this move only if it is your first advancement.</p>
 <h3 aid:pstyle="MoveName">Jungle Born</h3>
@@ -82,7 +76,7 @@
 <h3 aid:pstyle="MoveName">Jungle Whisperer</h3>
 <p aid:pstyle="NoIndent">You can read the signs of the jungle so well that you can predict threats before they appear. When you read the signs about jungle threats, you may ask an additional question.</p>
 <h3 aid:pstyle="MoveName">Familiar Threat</h3>
-<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use WIS instead of INT.</p>
+<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use Perception instead of Intelligence.</p>
 <h3 aid:pstyle="MoveName">Dual Strike</h3>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
@@ -103,7 +97,7 @@
 <p aid:pstyle="NoIndent">You can read the signs of the jungle so well that you can predict threats before they appear. When you read the signs about jungle threats, you may ask two additional questions.</p>
 <h3 aid:pstyle="MoveName">Hunter's Prey</h3>
 <p aid:pstyle="Requirement">Replaces: Familiar Threat</p>
-<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
+<p aid:pstyle="NoIndent">When you use jungle knowledge about a Catachan creature you use Perception instead of Intelligence. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
 <h3 aid:pstyle="MoveName">Dual Strike Master</h3>
 <p aid:pstyle="Requirement">Replaces: Dual Strike</p>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
@@ -114,7 +108,7 @@
 <p aid:pstyle="NoIndent">When you navigate the jungle you can take two roles. Roll twice and use the better result for both roles.</p>
 <h3 aid:pstyle="MoveName">A Safer Place</h3>
 <p aid:pstyle="Requirement">Replaces: A Safe Place</p>
-<p aid:pstyle="NoIndent">When you set the watch for the night everyone takes +1 to stand watch. After a night in bivouac when you set the watch everyone takes +1 forward.</p>
+<p aid:pstyle="NoIndent">When you set the watch for the night everyone takes Advantage to stand watch. After a night in bivouac when you set the watch everyone takes Advantage.</p>
 <h3 aid:pstyle="MoveName">Observant</h3>
 <p aid:pstyle="NoIndent">When you hunt and track, on a hit you may also ask one question about the creature you are tracking from the read the signs list for free.</p>
 <h3 aid:pstyle="MoveName">Special Technique</h3>
@@ -122,4 +116,4 @@
 <h3 aid:pstyle="MoveName">Unnatural Instinct</h3>
 <p aid:pstyle="NoIndent">Your jungle sense has become so attuned that you can sense things that shouldn't be possible. Describe it. Give yourself +2 alertness and +1 instinct, plus a new training.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you become one with the jungle one last time, merging your spirit with Catachan itself. You may lead your enemies into a devastating trap, reveal a perfect hidden path to safety, or mark the location of every threat for your allies. Roll+Wis. ✴On a 10+, the jungle itself rises to aid you. You create a perfect escape route or trap that saves all allies and eliminates a major threat. All allies take +2 forward, +2 armor, and enemies take -2 ongoing for the rest of the battle. The jungle remembers you—your allies can read the signs to learn about all threats in the area for the rest of the mission. Your spirit becomes part of Catachan, a permanent guide. Future scouts who know your story take +1 forward when navigating the jungle. ✴On a 7-9, you create an escape route or trap that helps all allies or hinders all enemies. Allies take +1 forward and +1 armor, enemies take -1 ongoing. ✴On a miss, your final act becomes a warning carved into the jungle itself—all allies can read the signs to learn about all threats in the area for the rest of the mission. They take +2 forward and +1 armor. Your spirit becomes part of Catachan, a guide for those who know how to listen. The jungle itself protects those you cared about.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you become one with the jungle one last time, merging your spirit with Catachan itself. You may lead your enemies into a devastating trap, reveal a perfect hidden path to safety, or mark the location of every threat for your allies. Roll+Perception. ✴On a 10+, the jungle itself rises to aid you. You create a perfect escape route or trap that saves all allies and eliminates a major threat. All allies take Advantage, +2 armor, and enemies take Disadvantage for the rest of the battle. The jungle remembers you—your allies can read the signs to learn about all threats in the area for the rest of the mission. Your spirit becomes part of Catachan, a permanent guide. Future scouts who know your story take Advantage when navigating the jungle. ✴On a 7-9, you create an escape route or trap that helps all allies or hinders all enemies. Allies take Advantage and +1 armor, enemies take Disadvantage. ✴On a miss, your final act becomes a warning carved into the jungle itself—all allies can read the signs to learn about all threats in the area for the rest of the mission. They take +2 forward and +1 armor. Your spirit becomes part of Catachan, a guide for those who know how to listen. The jungle itself protects those you cared about.</p></div></Body></Root>

@@ -13,23 +13,21 @@
 <p aid:pstyle="NoIndent">Sergeant's Insignia or Standard Gear</p>
 <p aid:pstyle="NoIndent">Built Body, Scarred Body, or Ravaged Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your maximum Wounds is 10+Toughness.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are Catachan, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Catachan</h3>
 <p aid:pstyle="NoIndent">When you <strong>survey the battlefield, even for a moment, and ask, "What here is the biggest threat?"</strong> the GM will tell you, honestly.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<h3 aid:pstyle="BasicMoveName">Lead by Example (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>take action to inspire and protect your squad</strong>, roll+CHA. ✴On a 10+ you grant them +1 forward or remove one threat. ✴On a 7–9, they are inspired, but you draw the threat to yourself.</p>
+<h3 aid:pstyle="BasicMoveName">Lead by Example</h3>
+<p aid:pstyle="NoIndent">When you <strong>take action to inspire and protect your squad</strong>, roll+Leadership. ✴On a 10+ you grant all squad members Advantage on their next action or remove one threat facing the squad. ✴On a 7–9, they are inspired and gain Advantage, but you draw the threat to yourself.</p>
+<h3 aid:pstyle="BasicMoveName">Tactical Coordination</h3>
+<p aid:pstyle="NoIndent">When you <strong>give orders to coordinate your squad's actions</strong>, you may use the Give Orders move with Advantage. Additionally, when you successfully give an order, you may choose an additional benefit from the Give Orders move list.</p>
+<h3 aid:pstyle="BasicMoveName">Squad Discipline</h3>
+<p aid:pstyle="NoIndent">When you <strong>maintain a formation with your squad</strong>, you may use the Maintain Formation move with Advantage. Additionally, when the formation holds, all squad members gain +1 armor in addition to the formation's normal benefits.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
-<h3 aid:pstyle="BasicMoveName">I Am the Leader</h3>
-<p aid:pstyle="NoIndent">When you <strong>give an order based on your authority and experience</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
-<ul><li>Do what you say</li>
-<li>Back away cautiously, then flee</li>
-<li>Attack you</li></ul>
-<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p>
 <h3 aid:pstyle="BasicMoveName">Mission Command</h3>
 <p aid:pstyle="NoIndent">When you <strong>dedicate yourself to a mission through planning and leadership</strong>, state what you set out to do:</p>
 <ul><li>Eliminate _______, a great threat to the mission</li>
@@ -56,18 +54,12 @@
 <h3 aid:pstyle="MoveName">Survival</h3>
 <p aid:pstyle="NoIndent">Endanger yourself to protect someone weaker than you.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and some mark of your rank, describe it (0 weight). Choose your weapon:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Strength. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and some mark of your rank, describe it (0 weight). Choose your weapon:</p>
 <ul><li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and chainsword (close, 1 weight)</li>
 <li aid:pstyle="Option">Lascarbine (near, far, 1 weight) and power sword (close, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Field gear (1 weight)</li>
 <li aid:pstyle="Option">Rations (1 weight) and medkit (0 weight)</li></ul></div>
-<h2>Bonds</h2>
-<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>_______________'s reckless behavior endangers the whole squad!</p>
-<p>_______________ has stood by me in battle and can be trusted completely.</p>
-<p>I respect the skills of _______________ but hope they will someday see the value of experience.</p>
-<p>_______________ is a brave soul, I have much to learn from them.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Veteran Knowledge</h3>
@@ -79,15 +71,15 @@
 <h3 aid:pstyle="MoveName">No Retreat</h3>
 <p aid:pstyle="NoIndent">When you <strong>speak aloud your promise to defeat an enemy</strong>, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.</p>
 <h3 aid:pstyle="MoveName">Charge!</h3>
-<p aid:pstyle="NoIndent">When you <strong>lead the charge into combat</strong>, those you lead take +1 forward.</p>
+<p aid:pstyle="NoIndent">When you <strong>lead the charge into combat</strong>, all squad members who follow gain Advantage on their first attack and +1 armor for the duration of the charge.</p>
 <h3 aid:pstyle="MoveName">Staunch Defender</h3>
 <p aid:pstyle="NoIndent">When you cover fire you always get +1 hold, even on a 6-.</p>
 <h3 aid:pstyle="MoveName">Setup Strike</h3>
 <p aid:pstyle="NoIndent">When you close combat, choose an ally. Their next attack against your target does +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Mission Protection</h3>
 <p aid:pstyle="NoIndent">You get +1 armor while on a mission.</p>
-<h3 aid:pstyle="MoveName">Voice of Authority</h3>
-<p aid:pstyle="NoIndent">Take +1 to request reinforcements.</p>
+<h3 aid:pstyle="MoveName">Squad Support</h3>
+<p aid:pstyle="NoIndent">When you <strong>coordinate two or more squad members to work together</strong>, roll+Leadership. ✴On a 10+, they both gain Advantage and may act in perfect coordination—their actions complement each other flawlessly. ✴On a 7–9, they gain Advantage but must choose one: they're slightly out of sync, or one of them is exposed.</p>
 <h3 aid:pstyle="MoveName">Field Medic</h3>
 <p aid:pstyle="NoIndent">When you treat an ally's wounds, you heal +1d8 damage.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
@@ -99,25 +91,27 @@
 <p aid:pstyle="NoIndent">While on a mission you deal +1d8 damage.</p>
 <h3 aid:pstyle="MoveName">Ever Onward</h3>
 <p aid:pstyle="Requirement">Replaces: Charge!</p>
-<p aid:pstyle="NoIndent">When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.</p>
+<p aid:pstyle="NoIndent">When you lead the charge into combat, all squad members who follow gain Advantage on their first attack, +2 armor for the duration of the charge, and may move without triggering danger from the enemies you're charging.</p>
 <h3 aid:pstyle="MoveName">Impervious Defender</h3>
 <p aid:pstyle="Requirement">Replaces: Staunch Defender</p>
 <p aid:pstyle="NoIndent">When you cover fire you always get +1 hold, even on a 6-. When you get a 12+ to cover fire instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
 <h3 aid:pstyle="MoveName">Tandem Strike</h3>
 <p aid:pstyle="Requirement">Replaces: Setup Strike</p>
-<p aid:pstyle="NoIndent">When you close combat, choose an ally. Their next attack against your target does +1d4 damage and they take +1 forward against them.</p>
+<p aid:pstyle="NoIndent">When you close combat, choose an ally. Their next attack against your target does +1d4 damage and they take Advantage against them.</p>
 <h3 aid:pstyle="MoveName">Mission Armor</h3>
 <p aid:pstyle="Requirement">Replaces: Mission Protection</p>
 <p aid:pstyle="NoIndent">You get +2 armor while on a mission.</p>
-<h3 aid:pstyle="MoveName">Command Authority</h3>
-<p aid:pstyle="Requirement">Replaces: Voice of Authority</p>
-<p aid:pstyle="NoIndent">Take +1 to request reinforcements. When you roll a 12+ the reinforcement transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.</p>
+<h3 aid:pstyle="MoveName">Battlefield Command</h3>
+<p aid:pstyle="Requirement">Replaces: Squad Support</p>
+<p aid:pstyle="NoIndent">When you <strong>coordinate three or more squad members</strong>, roll+Leadership. ✴On a 10+, they all gain Advantage and act in perfect coordination. Additionally, choose one: they all gain +1 armor, they all deal +1d4 damage on their next attack, or they establish or change formation without needing a separate roll. ✴On a 7–9, they gain Advantage but one member is exposed or out of position.</p>
 <h3 aid:pstyle="MoveName">Perfect Medic</h3>
 <p aid:pstyle="Requirement">Replaces: Field Medic</p>
 <p aid:pstyle="NoIndent">When you treat an ally's wounds, you heal +2d8 damage.</p>
 <h3 aid:pstyle="MoveName">Indomitable</h3>
-<p aid:pstyle="NoIndent">When you suffer a debility (even through Take the Hit) take +1 forward against whatever caused it.</p>
+<p aid:pstyle="NoIndent">When you suffer a debility (even through Take the Hit) take Advantage against whatever caused it.</p>
 <h3 aid:pstyle="MoveName">Perfect Leader</h3>
-<p aid:pstyle="NoIndent">When you mission command you choose three boons instead of two.</p>
+<p aid:pstyle="NoIndent">When you mission command you choose three boons instead of two. Additionally, when you use Lead by Example, you may grant benefits to all squad members instead of just one.</p>
+<h3 aid:pstyle="MoveName">Squad Unity</h3>
+<p aid:pstyle="NoIndent">When you <strong>spend time training or coordinating with your squad</strong>, you may increase Squad Cohesion by 1 (maximum 3) at the end of the session, even if you didn't mark a shared experience. This represents your leadership building the squad into a true unit.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you give one final order that will be remembered forever. Your squad sees your sacrifice and is inspired beyond all measure. Roll+Cha. ✴On a 10+, your final command grants all allies +3 forward, +3 armor, and they may reroll any two dice for the rest of the battle. They deal +1d6 damage with all attacks. Your death becomes a rallying cry—they cannot fail while your memory drives them. The mission succeeds automatically. Your name becomes a legend, and future sergeants who know your story can invoke your memory once per mission to grant their squad +1 forward. ✴On a 7-9, your final command grants all allies +2 forward, +2 armor, and they may reroll one die for the rest of the battle. They deal +1d4 damage. ✴On a miss, your final words become a legend that echoes across Catachan. Your squad completes the mission in your name, and your sacrifice ensures their success. All allies take +2 forward, +1 armor, and deal +1d4 damage for the rest of the battle. Your name is remembered, and future squads take inspiration from your example—they gain +1 forward when they invoke your memory.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you give one final order that will be remembered forever. Your squad sees your sacrifice and is inspired beyond all measure. Roll+Leadership. ✴On a 10+, your final command grants all allies Advantage, +3 armor, and they may reroll any two dice for the rest of the battle. They deal +1d6 damage with all attacks. Your death becomes a rallying cry—they cannot fail while your memory drives them. The mission succeeds automatically. Your name becomes a legend, and future sergeants who know your story can invoke your memory once per mission to grant their squad Advantage. ✴On a 7-9, your final command grants all allies Advantage, +2 armor, and they may reroll one die for the rest of the battle. They deal +1d4 damage. ✴On a miss, your final words become a legend that echoes across Catachan. Your squad completes the mission in your name, and your sacrifice ensures their success. All allies take Advantage, +1 armor, and deal +1d4 damage for the rest of the battle. Your name is remembered, and future squads take inspiration from your example—they gain Advantage when they invoke your memory.</p></div></Body></Root>

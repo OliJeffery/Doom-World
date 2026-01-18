@@ -13,7 +13,7 @@
 <p aid:pstyle="NoIndent">Camouflage Gear, Tattered Fatigues, or Light Armor</p>
 <p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">Your maximum HP is 6+Constitution.</p>
+<p aid:pstyle="NoIndent">Your maximum Wounds is 6+Toughness.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
@@ -23,17 +23,17 @@
 <p aid:pstyle="NoIndent">You are a professional. When you use jungle knowledge or read the signs about threats, take +1.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Threat Assessment</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+DEX. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you move through the area to ask these questions:</p>
+<p aid:pstyle="NoIndent">When you <strong>spend a moment to survey a dangerous area</strong>, roll+Perception. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. Spend your hold as you move through the area to ask these questions:</p>
 <ul><li>Is there a threat here and if so, what activates it?</li>
 <li>What does the threat do when activated?</li>
 <li>What else is hidden here?</li></ul>
 <h3 aid:pstyle="BasicMoveName">Marksman</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a target at range</strong>, roll+DEX. ✴On a 10+, you have a perfect shot—deal your damage. ✴On a 7–9, you still hit, but the GM will offer you two options between suspicion, danger, or cost.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a target at range</strong>, roll+Ballistic Skill. ✴On a 10+, you have a perfect shot—deal your damage. ✴On a 7–9, you still hit, but the GM will offer you two options between suspicion, danger, or cost.</p>
 <h3 aid:pstyle="BasicMoveName">Precision Shot</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a surprised or defenseless enemy at range</strong>, you can choose to deal your damage or name your target and roll+Ballistic Skill. ✴On a 10+ choose two. ✴On a 7–9 choose one.</p>
 <ul><li>You don't reveal your position</li>
 <li>You deal your damage+1d6</li>
-<li>You create an advantage, +1 forward to you or an ally acting on it</li>
+<li>You create an advantage, Advantage to you or an ally acting on it</li>
 <li>Reduce their armor by 1 until they repair it</li></ul>
 <h3 aid:pstyle="BasicMoveName">Ghost</h3>
 <p aid:pstyle="NoIndent">When someone tries to detect your position you can tell them any position you like.</p>
@@ -52,7 +52,7 @@
 <h3 aid:pstyle="MoveName">Duty</h3>
 <p aid:pstyle="NoIndent">Complete a mission objective through precision and stealth.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 9+Str. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), 3 uses of your chosen specialized ammo, and 10 thrones. Choose your arms:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 9+Strength. You start with rations (5 uses, 1 weight), flak armor (1 armor, 1 weight), 3 uses of your chosen specialized ammo, and 10 thrones. Choose your arms:</p>
 <ul><li aid:pstyle="Option">Catachan knife (hand, 1 weight) and lascarbine (near, 1 weight)</li>
 <li aid:pstyle="Option">Sniper rifle (far, precise, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
@@ -61,12 +61,6 @@
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Field gear (1 weight)</li>
 <li aid:pstyle="Option">Medkit (0 weight)</li></ul></div>
-<h2>Bonds</h2>
-<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>I saved _______________ with a well-placed shot.</p>
-<p>_______________ has my back when things go wrong.</p>
-<p>_______________ knows my true kill count.</p>
-<p>_______________ and I work together as a team.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Precise Shot</h3>
@@ -86,7 +80,7 @@
 <h3 aid:pstyle="MoveName">Hard to Hit</h3>
 <p aid:pstyle="NoIndent">When you're in cover, you have +1 armor.</p>
 <h3 aid:pstyle="MoveName">Connections</h3>
-<p aid:pstyle="NoIndent">When you put out word to other snipers or scouts about something you want or need, roll+CHA. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
+<p aid:pstyle="NoIndent">When you put out word to other snipers or scouts about something you want or need, roll+Leadership. ✴On a 10+, someone has it, just for you. ✴On a 7–9, you'll have to settle for something close or it comes with strings attached, your call.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
 <h3 aid:pstyle="MoveName">Master Marksman</h3>
 <p aid:pstyle="Requirement">Replaces: Precise Shot</p>
@@ -109,14 +103,14 @@
 <h3 aid:pstyle="MoveName">Perfect Shot</h3>
 <p aid:pstyle="NoIndent">You can make impossible shots. When you use Ranged Combat, you can choose to ignore cover, range, or other obstacles. A perfect shot costs extra ammo; you can never choose to reduce ammo on a 7–9.</p>
 <h3 aid:pstyle="MoveName">Escape Route</h3>
-<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+DEX. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
+<p aid:pstyle="NoIndent">When you're in too deep and need a way out, name your escape route and roll+Agility. ✴On a 10+ you're gone. ✴On a 7–9 you can stay or go, but if you go it costs you: leave something behind or take something with you, the GM will tell you what.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
 <p aid:pstyle="NoIndent">When you have time and materials you can create camouflage that will fool anyone into thinking you're part of the environment. Your actions can give you away but your appearance won't.</p>
 <h3 aid:pstyle="MoveName">Assassination</h3>
-<p aid:pstyle="NoIndent">When you take time to make a plan to eliminate a target, name the target you want to kill and ask the GM these questions. When acting on the answers you and your allies take +1 forward.</p>
+<p aid:pstyle="NoIndent">When you take time to make a plan to eliminate a target, name the target you want to kill and ask the GM these questions. When acting on the answers you and your allies take Advantage.</p>
 <ul><li>Who will notice they're dead?</li>
 <li>What's their most powerful defense?</li>
 <li>Who will come after you?</li>
 <li>Who else wants them dead?</li></ul>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you take the perfect shot—the one that will be remembered forever. Name your target and roll+Dex. ✴On a 10+, your shot is impossible, legendary, transcendent. You deal your damage+3d12, ignore all armor, cover, and defenses. The target dies instantly, and your shot passes through up to five additional enemies in a perfect line, dealing your damage+2d10 to each, ignoring armor. All allies take +2 forward and may ask the GM one question about any enemy or threat. Your final shot becomes a story told around campfires—a ghost in the jungle that never misses. Future snipers who hear your legend take +1 forward on their first shot of each battle. ✴On a 7-9, you deal your damage+2d10, ignore armor, and the target dies. Your shot passes through up to two additional enemies, dealing your damage+1d10 to each. All allies take +1 forward. ✴On a miss, your shot finds an unexpected target or creates a perfect opening—your allies all take +2 forward, +1 armor, and may ask the GM two questions about the battlefield. Your final shot becomes a story told around campfires, a ghost in the jungle that never misses. The enemy never sees it coming.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you take the perfect shot—the one that will be remembered forever. Name your target and roll+Ballistic Skill. ✴On a 10+, your shot is impossible, legendary, transcendent. You deal your damage+3d12, ignore all armor, cover, and defenses. The target dies instantly, and your shot passes through up to five additional enemies in a perfect line, dealing your damage+2d10 to each, ignoring armor. All allies take Advantage and may ask the GM one question about any enemy or threat. Your final shot becomes a story told around campfires—a ghost in the jungle that never misses. Future snipers who hear your legend take Advantage on their first shot of each battle. ✴On a 7-9, you deal your damage+2d10, ignore armor, and the target dies. Your shot passes through up to two additional enemies, dealing your damage+1d10 to each. All allies take Advantage. ✴On a miss, your shot finds an unexpected target or creates a perfect opening—your allies all take +2 forward, +1 armor, and may ask the GM two questions about the battlefield. Your final shot becomes a story told around campfires, a ghost in the jungle that never misses. The enemy never sees it coming.</p></div></Body></Root>

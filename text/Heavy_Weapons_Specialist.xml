@@ -13,15 +13,15 @@
 <p aid:pstyle="NoIndent">Heavy Weapons Harness or Standard Gear</p>
 <p aid:pstyle="NoIndent">Built Body, Bulky Body, or Scarred Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your maximum Wounds is 10+Toughness.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are Catachan, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Catachan</h3>
 <p aid:pstyle="NoIndent">When you <strong>survey the battlefield, even for a moment, and ask, "What here is the biggest threat?"</strong> the GM will tell you, honestly.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<h3 aid:pstyle="BasicMoveName">Suppressing Fire (Cha)</h3>
-<p aid:pstyle="NoIndent">When you <strong>lay down covering fire to protect an ally</strong>, roll+CHA. ✴On a 10+ you grant them +1 armor or remove one threat. ✴On a 7–9, they are protected, but you draw the threat to yourself.</p>
+<h3 aid:pstyle="BasicMoveName">Suppressing Fire</h3>
+<p aid:pstyle="NoIndent">When you <strong>lay down covering fire to protect an ally</strong>, roll+Leadership. ✴On a 10+ you grant them +1 armor or remove one threat. ✴On a 7–9, they are protected, but you draw the threat to yourself.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">Heavy Weapon</h3>
@@ -43,7 +43,7 @@
 <li aid:pstyle="Option">Overcharged. +1 damage, but +1 weight.</li>
 <li aid:pstyle="Option">Area effect. Deal damage to multiple targets.</li>
 <li aid:pstyle="Option">Incendiary. Sets targets on fire.</li>
-<li aid:pstyle="Option">Rapid fire. Can fire multiple shots per turn.</li>
+<li aid:pstyle="Option">Rapid fire. When you attack, you may fire multiple shots—for each shot beyond the first, reduce ammo by 1 and deal +1d4 damage. You may fire up to 3 shots in a single attack.</li>
 <li aid:pstyle="Option">Well-maintained. -1 weight.</li></ul>
 <p aid:pstyle="NoIndent">Choose a look:</p>
 <ul><li aid:pstyle="Option">Worn</li>
@@ -52,11 +52,11 @@
 <li aid:pstyle="Option">Blood-stained</li>
 <li aid:pstyle="Option">Sinister</li></ul>
 <h3 aid:pstyle="BasicMoveName">I Am the Wall</h3>
-<p aid:pstyle="NoIndent">When you <strong>give an order based on your heavy weapons support</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>give an order based on your heavy weapons support</strong>, roll+Leadership. ✴On a 7+, they choose one:</p>
 <ul><li>Do what you say</li>
 <li>Back away cautiously, then flee</li>
 <li>Attack you</li></ul>
-<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p></div></div>
+<p aid:pstyle="NoIndent">✴On a 10+, you also take Advantage against them. ✴On a miss, they do as they please and you take Disadvantage against them.</p></div></div>
 <h2>Duty</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Duty</h3>
@@ -66,7 +66,7 @@
 <h3 aid:pstyle="MoveName">Combat</h3>
 <p aid:pstyle="NoIndent">Destroy a threat that normal weapons can't harm.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and your heavy weapon. Choose your secondary weapon:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Strength. You start with rations (5 uses, 1 weight), carapace armor (2 armor, 3 weight), and your heavy weapon. Choose your secondary weapon:</p>
 <ul><li aid:pstyle="Option">Lascarbine (near, 1 weight)</li>
 <li aid:pstyle="Option">Laspistol (near, 1 weight) and Catachan knife (close, 1 weight)</li>
 <li aid:pstyle="Option">Chainsword (close, 2 weight)</li></ul>
@@ -74,12 +74,6 @@
 <ul><li aid:pstyle="Option">Field gear (1 weight)</li>
 <li aid:pstyle="Option">Rations (1 weight) and medkit (0 weight)</li>
 <li aid:pstyle="Option">Extra ammo (3 ammo, 1 weight)</li></ul></div>
-<h2>Bonds</h2>
-<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>_______________'s reckless behavior endangers the whole squad!</p>
-<p>_______________ has stood by me in battle and can be trusted completely.</p>
-<p>I respect the skills of _______________ but hope they will someday see the value of heavy weapons.</p>
-<p>_______________ is a brave soul, I have much to learn from them.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Merciless</h3>
@@ -109,7 +103,7 @@
 <p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must press on to enter that area. ✴On a 10+, they can't enter at all and take damage if they try. ✴On a 7-9, they can enter but take damage.</p>
 <h3 aid:pstyle="MoveName">Armored Perfection</h3>
 <p aid:pstyle="Requirement">Replaces: Armor Mastery</p>
-<p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
+<p aid:pstyle="NoIndent">When you <strong>choose to let your armor take the brunt of damage dealt to you</strong>, the damage is negated and you take Advantage against the attacker, but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
 <h3 aid:pstyle="MoveName">Perfect Target</h3>
 <p aid:pstyle="Requirement">Replaces: Target Priority</p>
 <p aid:pstyle="NoIndent">When you read the signs during combat, you take +2 and can ask an additional question.</p>
@@ -126,10 +120,10 @@
 <p aid:pstyle="Requirement">Replaces: Weapon Master</p>
 <p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can upgrade your heavy weapon. Choose two enhancements to add permanently.</p>
 <h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
-<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+WIS. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take -1 ongoing throughout the battle.</p>
+<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+Perception. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take Disadvantage throughout the battle.</p>
 <h3 aid:pstyle="MoveName">Eye for Targets</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's defenses, ask the GM how much armor they have.</p>
 <h3 aid:pstyle="MoveName">Superior Firepower</h3>
 <p aid:pstyle="NoIndent">When you use Ranged Combat on a 12+ you deal your damage, avoid their attack, and suppress, dismay, or frighten your enemy.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you unleash everything your heavy weapon has left in a final, apocalyptic barrage. You may target every enemy in sight with devastating firepower. Roll+Cha. ✴On a 10+, you deal your damage+3d12 to all enemies in sight, ignoring all armor. The area becomes a permanent kill zone—enemies must press on at -2 to enter it, and those who fail take your damage+1d10. All allies take +2 forward and +2 armor for the rest of the battle. Your final barrage creates a legend—the battlefield is permanently scarred, and future enemies who hear of it take -1 ongoing. ✴On a 7-9, you deal your damage+2d10 to all enemies, ignoring armor. The area becomes a kill zone for the rest of the battle. All allies take +1 forward and +1 armor. ✴On a miss, your weapon overheats and explodes in a cataclysmic blast, dealing your damage+2d10 to all nearby enemies and creating a permanent barrier of fire and wreckage that blocks all movement. Your final stand becomes a legend, and your squad takes +2 forward and +1 armor for the rest of the battle. Your sacrifice ensures the mission succeeds.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you unleash everything your heavy weapon has left in a final, apocalyptic barrage. You may target every enemy in sight with devastating firepower. Roll+Leadership. ✴On a 10+, you deal your damage+3d12 to all enemies in sight, ignoring all armor. The area becomes a permanent kill zone—enemies must press on with Disadvantage to enter it, and those who fail take your damage+1d10. All allies take Advantage and +2 armor for the rest of the battle. Your final barrage creates a legend—the battlefield is permanently scarred, and future enemies who hear of it take Disadvantage. ✴On a 7-9, you deal your damage+2d10 to all enemies, ignoring armor. The area becomes a kill zone for the rest of the battle. All allies take Advantage and +1 armor. ✴On a miss, your weapon overheats and explodes in a cataclysmic blast, dealing your damage+2d10 to all nearby enemies and creating a permanent barrier of fire and wreckage that blocks all movement. Your final stand becomes a legend, and your squad takes +2 forward and +1 armor for the rest of the battle. Your sacrifice ensures the mission succeeds.</p></div></Body></Root>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Ruins</h1>
 <Body><p aid:pstyle="MonsterName">Jungle Reclaimed	<span aid:cstyle="Tags">Solitary, Amorphous, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Crushing vines (d10+2 damage)	17 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Crushing vines (d10+2 damage)	17 Wounds	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Plant, Camouflage</p>
 <p aid:pstyle="MonsterDescription">Abandoned Imperial structures quickly become overgrown with the jungle. Sometimes, the jungle itself takes on a malevolent intelligence, using the ruins as a trap. Vines snake through corridors, roots crack foundations, and the entire structure becomes a death trap. The jungle is always hungry, and abandoned buildings are just another meal. <em>Instinct</em>: To consume</p>
@@ -9,7 +9,7 @@
 <li>Entangle in vines</li>
 <li>Use ruins as a trap</li></ul>
 <p aid:pstyle="MonsterName">Rust-Mite Swarm	<span aid:cstyle="Tags">Horde, Tiny, Swarming</span></p>
-<p aid:pstyle="MonsterStats">Corrosive bite (d4 damage ignores armor)	1 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Corrosive bite (d4 damage ignores armor)	1 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Swarming, Corrosive</p>
 <p aid:pstyle="MonsterDescription">Tiny insects that feed on metal. They can strip a lasgun to scrap in minutes, and they're attracted to the heat and energy of Imperial technology. They nest in abandoned structures, swarming anything that enters. Their corrosive saliva dissolves metal, making them a nightmare for anyone carrying equipment. <em>Instinct</em>: To consume metal</p>
@@ -17,7 +17,7 @@
 <li>Dissolve metal</li>
 <li>Nest in structures</li></ul>
 <p aid:pstyle="MonsterName">Ghost of the Fallen	<span aid:cstyle="Tags">Solitary, Terrifying, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Psychic touch (d10 damage ignores armor)	14 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Psychic touch (d10 damage ignores armor)	14 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Incorporeal, Warp-Touched</p>
 <p aid:pstyle="MonsterDescription">The spirits of Guardsmen who died in the ruins, bound to the place of their death by trauma and the Warp. They're not truly alive or dead, existing in a state of perpetual agony. They attack the living out of jealousy and rage, their touch draining life force. Some say they're trying to warn others away, others claim they're simply mad. <em>Instinct</em>: To torment</p>
@@ -25,7 +25,7 @@
 <li>Drain life force</li>
 <li>Manifest as terrifying visions</li></ul>
 <p aid:pstyle="MonsterName">Automated Defense System	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Twin-linked lascannon (d12+2 damage, ignores armor)	16 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Twin-linked lascannon (d12+2 damage, ignores armor)	16 Wounds	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Construct, Automated</p>
 <p aid:pstyle="MonsterDescription">Ancient defense systems that still function long after their creators are gone. They're programmed to attack anything that doesn't match their IFF codes, and after centuries of isolation, that means everything. They're heavily armored and armed with devastating weapons, making them nearly impossible to destroy. <em>Instinct</em>: To defend</p>
@@ -33,7 +33,7 @@
 <li>Fire devastating weapons</li>
 <li>Call for reinforcements</li></ul>
 <p aid:pstyle="MonsterName">Mutant Infestation	<span aid:cstyle="Tags">Horde, Small, Swarming</span></p>
-<p aid:pstyle="MonsterStats">Claw (d6 damage)	3 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Claw (d6 damage)	3 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Regenerating</p>
 <p aid:pstyle="MonsterDescription">The descendants of those who took refuge in the ruins, mutated by exposure to Warp energy and the toxic environment. They're barely human, twisted into horrific forms by generations of mutation. They're feral and aggressive, attacking anything that enters their territory. Some retain fragments of their former intelligence, using it to set traps and ambushes. <em>Instinct</em>: To survive</p>
@@ -41,7 +41,7 @@
 <li>Set traps</li>
 <li>Use knowledge of the ruins</li></ul>
 <p aid:pstyle="MonsterName">Structural Collapse	<span aid:cstyle="Tags">Solitary, Forceful</span></p>
-<p aid:pstyle="MonsterStats">Crushing debris (d12+3 damage, ignores armor)	20 HP	5 Armor</p>
+<p aid:pstyle="MonsterStats">Crushing debris (d12+3 damage, ignores armor)	20 Wounds	5 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Reach, Forceful, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Environmental, Unstoppable</p>
 <p aid:pstyle="MonsterDescription">The ruins themselves are unstable, weakened by years of jungle growth and neglect. A single misstep can trigger a collapse that buries everything beneath tons of debris. The jungle has worked its way into the foundations, and the entire structure is a death trap waiting to happen. <em>Instinct</em>: To collapse</p>
@@ -49,7 +49,7 @@
 <li>Bury in debris</li>
 <li>Create new hazards</li></ul>
 <p aid:pstyle="MonsterName">Servitor Remnant	<span aid:cstyle="Tags">Group, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Mechanical claw (d8 damage)	9 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Mechanical claw (d8 damage)	9 Wounds	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Construct, Automated</p>
 <p aid:pstyle="MonsterDescription">The remains of servitors that were left behind when the outpost was abandoned. Their programming has degraded over the years, leaving them with only fragments of their original purpose. They're still functional, but their behavior is erratic and unpredictable. Some attack anything that moves, others continue their original tasks mindlessly. They're a reminder of what was lost, and a warning of what might happen to those who stay too long. <em>Instinct</em>: To serve</p>
@@ -57,7 +57,7 @@
 <li>Attack perceived threats</li>
 <li>Use knowledge of the ruins</li></ul>
 <p aid:pstyle="MonsterName">Warp-Tainted Structure	<span aid:cstyle="Tags">Solitary, Terrifying, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Reality warp (d10 damage ignores armor, area)	18 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Reality warp (d10 damage ignores armor, area)	18 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Unstable</p>
 <p aid:pstyle="MonsterDescription">A structure that has been corrupted by exposure to the Warp. Reality itself is unstable within its walls, warping and shifting unpredictably. The laws of physics don't apply here—corridors lead to impossible places, gravity shifts direction, and time flows strangely. Those who enter are often lost forever, trapped in a nightmare of shifting reality. <em>Instinct</em>: To corrupt</p>
@@ -65,7 +65,7 @@
 <li>Trap victims in impossible spaces</li>
 <li>Spread corruption</li></ul>
 <p aid:pstyle="MonsterName">Scavenger Pack	<span aid:cstyle="Tags">Horde, Small, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Improvised weapon (d6 damage)	4 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Improvised weapon (d6 damage)	4 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Intelligent, Organized</p>
 <p aid:pstyle="MonsterDescription">Desperate survivors who have taken refuge in the ruins. They're not necessarily hostile, but they're desperate and dangerous. They've learned to survive in the ruins, using their knowledge to set traps and ambushes. They're scavengers, stripping anything of value from the ruins. They might be willing to trade, but they're just as likely to attack anyone who looks like they have something worth taking. <em>Instinct</em>: To survive</p>

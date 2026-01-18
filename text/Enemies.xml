@@ -17,12 +17,12 @@
 <p><strong>Damage</strong> is a measure of how much pain the monster can inflict at once. Just like player damage it’s a die to roll, maybe with some modifiers. A monster deals its damage to another monster or a player whenever it causes them physical harm.</p>
 <p>Each monster has <strong>tags</strong> that describe how it deals damage, including the range(s) of its attacks. When trying to attack something out of its range (too close or too far) the monster’s out of luck, no damage. Any tag that can go on a weapon (like messy or slow) can also go on a monster.</p>
 <p>There are special tags that apply only to monsters. These tags, listed below, describe the key attributes of the monster—qualities that describe how big they are and how, if at all, they organize themselves.</p>
-<p>A monster’s <strong>HP</strong> is a measure of how much damage it can take before it dies. Just like players, when a monster takes damage it subtracts that amount from its HP. At 0 HP it’s dead, no last breath.</p>
+<p>A monster’s <strong>Wounds</strong> is a measure of how much damage it can take before it dies. Just like players, when a monster takes damage it subtracts that amount from its Wounds. At 0 Wounds it’s dead, no last breath.</p>
 <p>Some monsters are lucky enough to enjoy <strong>armor</strong>. It’s just like player armor: when a monster with armor takes damage it subtracts its armor from the damage done.</p>
 <p><strong>Special qualities</strong> describe innate aspects of the monster that are important to play. These are a guide to the fiction, and therefore the moves. A quality like intangible means just what it says: mundane stuff just passes through it. That means swinging a mundane sword at it isn't melee combat, for a start.</p>
 <h3>Monsters Without Stats</h3>
-<p aid:pstyle="NoIndent">Some creatures operate on a scale so far beyond the mortal that concepts like HP, armor, and damage just do not hold. Some creatures just aren’t dangerous in a fight. These creatures may still cause problems for the players and may even be defeated with clever thinking and enough preparation.</p>
-<p>If a creature is of such a scale far beyond the players, or if it just doesn’t put up a physical fight, don’t assign it HP, damage, or armor. You can still use the monster creation rules to give it tags. The core of a stat-less monster is its instinct and moves; you can have it make its moves and act according to its instinct even without numeric stats.</p>
+<p aid:pstyle="NoIndent">Some creatures operate on a scale so far beyond the mortal that concepts like Wounds, armor, and damage just do not hold. Some creatures just aren’t dangerous in a fight. These creatures may still cause problems for the players and may even be defeated with clever thinking and enough preparation.</p>
+<p>If a creature is of such a scale far beyond the players, or if it just doesn’t put up a physical fight, don’t assign it Wounds, damage, or armor. You can still use the monster creation rules to give it tags. The core of a stat-less monster is its instinct and moves; you can have it make its moves and act according to its instinct even without numeric stats.</p>
 <h2>Monster Tags</h2>
 <p aid:pstyle="NoIndent"><em>Warp-Touched</em>: It is by nature touched by the Warp or Chaos through and through.</p>
 <p aid:pstyle="NoIndent"><em>Devious</em>: Its main danger lies beyond the simple clash of battle.</p>
@@ -52,22 +52,22 @@
 <p>If you’re making a monster between sessions start by imagining it. Imagine what it looks like, what it does, why it stands out. Imagine the stories told about it and what effects it has had on the world.</p>
 <p>If you’re making a monster on the fly during a session start by describing it to the players. Your description starts before the characters even lay eyes on it: describe where it lives, what marks it has made on the environment around it. Your description is the key to the monster.</p>
 <p>When you find you need stats for the monster you use this series of questions to establish them. Answer every question based on the facts established and imagined. Don’t answer them aloud to anyone else, just note down the answers and the stats listed with each answer.</p>
-<p>If two questions would grant the same tag don’t worry about it. If you like you can adjust damage or HP by 2 to reflect the tag that would be repeated, but it’s not necessary. If a combination of answers would reduce HP or damage below 1 they stay at 1.</p>
+<p>If two questions would grant the same tag don’t worry about it. If you like you can adjust damage or Wounds by 2 to reflect the tag that would be repeated, but it’s not necessary. If a combination of answers would reduce Wounds or damage below 1 they stay at 1.</p>
 <p>When you’re finished your monster may have only one move. If this is the case and you plan on using the monster often, give it another 1–2 moves of your choice. These moves often describe secondary modes of attack, other uses for a primary mode of attack, or connections to a certain place in the world.</p>
 <h4>What is it known to do?</h4>
 <p aid:pstyle="NoIndent">Write a monster move describing what it does.</p>
 <h4>What does it want that causes problems for others?</h4>
 <p aid:pstyle="NoIndent">This is its instinct. Write it as an intended action.</p>
 <h4>How does it usually hunt or fight?</h4>
-<ul><li>In large groups: horde, d6 damage, 3 HP</li>
-<li>In small groups, about 2–5: group, d8 damage, 6 HP</li>
-<li>All by its lonesome: solitary, d10 damage, 12 HP</li></ul>
+<ul><li>In large groups: horde, d6 damage, 3 Wounds</li>
+<li>In small groups, about 2–5: group, d8 damage, 6 Wounds</li>
+<li>All by its lonesome: solitary, d10 damage, 12 Wounds</li></ul>
 <h4>How big is it?</h4>
 <ul><li>Smaller than a house cat: tiny, hand, -2 damage</li>
 <li>Halfling-esque: small, close</li>
 <li>About human size: close</li>
-<li>As big as a cart: large, close, reach, +4 HP, +1 damage</li>
-<li>Much larger than a cart: huge, reach, +8 HP, +3 damage</li></ul>
+<li>As big as a cart: large, close, reach, +4 Wounds, +1 damage</li>
+<li>Much larger than a cart: huge, reach, +8 Wounds, +3 damage</li></ul>
 <h4>What is its most important defense?</h4>
 <ul><li>Cloth or flesh: 0 armor</li>
 <li>Leathers or thick hide: 1 armor</li>
@@ -79,10 +79,10 @@
 <li>Skill in offense: roll damage twice and take the better roll</li>
 <li>Skill in defense: +1 armor</li>
 <li>Deft strikes: +1 piercing</li>
-<li>Uncanny endurance: +4 HP</li>
+<li>Uncanny endurance: +4 Wounds</li>
 <li>Deceit and trickery: stealthy, write a move about dirty tricks</li>
 <li>A useful adaptation like being amphibious or having wings: Add a special quality for the adaptation</li>
-<li>The favor of the Warp: warp-touched, +2 damage or +2 HP or both (your call)</li>
+<li>The favor of the Warp: warp-touched, +2 damage or +2 Wounds or both (your call)</li>
 <li>Psyker powers: warp-touched, write a move about its psychic abilities</li>
 <li>Poisonous or venomous: poisonous, write a move about its toxins</li>
 <li>Regenerative abilities: regenerating, write a move about how it heals</li></ul>
@@ -101,10 +101,10 @@
 <li>It actively defends itself with a shield or similar: cautious, +1 Armor</li>
 <li>It collects trinkets that humans would consider valuable (gold, gems, secrets): hoarder</li>
 <li>It's from beyond this world: xenos, write a move about using its alien knowledge and power</li>
-<li>It’s kept alive by something beyond simple biology: +4 HP</li>
+<li>It’s kept alive by something beyond simple biology: +4 Wounds</li>
 <li>It was made by someone: construct, give it a special quality or two about its construction or purpose</li>
 <li>Its appearance is disturbing, terrible, or horrible: terrifying, write a special quality about why it’s so horrendous</li>
-<li>It doesn’t have organs or discernible anatomy: amorphous, +1 Armor, +3 HP</li>
+<li>It doesn’t have organs or discernible anatomy: amorphous, +1 Armor, +3 Wounds</li>
 <li>It (or its species) is ancient—older than man, elves, and dwarves:  increase its damage die size by one</li>
 <li>It abhors violence: roll damage twice and take the worst result</li></ul>
 <h2>Salvage and Loot</h2>
@@ -141,7 +141,7 @@
 <p>Note that Chaos and Xenos Threats are their own categories, not terrain types. They represent external threats that have come to Catachan, rather than native creatures adapted to specific terrain.</p>
 <p>When creating your own terrain types, they can be more specific. You could create terrain for the Northern Jungles or the Swamp Regions of Catachan.</p>
 <p>Consult a terrain type to populate a front or when you want a threat that is only tangentially related to one of your fronts. For example, if the heroes are battling against the Ork Waaagh! front, by exploring the ancient ruins that the Orks have made their base then you might use monsters from The Ruins as a related threat—not truly part of the front but still a block in the heroes' path.</p>
-<p>The monster stat blocks within each terrain type describe HP, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Death World: Catachan like "can a pack of Catachan Devils wipe out an entire outpost?"</p>
+<p>The monster stat blocks within each terrain type describe Wounds, damage, and all the other aspects of the monster. These monsters were created with the same process listed above, and the reasons for their stats are just as important as the stats themselves. Looking at the reasoning behind the stats will allow you to present the monsters honestly, answering questions that arise in Death World: Catachan like "can a pack of Catachan Devils wipe out an entire outpost?"</p>
 <h3>The Jungles</h3>
 <p aid:pstyle="NoIndent">The jungles of Catachan are home to some of the deadliest creatures in the galaxy. From the massive Catachan Devils that can swallow a man whole to the venom-snakes that kill with a single bite, every step in the jungle could be your last. Death-spiders spin webs of acid. Barking toads explode with toxic gas. Even the plants want you dead. In the deepest groves, trees that have stood since before man walked amidst their roots hide creatures old and powerful. Under the shadow of the ancient trees, things that shouldn't exist howl for blood. A word of caution, then, to those brave soldiers whose first foray into the jungle leads them into these deadly places; bad things live in the dark. Bad things with sharp teeth. The jungle is always hungry.</p>
 <h3>The Swamps</h3>

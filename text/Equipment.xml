@@ -7,8 +7,8 @@
 <p>These are general tags that can apply to just about any piece of gear. You’ll see them on armor, weapons or general adventuring tools.</p>
 <p><em>Applied</em>: It’s only useful when carefully applied to a person or to something they eat or drink.</p>
 <p><em>Awkward</em>: It’s unwieldy and tough to use. </p>
-<p><em>+Bonus</em>: It modifies your effectiveness in a specified situation. It might be "+1 forward to Jungle Knowledge" or "-1 ongoing to close combat."</p>
-<p><em>n Respect</em>: How much respect is required to requisition this item. Respect is earned through service, successful missions, and standing within the Imperial Guard. If the cost includes "-Charisma" a little negotiation or calling in favors subtracts the requester's Charisma score (not modifier) from the respect required.</p>
+<p><em>+Bonus</em>: It modifies your effectiveness in a specified situation. It might be "Advantage to Jungle Knowledge" or "Disadvantage to close combat."</p>
+<p><em>n Respect</em>: How much respect is required to requisition this item. Respect is earned through service, successful missions, and standing within the Imperial Guard. If the cost includes "-Leadership" a little negotiation or calling in favors subtracts the requester's Leadership score (not modifier) from the respect required.</p>
 <p><em>Standard Issue</em>: This item is automatically assigned to all Imperial Guard personnel. No respect required.</p>
 <p><em>Dangerous</em>: It’s easy to get in trouble with it. If you interact with it without proper precautions the GM may freely invoke the consequences of your foolish actions.</p>
 <p><em>Ration</em>: It’s edible, more or less.</p>
@@ -29,10 +29,11 @@
 <p><em>Ignores Armor</em>: Don’t subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
 <p><em>n Piercing</em>: It goes right through armor. When you deal damage with <em>n</em> piercing, you subtract <em>n</em> from the enemy’s armor for that attack.</p>
-<p><em>Precise</em>: It rewards careful strikes. You use DEX for close combat with this weapon, not STR.</p>
+<p><em>Precise</em>: It rewards careful strikes. You use Agility for close combat with this weapon, not Weapon Skill.</p>
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
-<p><em>Thrown</em>: Throw it at someone to hurt them. If you volley with this weapon, you can’t choose to mark off ammo on a 7–9; once you throw it, it’s gone until you can recover it. </p>
+<p><em>Thrown</em>: Throw it at someone to hurt them. If you volley with this weapon, you can't choose to mark off ammo on a 7–9; once you throw it, it's gone until you can recover it. </p>
+<p><em>Rapid fire</em>: When you attack with a rapid fire weapon, you may choose to fire multiple shots. For each additional shot beyond the first, reduce your ammo by 1 and deal +1d4 damage. You may fire up to 3 shots in a single attack. On a 7–9, if you fired multiple shots, you must also choose one of the normal 7–9 options in addition to the ammo cost.</p>
 <p>Weapons have tags to indicate the range at which they are useful. Death World: Catachan doesn’t inflict penalties or grant bonuses for “optimal range” or the like, but if your weapon says Hand and an enemy is ten yards away, a player would have a hard time justifying using that weapon against him.</p>
 <p><em>Hand</em>: It’s useful for attacking something within your reach, no further.</p>
 <p><em>Close</em>: It’s useful for attacking something at arm’s reach plus a foot or two.</p>
@@ -65,7 +66,7 @@
 <p aid:pstyle="NoIndent">Armor, like weapons, has tags. Some are purely descriptive but the ones below have some mechanical effect on the player wearing them</p>
 <p><em>n Armor</em>: It protects you from harm and absorbs damage. When you take damage, subtract your armor from the total. If you have more than one item with <em>n Armor</em>, only the highest value counts. </p>
 <p><em>+n Armor</em>: It protects you and stacks with other armor. Add its value to your total armor.</p>
-<p><em>Clumsy</em>: It's tough to move around with. -1 ongoing while using it. This penalty is cumulative.</p>
+<p><em>Clumsy</em>: It's tough to move around with. Disadvantage while using it. This penalty is cumulative.</p>
 <h3>Armor List</h3>
 <p aid:pstyle="Item">Flak Armor	<span aid:cstyle="Tags">1 armor, worn, standard issue, 1 weight</span></p>
 <p aid:pstyle="Item">Carapace Armor	<span aid:cstyle="Tags">2 armor, worn, clumsy, 4 Respect, 3 weight</span></p>
@@ -90,7 +91,7 @@
 <p aid:pstyle="Item">Antitoxin	<span aid:cstyle="Tags">1 use, 2 Respect, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">When you inject antitoxin, you're cured of one poison or toxin affecting you.</p>
 <p aid:pstyle="Item">Catachan Tobacco	<span aid:cstyle="Tags">6 uses, 1 Respect, 0 weight</span></p>
-<p aid:pstyle="ItemDescription">When you share Catachan tobacco with someone, expend two uses and take +1 forward to intimidate or negotiate with them.</p>
+<p aid:pstyle="ItemDescription">When you share Catachan tobacco with someone, expend two uses and take Advantage to intimidate or negotiate with them.</p>
 <p aid:pstyle="Item">Auspex Scanner	<span aid:cstyle="Tags">3 uses, 4 Respect, 1 weight</span></p>
 <p aid:pstyle="ItemDescription">When you use an auspex scanner to detect threats or hidden objects, mark off a use and take +1 to read the jungle or discern realities.</p>
 <p aid:pstyle="Item">Vox-Caster	<span aid:cstyle="Tags">1 use, 3 Respect, 2 weight</span></p>
@@ -107,14 +108,14 @@
 <p aid:pstyle="Item">Jungle Rot Extract	<span aid:cstyle="Tags">Dangerous, applied, 5 Respect, 0 weight</span></p>
 <p aid:pstyle="ItemDescription">The target takes ongoing damage until cured. The extract causes rapid tissue decay.</p>
 <h2>Services</h2>
-<p aid:pstyle="Item">A week's billeting at a forward outpost	<span aid:cstyle="Tags">2-Charisma Respect</span></p>
-<p aid:pstyle="Item">A week's billeting at a garrison outpost	<span aid:cstyle="Tags">4-Charisma Respect</span></p>
-<p aid:pstyle="Item">A week's billeting at sector command	<span aid:cstyle="Tags">6-Charisma Respect</span></p>
+<p aid:pstyle="Item">A week's billeting at a forward outpost	<span aid:cstyle="Tags">2-Leadership Respect</span></p>
+<p aid:pstyle="Item">A week's billeting at a garrison outpost	<span aid:cstyle="Tags">4-Leadership Respect</span></p>
+<p aid:pstyle="Item">A week's billeting at sector command	<span aid:cstyle="Tags">6-Leadership Respect</span></p>
 <p aid:pstyle="Item">A week's assignment to non-combat duty	<span aid:cstyle="Tags">1 Respect</span></p>
 <p aid:pstyle="Item">A month's pay for enlistment	<span aid:cstyle="Tags">Standard issue</span></p>
 <p aid:pstyle="Item">A custom item from a tech-priest	<span aid:cstyle="Tags">Base Item + 8 Respect</span></p>
-<p aid:pstyle="Item">A night's R&R	<span aid:cstyle="Tags">3-Charisma Respect</span></p>
-<p aid:pstyle="Item">An evening of entertainment	<span aid:cstyle="Tags">2-Charisma Respect</span></p>
+<p aid:pstyle="Item">A night's R&R	<span aid:cstyle="Tags">3-Leadership Respect</span></p>
+<p aid:pstyle="Item">An evening of entertainment	<span aid:cstyle="Tags">2-Leadership Respect</span></p>
 <p aid:pstyle="Item">Escort for a day along a patrolled route	<span aid:cstyle="Tags">3 Respect</span></p>
 <p aid:pstyle="Item">Escort for a day along a dangerous route	<span aid:cstyle="Tags">8 Respect</span></p>
 <p aid:pstyle="Item">A standard elimination mission	<span aid:cstyle="Tags">1 Respect</span></p>
@@ -147,11 +148,11 @@
 <p aid:pstyle="Item">A sector command hub	<span aid:cstyle="Tags">100 Respect</span></p>
 <p aid:pstyle="Item">A month's maintenance	<span aid:cstyle="Tags">1% of the respect cost</span></p>
 <h2>Favors and Influence</h2>
-<p aid:pstyle="Item">A small favor from a fellow soldier	<span aid:cstyle="Tags">2-Charisma Respect</span></p>
-<p aid:pstyle="Item">"Protection" for a small operation	<span aid:cstyle="Tags">8-Charisma Respect</span></p>
-<p aid:pstyle="Item">A favor from command	<span aid:cstyle="Tags">5-Charisma Respect</span></p>
-<p aid:pstyle="Item">A compelling favor	<span aid:cstyle="Tags">10-Charisma Respect</span></p>
-<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">50-Charisma Respect</span></p>
+<p aid:pstyle="Item">A small favor from a fellow soldier	<span aid:cstyle="Tags">2-Leadership Respect</span></p>
+<p aid:pstyle="Item">"Protection" for a small operation	<span aid:cstyle="Tags">8-Leadership Respect</span></p>
+<p aid:pstyle="Item">A favor from command	<span aid:cstyle="Tags">5-Leadership Respect</span></p>
+<p aid:pstyle="Item">A compelling favor	<span aid:cstyle="Tags">10-Leadership Respect</span></p>
+<p aid:pstyle="Item">An offer you can't refuse	<span aid:cstyle="Tags">50-Leadership Respect</span></p>
 <h2>Gifts and Trophies</h2>
 <p aid:pstyle="Item">A small gift	<span aid:cstyle="Tags">1 Respect</span></p>
 <p aid:pstyle="Item">A fine gift	<span aid:cstyle="Tags">8 Respect</span></p>
@@ -181,7 +182,7 @@
 <p aid:pstyle="MagicItem">Sanctified Spike	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">A nail or spike, twisted and forever cold, said to have been blessed by the Ecclesiarchy and sanctified against the Warp. When hammered into a corpse, it disappears and ensures that corpse will never be risen again—no Warp power short of that of the Chaos Gods themselves can reignite the flame of life (natural or otherwise) in the body.</p>
 <p aid:pstyle="MagicItem">Stasis Field Generator	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">A stasis field generator is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. The field freezes items in time, allowing for compact storage. When you try to retrieve an item from a stasis field generator, roll+WIS. ✴On a 10+, it's right there. ✴On a 7-9, choose one:</p>
+<p aid:pstyle="NoIndent">A stasis field generator is larger on the inside than the outside, it can contain an infinite number of items, and its weight never increases. The field freezes items in time, allowing for compact storage. When you try to retrieve an item from a stasis field generator, roll+Intelligence. ✴On a 10+, it's right there. ✴On a 7-9, choose one:</p>
 <ul><li>You get the exact item, but it takes a while</li>
 <li>You get a similar item of the GM's choice, but it only takes a moment</li></ul>
 <p aid:pstyle="NoIndent">No matter how many items it contains, a stasis field generator is always 0 weight.</p>
@@ -199,7 +200,7 @@
 <p aid:pstyle="MagicItem">The Epoch Lens	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">A Tech-Priest, old and too frail to leave his forge, crafted this intricate and fragile device of glass and gold to examine the histories and relics he so loved. Looking at an object through the lens reveals visions of who made it and where it came from.</p>
 <p aid:pstyle="MagicItem">The Fiasco Codex	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">A thick tome, said to be penned in the blood of poor fools and heretics by some daemon prince possessed of dark humor, this tome details tales and stories of those whose ambition overwhelmed their reason. Reading from this tome teaches one the value of clear-headedness but leaves a sense of dread behind. When you read from the Fiasco Codex, Roll+WIS. ✴On a 10+, ask two of the questions below. ✴On a 7–9, ask one.</p>
+<p aid:pstyle="NoIndent">A thick tome, said to be penned in the blood of poor fools and heretics by some daemon prince possessed of dark humor, this tome details tales and stories of those whose ambition overwhelmed their reason. Reading from this tome teaches one the value of clear-headedness but leaves a sense of dread behind. When you read from the Fiasco Codex, Roll+Willpower. ✴On a 10+, ask two of the questions below. ✴On a 7–9, ask one.</p>
 <ul><li>What is my greatest opportunity, right now?</li>
 <li>Who can I betray to gain an advantage?</li>
 <li>Who is an ally I should not trust?</li></ul>
@@ -208,11 +209,11 @@
 <p aid:pstyle="NoIndent">A simple thing, but useful when you need a breath of fresh air. The unit appears empty but cannot be filled, anything added to it simply spills out. This is because the unit is eternally full of air. If placed underwater, it will bubble forever. If pressed to the mouth, one can breathe normally—toxic fumes are no concern, for example. I'm sure you'll find all sorts of unusual uses for it.</p>
 <p aid:pstyle="MagicItem">Jump Pack	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">Who hasn't always wanted to soar the pretty blue sky? In an attempt to grant the wishes of land-bound soldiers, these great jump packs were created. Known by many names and crafted by as many Tech-Priests, they commonly take the shape of whatever local design patterns hold favor. Worn by means of a harness or, in some dire cases, a surgical procedure.</p>
-<p>When you take to the air with this jump pack, roll+DEX. ✴On a 10+, your flight is controlled and you may stay aloft as long as you like. ✴On a 7–9, you make it aloft but your flight is short or erratic and unpredictable, your choice. ✴On a 6-, you make it aloft, but the coming-down part and everything between is up to the GM.</p>
+<p>When you take to the air with this jump pack, roll+Agility. ✴On a 10+, your flight is controlled and you may stay aloft as long as you like. ✴On a 7–9, you make it aloft but your flight is short or erratic and unpredictable, your choice. ✴On a 6-, you make it aloft, but the coming-down part and everything between is up to the GM.</p>
 <p aid:pstyle="MagicItem">Auspex Goggles	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">Rough-hewn lenses in metal frames. Dinged up and barely held together, they somehow allow the wearer to see much more than their naked eyes might. When you read the signs wearing these gifted lenses, you get to bend the rules a little. On a roll of 10+, ask any three questions you like. They don't have to be on the list. As long as sight could give you answers, the GM will tell you what you want to know.</p>
 <p aid:pstyle="MagicItem">The Ku’meh Maneuver	<span aid:cstyle="Tags">1 weight</span></p>
-<p aid:pstyle="NoIndent">A great, leathery tome worn shiny by the hands of a hundred great generals, this book is often passed from warrior to warrior, from father to son along the great battle lines that have divided Death World: Catachan’s past. Anyone reading it may, upon finishing for the first time, roll+INT. ✴On a 10+, hold 3. ✴On a 7-9, hold 1. You may spend your hold to advise a companion on some matter of strategic or tactical significance. This advice allows you to, at any time, regardless of distance, roll to aid them on any one roll. On a miss, the GM can hold 1 and spend it to apply -2 to any roll of yours or the poor sap who listened to your advice.</p>
+<p aid:pstyle="NoIndent">A great, leathery tome worn shiny by the hands of a hundred great generals, this book is often passed from warrior to warrior, from father to son along the great battle lines that have divided Death World: Catachan’s past. Anyone reading it may, upon finishing for the first time, roll+Intelligence. ✴On a 10+, hold 3. ✴On a 7-9, hold 1. You may spend your hold to advise a companion on some matter of strategic or tactical significance. This advice allows you to, at any time, regardless of distance, roll to aid them on any one roll. On a miss, the GM can hold 1 and spend it to apply -2 to any roll of yours or the poor sap who listened to your advice.</p>
 <p aid:pstyle="MagicItem">Lamented Memento	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">Taking the form of a single lock of bright red hair, bound in a black ribbon and immune to the ravages of time, the Lamented Memento bears a grim enchantment. In it are the memories and emotions of a girl who dealt with Death at the Black Gates so many times that, in the end, they fell in love and she left the world to be with him for a time. Her memory protects the wielder. If he finds himself at the Gates, the Memento can be traded for an automatic result of 10+ on the At Death's Door move.</p>
 <p aid:pstyle="MagicItem">Lodestone Shield	<span aid:cstyle="Tags">+1 armor, 1 weight</span></p>
@@ -220,9 +221,9 @@
 <p aid:pstyle="MagicItem">Servitor Skull	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">An old skull, missing its jaw and very much worse-for-wear. The skull remembers the folly of its former owner—a man with more honor than sense. Once per night, the owner of the skull can ask "Who has it in for me?" and the skull will give up one name in a sad, lonely voice. If the owner of the skull is ever killed, it disappears surreptitiously. No one knows where it might turn up next.</p>
 <p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost Ecclesiarchy monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+WIS. ✴On a 10+, the vision is clear and useful—yielding some valid information. ✴On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand. ✴On a miss, the GM will ask you, "What is it you fear most?" You must answer honestly, of course.</p>
+<p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost Ecclesiarchy monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+Intelligence. ✴On a 10+, the vision is clear and useful—yielding some valid information. ✴On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand. ✴On a miss, the GM will ask you, "What is it you fear most?" You must answer honestly, of course.</p>
 <p aid:pstyle="MagicItem">Teleportation Chamber	<span aid:cstyle="Tags">Slow</span></p>
-<p aid:pstyle="NoIndent">James Ninefingers, eccentric genius Tech-Priest, created these room-sized technological apparati. A metal chamber etched with runes and circuitry, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+INT. ✴On a 10+, you arrive exactly where you'd intended. ✴On a 7–9, the GM chooses a safe location nearby. ✴On a miss, you end up someplace. Maybe it's nearby? It's definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
+<p aid:pstyle="NoIndent">James Ninefingers, eccentric genius Tech-Priest, created these room-sized technological apparati. A metal chamber etched with runes and circuitry, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+Intelligence. ✴On a 10+, you arrive exactly where you'd intended. ✴On a 7–9, the GM chooses a safe location nearby. ✴On a miss, you end up someplace. Maybe it's nearby? It's definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
 <p aid:pstyle="MagicItem">Assassin's Armor	<span aid:cstyle="Tags">1 armor, 1 weight</span></p>
 <p aid:pstyle="NoIndent">A stealthy suit of armor, crafted by the Officio Assassinorum or their agents. It appears as many things to many people and blends in with appropriate apparel through advanced chameleonic technology. The wearer always seems the height of Imperial fashion to any who gaze upon him, and can move through crowds unnoticed.</p>
 <p aid:pstyle="MagicItem">The Sterling Hand	<span aid:cstyle="Tags">0 weight</span></p>

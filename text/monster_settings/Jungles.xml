@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Jungles</h1>
 <Body><p aid:pstyle="MonsterName">Catachan Devil	<span aid:cstyle="Tags">Solitary, Large, Terrifying, Forceful</span></p>
-<p aid:pstyle="MonsterStats">Rending claws (d12+3 damage, 2 piercing)	20 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats">Rending claws (d12+3 damage, 2 piercing)	20 Wounds	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Camouflage, Regenerating</p>
 <p aid:pstyle="MonsterDescription">The apex predator of Catachan. A massive, six-limbed creature with chameleonic skin that blends perfectly with the jungle. Its claws can rend through flak armor like paper, and its regenerative abilities mean that even grievous wounds close within minutes. Most Catachans never see one and live—those who do survive carry the scars as badges of honor. The Devil hunts silently, using the jungle itself as a weapon. <em>Instinct</em>: To hunt</p>
@@ -9,7 +9,7 @@
 <li>Rend armor and flesh</li>
 <li>Regenerate wounds</li></ul>
 <p aid:pstyle="MonsterName">Venom-Snake	<span aid:cstyle="Tags">Group, Small, Stealthy, Poisonous</span></p>
-<p aid:pstyle="MonsterStats">Venomous bite (d6 damage, ignores armor)	6 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Venomous bite (d6 damage, ignores armor)	6 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Camouflage, Venom</p>
 <p aid:pstyle="MonsterDescription">A serpent that can kill with a single drop of venom. Their scales shift to match the jungle around them, making them nearly invisible until they strike. The venom dissolves flesh and armor alike—a bite means certain death without immediate medical attention. They hunt in packs, coordinating their strikes. <em>Instinct</em>: To poison</p>
@@ -17,7 +17,7 @@
 <li>Inject lethal venom</li>
 <li>Retreat into the undergrowth</li></ul>
 <p aid:pstyle="MonsterName">Death-Spider	<span aid:cstyle="Tags">Group, Small, Stealthy, Poisonous</span></p>
-<p aid:pstyle="MonsterStats">Fangs (d8 damage, ignores armor)	8 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Fangs (d8 damage, ignores armor)	8 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Web-spinner, Venom</p>
 <p aid:pstyle="MonsterDescription">Massive arachnids that spin webs strong enough to trap a man. Their venom paralyzes rather than kills—they prefer their prey alive and struggling. Death-spiders work together, creating elaborate traps throughout the jungle. Many a Catachan has been found days later, still alive but cocooned in silk, waiting to be consumed. <em>Instinct</em>: To trap</p>
@@ -25,7 +25,7 @@
 <li>Paralyze with venom</li>
 <li>Wrap prey in silk</li></ul>
 <p aid:pstyle="MonsterName">Barking Toad	<span aid:cstyle="Tags">Horde, Small, Poisonous</span></p>
-<p aid:pstyle="MonsterStats">Toxic explosion (d10 damage ignores armor, area)	3 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Toxic explosion (d10 damage ignores armor, area)	3 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Explosive, Poisonous</p>
 <p aid:pstyle="MonsterDescription">When threatened, these toads explode in a cloud of lethal toxins. The blast can kill everything within meters, and the lingering poison makes the area deadly for hours. They're drawn to movement and noise—a single misstep can trigger a chain reaction that wipes out an entire squad. The "bark" is the sound they make just before detonation. <em>Instinct</em>: To explode</p>
@@ -33,7 +33,7 @@
 <li>Trigger chain reactions</li>
 <li>Poison the area</li></ul>
 <p aid:pstyle="MonsterName">Spike-Thorn Bush	<span aid:cstyle="Tags">Group, Amorphous, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Thorns (d8 damage, 1 piercing)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Thorns (d8 damage, 1 piercing)	12 Wounds	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Plant, Camouflage</p>
 <p aid:pstyle="MonsterDescription">Carnivorous plants that look like ordinary undergrowth until something gets too close. Their thorns inject a paralytic toxin, and their vines drag victims into the center of the bush to be slowly digested. They're mobile, slowly creeping through the jungle to find new hunting grounds. <em>Instinct</em>: To consume</p>
@@ -41,7 +41,7 @@
 <li>Inject paralytic toxin</li>
 <li>Drag prey into the center</li></ul>
 <p aid:pstyle="MonsterName">Jungle Leaper	<span aid:cstyle="Tags">Group, Large, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Pounce (d10+1 damage, 2 piercing)	14 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Pounce (d10+1 damage, 2 piercing)	14 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Leaping, Camouflage</p>
 <p aid:pstyle="MonsterDescription">Massive feline predators that can leap twenty meters in a single bound. They hunt from the canopy, dropping onto prey with crushing force. Their claws are designed to grip and hold while their powerful jaws crush bone. They're pack hunters, coordinating attacks from multiple angles. <em>Instinct</em>: To pounce</p>
@@ -49,7 +49,7 @@
 <li>Crush with powerful jaws</li>
 <li>Coordinate pack attacks</li></ul>
 <p aid:pstyle="MonsterName">Strangler Vine	<span aid:cstyle="Tags">Solitary, Amorphous, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Constrict (d10 damage ignores armor)	16 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Constrict (d10 damage ignores armor)	16 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Plant, Camouflage</p>
 <p aid:pstyle="MonsterDescription">A single vine that can stretch for kilometers through the jungle. It moves slowly but inexorably, wrapping around trees, rocks, and anything else it encounters. Once it has a grip, it constricts with crushing force. The vine is intelligent enough to set ambushes, waiting motionless until prey passes by. <em>Instinct</em>: To strangle</p>
@@ -57,7 +57,7 @@
 <li>Constrict with crushing force</li>
 <li>Set an ambush</li></ul>
 <p aid:pstyle="MonsterName">Blood-Wasp Swarm	<span aid:cstyle="Tags">Horde, Tiny, Swarming, Poisonous</span></p>
-<p aid:pstyle="MonsterStats">Sting (d4 damage ignores armor)	1 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Sting (d4 damage ignores armor)	1 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Swarming, Venom</p>
 <p aid:pstyle="MonsterDescription">Tiny insects that hunt in swarms of millions. A single sting is painful but not lethal—but a swarm can strip a man to the bone in minutes. They're attracted to blood and movement. The sound of their wings is like a chainsaw, and it means death is coming. <em>Instinct</em>: To swarm</p>
@@ -65,7 +65,7 @@
 <li>Sting repeatedly</li>
 <li>Strip flesh from bone</li></ul>
 <p aid:pstyle="MonsterName">Spore-Mist	<span aid:cstyle="Tags">Solitary, Amorphous, Poisonous, Stealthy</span></p>
-<p aid:pstyle="MonsterStats">Toxic spores (d8 damage ignores armor, area)	13 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Toxic spores (d8 damage ignores armor, area)	13 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Amorphous, Poisonous, Camouflage</p>
 <p aid:pstyle="MonsterDescription">A living cloud of fungal spores that drifts through the jungle. It's nearly invisible, appearing as morning mist until it's too late. The spores dissolve flesh and metal, and breathing them means certain death. It's drawn to heat and carbon dioxide, making it especially dangerous around living creatures. Once it finds prey, it envelops them completely. <em>Instinct</em>: To consume</p>
@@ -73,7 +73,7 @@
 <li>Dissolve flesh and equipment</li>
 <li>Drift toward living creatures</li></ul>
 <p aid:pstyle="MonsterName">Razor-Fern	<span aid:cstyle="Tags">Group, Stealthy, Amorphous</span></p>
-<p aid:pstyle="MonsterStats">Razor leaves (d8 damage, 1 piercing)	9 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Razor leaves (d8 damage, 1 piercing)	9 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Plant, Camouflage</p>
 <p aid:pstyle="MonsterDescription">Carnivorous ferns with leaves as sharp as monomolecular blades. They look like ordinary undergrowth until something brushes against them, at which point they lash out with whipping motions. Their leaves can slice through flak armor, and they're often found in patches that make passage nearly impossible. They're drawn to movement and will attack anything that disturbs them. <em>Instinct</em>: To slice</p>
@@ -81,7 +81,7 @@
 <li>Create impassable barriers</li>
 <li>Slice through armor</li></ul>
 <p aid:pstyle="MonsterName">Jungle Stalker	<span aid:cstyle="Tags">Solitary, Large, Stealthy, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Ambush strike (d12+1 damage, 3 piercing)	19 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Ambush strike (d12+1 damage, 3 piercing)	19 Wounds	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Camouflage, Intelligent</p>
 <p aid:pstyle="MonsterDescription">A massive predator that has learned to hunt Guardsmen specifically. It's intelligent enough to understand tactics, setting traps and ambushes that would make a veteran sergeant proud. It studies its prey, learning their patterns and weaknesses. It's patient, waiting days for the perfect moment to strike. Once it attacks, it's relentless, using the jungle itself as a weapon. <em>Instinct</em>: To hunt intelligently</p>

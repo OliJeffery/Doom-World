@@ -12,7 +12,7 @@
 <p aid:pstyle="NoIndent">Medical Coat, Tattered Uniform, or Standard Fatigues</p>
 <p aid:pstyle="NoIndent">Thin Body, Lithe Body, or Scarred Body</p></div>
 <h2>Stats</h2>
-<p aid:pstyle="NoIndent">Your maximum HP is 8+Constitution.</p>
+<p aid:pstyle="NoIndent">Your maximum Wounds is 8+Toughness.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
@@ -37,16 +37,16 @@
 <div id="FieldTreatment"><h3 aid:pstyle="BasicMoveName">Field Treatment</h3>
 <p aid:pstyle="NoIndent">When you <strong>apply field treatment using your medical specialization</strong>, you provide practical medical aid related to your area of expertise. The GM will tell you what effect your treatment has.</p></div>
 <div id="Stabilize"><h3 aid:pstyle="BasicMoveName">Stabilize</h3>
-<p aid:pstyle="NoIndent">When you <strong>use your medkit and medical training to stabilize a critically wounded patient</strong>, roll+Wis. ✴On a 7+, so long as you continue treatment and use medical supplies, you can keep them alive and prevent them from dying. ✴On a 10+, you successfully stabilize them and they can act normally, though severe wounds may still cause problems. If they take aggressive action or further damage, they may destabilize again.</p></div>
+<p aid:pstyle="NoIndent">When you <strong>use your medkit and medical training to stabilize a critically wounded patient</strong>, roll+Intelligence. ✴On a 7+, so long as you continue treatment and use medical supplies, you can keep them alive and prevent them from dying. ✴On a 10+, you successfully stabilize them and they can act normally, though severe wounds may still cause problems. If they take aggressive action or further damage, they may destabilize again.</p></div>
 <div id="PrepareSupplies"><h3 aid:pstyle="BasicMoveName">Prepare Supplies</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) preparing and organizing your medical supplies</strong>, you:</p>
 <ul><li>Restock your medical supplies.</li>
 <li>Prepare specialized treatments of your choice whose total levels don't exceed your own level+1, and none of which is a higher level than your own level.</li>
 <li>Restock all of your standard supplies, which never count against your limit.</li></ul></div>
 <div id="TreatWound"><h3 aid:pstyle="BasicMoveName">Treat Wound</h3>
-<p aid:pstyle="NoIndent">When you <strong>use specialized medical supplies you've prepared</strong>, roll+Wis. ✴On a 10+, the treatment is successfully applied and you have enough supplies left to use them again. ✴On a 7–9, the treatment is applied, but choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>use specialized medical supplies you've prepared</strong>, roll+Intelligence. ✴On a 10+, the treatment is successfully applied and you have enough supplies left to use them again. ✴On a 7–9, the treatment is applied, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
-<li>Your treatment is rushed or incomplete—take -1 ongoing to treat wounds until the next time you prepare supplies.</li>
+<li>Your treatment is rushed or incomplete—take Disadvantage to treat wounds until the next time you prepare supplies.</li>
 <li>You use up the specialized supplies. You cannot use them again until you prepare supplies and restock them.</li></ul>
 <p aid:pstyle="NoIndent">Note that maintaining treatments with ongoing effects will sometimes cause a penalty to your roll to treat wounds.</p></div></div></div>
 <h2>Duty</h2>
@@ -58,7 +58,7 @@
 <h3 aid:pstyle="MoveName">Combat</h3>
 <p aid:pstyle="NoIndent">Save a life that should have been lost.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 10+Str. You carry rations (5 uses, 1 weight) and your medkit, describe it (0 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 10+Strength. You carry rations (5 uses, 1 weight) and your medkit, describe it (0 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Flak armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Carapace armor (2 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
@@ -68,20 +68,15 @@
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Field gear (1 weight) and rations (5 uses, 1 weight)</li>
 <li aid:pstyle="Option">Advanced medkit (0 weight)</li></ul></div>
-<h2>Bonds</h2>
-<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>_______________ has been saved by my medical skills; I will keep them alive.</p>
-<p>_______________ is a good and loyal soldier; I trust them implicitly.</p>
-<p>_______________ is in constant danger, I will keep them safe.</p>
 <p>I am working on teaching _______________ basic first aid.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Specialized Training</h3>
 <p aid:pstyle="NoIndent">Choose one medical treatment. You can prepare that treatment as if it was one level lower.</p>
 <h3 aid:pstyle="MoveName">Invigorate</h3>
-<p aid:pstyle="NoIndent">When you <strong>heal someone</strong> they take +2 forward to their damage.</p>
+<p aid:pstyle="NoIndent">When you <strong>heal someone</strong> they take Advantage to their damage.</p>
 <h3 aid:pstyle="MoveName">The Scales of Life and Death</h3>
-<p aid:pstyle="NoIndent">When <strong>someone is at death's door in your presence</strong>, they take +1 to the roll.</p>
+<p aid:pstyle="NoIndent">When <strong>someone is at death's door in your presence</strong>, they take Advantage to the roll.</p>
 <h3 aid:pstyle="MoveName">Steady Hands</h3>
 <p aid:pstyle="NoIndent">When you treat wounds you ignore the first -1 penalty from ongoing treatments.</p>
 <h3 aid:pstyle="MoveName">First Aid</h3>
@@ -89,7 +84,7 @@
 <h3 aid:pstyle="MoveName">Emergency Response</h3>
 <p aid:pstyle="NoIndent">When you prepare supplies you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to immediately intervene with appropriate treatment (a quick injection, a pressure bandage, a stimulant) and negate the damage.</p>
 <h3 aid:pstyle="MoveName">Self-Sacrifice</h3>
-<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to treat wounds.</p>
+<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take Advantage to treat wounds.</p>
 <h3 aid:pstyle="MoveName">Empower</h3>
 <p aid:pstyle="NoIndent">When you treat wounds, on a 10+ you have the option of choosing from the 7–9 list. If you do, you may choose one of these effects as well:</p>
 <ul><li>The treatment's effects are doubled</li>
@@ -107,7 +102,7 @@
 <h3 aid:pstyle="MoveName">Jungle Doctor</h3>
 <p aid:pstyle="NoIndent">The first time you <strong>spend time studying jungle remedies as appropriate to your specialization</strong> after taking this move, choose a feature associated with your medical training (enhanced senses, steady hands, perfect memory, etc.). When you emerge from study, you permanently gain that physical feature.</p>
 <h3 aid:pstyle="MoveName">Aftermath</h3>
-<p aid:pstyle="NoIndent">When you <strong>take time after a conflict to treat the wounded and assess casualties</strong>, take +1 forward.</p>
+<p aid:pstyle="NoIndent">When you <strong>take time after a conflict to treat the wounded and assess casualties</strong>, take Advantage.</p>
 <h3 aid:pstyle="MoveName">Expert Technique</h3>
 <p aid:pstyle="Requirement">Replaces: Steady Hands</p>
 <p aid:pstyle="NoIndent">You ignore the -1 penalty from two treatments you maintain.</p>
@@ -119,7 +114,7 @@
 <p aid:pstyle="NoIndent">When you prepare supplies you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to immediately intervene with appropriate treatment (a quick injection, a pressure bandage, a stimulant) and negate the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Self-Sacrifice</p>
-<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to treat wounds and add your level to any damage done or healed by the treatment.</p>
+<p aid:pstyle="NoIndent">When you <strong>take damage to save another</strong>, you may take +1d4 damage (ignoring armor). If you do, take Advantage to treat wounds and add your level to any damage done or healed by the treatment.</p>
 <h3 aid:pstyle="MoveName">Field Armor</h3>
 <p aid:pstyle="Requirement">Replaces: Field Protection</p>
 <p aid:pstyle="NoIndent">When you wear no armor you get 3 armor from your medical gear.</p>
@@ -131,4 +126,4 @@
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
 <p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Blaze of Glory</h3>
-<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you perform one final act of medical heroism, using every stimulant, every treatment, every technique you know to save your squad. You push your body beyond its limits, administering emergency treatments to everyone. Roll+Wis. ✴On a 10+, you heal all allies to full HP, remove all debilities, grant them +2 forward, +2 armor, and immunity to all diseases and poisons for the rest of the mission. Your final act ensures they survive. Your medical techniques are passed on—all allies gain a permanent +1 to treat wounds, and one ally gains your full medical knowledge, becoming a Field Medic in your memory. Your name is remembered in medicae bays across Catachan, and your techniques save countless lives. Future medics who know your story take +1 forward when stabilizing the dying. ✴On a 7-9, you heal all allies for 3d8 HP, remove all debilities, and grant them +1 forward and +1 armor. They are immune to disease and poison for the rest of the battle. ✴On a miss, your final act becomes legendary. All allies are healed to full HP, all debilities are removed, and they take +2 forward and +1 armor. Your sacrifice ensures no one else dies today. Your name is remembered in medicae bays across Catachan, and your techniques save countless lives. Your legend grants all future medics +1 forward when they are at death's door.</p></div></Body></Root>
+<p aid:pstyle="NoIndent">When you <strong>choose to go out in a blaze of glory at death's door</strong>, you perform one final act of medical heroism, using every stimulant, every treatment, every technique you know to save your squad. You push your body beyond its limits, administering emergency treatments to everyone. Roll+Willpower. ✴On a 10+, you heal all allies to full Wounds, remove all debilities, grant them Advantage, +2 armor, and immunity to all diseases and poisons for the rest of the mission. Your final act ensures they survive. Your medical techniques are passed on—all allies gain a permanent Advantage to treat wounds, and one ally gains your full medical knowledge, becoming a Field Medic in your memory. Your name is remembered in medicae bays across Catachan, and your techniques save countless lives. Future medics who know your story take Advantage when stabilizing the dying. ✴On a 7-9, you heal all allies for 3d8 Wounds, remove all debilities, and grant them Advantage and +1 armor. They are immune to disease and poison for the rest of the battle. ✴On a miss, your final act becomes legendary. All allies are healed to full Wounds, all debilities are removed, and they take +2 forward and +1 armor. Your sacrifice ensures no one else dies today. Your name is remembered in medicae bays across Catachan, and your techniques save countless lives. Your legend grants all future medics +1 forward when they are at death's door.</p></div></Body></Root>

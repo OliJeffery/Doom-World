@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Chaos</h1>
 <Body><p aid:pstyle="MonsterName">Chaos Cultist	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Ritual knife (d6 damage)	4 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Ritual knife (d6 damage)	4 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Fanatical</p>
 <p aid:pstyle="MonsterDescription">Heretics who have turned from the Emperor to worship the Dark Gods. They're fanatical and willing to die for their cause, making them dangerous even when outnumbered. They perform dark rituals to summon daemons and spread corruption. Some are former Guardsmen, others are civilians who have been corrupted by exposure to the Warp. <em>Instinct</em>: To corrupt</p>
@@ -9,7 +9,7 @@
 <li>Summon daemonic aid</li>
 <li>Spread corruption</li></ul>
 <p aid:pstyle="MonsterName">Chaos Spawn	<span aid:cstyle="Tags">Solitary, Amorphous, Terrifying, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Chaotic touch (d10+1 damage ignores armor)	19 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Chaotic touch (d10+1 damage ignores armor)	19 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Regenerating</p>
 <p aid:pstyle="MonsterDescription">A being that has been so corrupted by Chaos that it has lost its form entirely. It's a writhing mass of flesh, tentacles, and eyes, constantly shifting and changing. It's driven by pure rage and hunger, attacking anything that comes near. Some say they're failed champions, others claim they're the result of dark experiments. Either way, they're a nightmare to face. <em>Instinct</em>: To mutate</p>
@@ -17,7 +17,7 @@
 <li>Regenerate lost flesh</li>
 <li>Strike with unpredictable forms</li></ul>
 <p aid:pstyle="MonsterName">Plaguebearer	<span aid:cstyle="Tags">Group, Intelligent, Poisonous, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Plague sword (d8 damage ignores armor)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Plague sword (d8 damage ignores armor)	10 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Poisonous, Regenerating</p>
 <p aid:pstyle="MonsterDescription">Daemons of Nurgle, the Plague God. They're covered in sores and disease, and their touch spreads corruption. Their swords are coated in filth and disease, and even a scratch can be fatal. They're slow but relentless, and their regenerative abilities make them nearly impossible to kill. They spread disease wherever they go, corrupting the very air. <em>Instinct</em>: To spread disease</p>
@@ -25,7 +25,7 @@
 <li>Spread corruption</li>
 <li>Regenerate from wounds</li></ul>
 <p aid:pstyle="MonsterName">Bloodletter	<span aid:cstyle="Tags">Group, Intelligent, Forceful, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Hellblade (d10+1 damage, 2 piercing)	11 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Hellblade (d10+1 damage, 2 piercing)	11 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Terrifying</p>
 <p aid:pstyle="MonsterDescription">Daemons of Khorne, the Blood God. They're warriors of pure rage and violence, seeking only to spill blood. Their hellblades can cut through armor like paper, and they're driven by an insatiable hunger for death. They're fast and aggressive, charging into combat without fear. They're the embodiment of violence and rage. <em>Instinct</em>: To kill</p>
@@ -33,7 +33,7 @@
 <li>Spill blood</li>
 <li>Feed on death</li></ul>
 <p aid:pstyle="MonsterName">Pink Horror	<span aid:cstyle="Tags">Group, Magical, Intelligent, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Warp fire (d8 damage ignores armor)	8 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Warp fire (d8 damage ignores armor)	8 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Magical</p>
 <p aid:pstyle="MonsterDescription">Daemons of Tzeentch, the Changer of Ways. They're masters of magic and deception, using their powers to warp reality. They can split into smaller horrors when killed, making them difficult to destroy. They're intelligent and cunning, using their magic to manipulate and deceive. They're the embodiment of change and mutation. <em>Instinct</em>: To change</p>
@@ -41,7 +41,7 @@
 <li>Split into smaller horrors</li>
 <li>Cast devastating spells</li></ul>
 <p aid:pstyle="MonsterName">Daemonette	<span aid:cstyle="Tags">Group, Intelligent, Devious, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Claw (d8+1 damage, 1 piercing)	9 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Claw (d8+1 damage, 1 piercing)	9 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Terrifying</p>
 <p aid:pstyle="MonsterDescription">Daemons of Slaanesh, the Prince of Pleasure. They're beautiful and seductive, but their touch brings only pain and corruption. They move with impossible grace, striking with razor-sharp claws. They're masters of temptation, using their appearance to lure victims into traps. They're the embodiment of excess and depravity. <em>Instinct</em>: To corrupt</p>
@@ -49,7 +49,7 @@
 <li>Strike with impossible speed</li>
 <li>Spread corruption through pleasure</li></ul>
 <p aid:pstyle="MonsterName">Chaos Marine	<span aid:cstyle="Tags">Solitary, Intelligent, Organized, Terrifying, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Boltgun (d10 damage, 2 piercing)	18 HP	4 Armor</p>
+<p aid:pstyle="MonsterStats">Boltgun (d10 damage, 2 piercing)	18 Wounds	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Power Armor, Regenerating</p>
 <p aid:pstyle="MonsterDescription">A Space Marine who has fallen to Chaos. They're clad in corrupted power armor and armed with weapons of war. They're faster, stronger, and more durable than any mortal, and their corruption has granted them unnatural abilities. They're the ultimate warriors, twisted by the Dark Gods into instruments of destruction. <em>Instinct</em>: To destroy</p>
@@ -57,7 +57,7 @@
 <li>Use corrupted technology</li>
 <li>Spread fear and despair</li></ul>
 <p aid:pstyle="MonsterName">Warp Rift	<span aid:cstyle="Tags">Solitary, Terrifying, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Warp energy (d12 damage ignores armor, area)	25 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Warp energy (d12 damage ignores armor, area)	25 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Unstable</p>
 <p aid:pstyle="MonsterDescription">A tear in reality itself, a gateway to the Warp. It constantly spews forth daemons and corruption, warping the world around it. The very air becomes toxic, and reality itself becomes unstable. It can only be closed by powerful rituals or the intervention of the Emperor's servants. Until then, it will continue to spread corruption and spawn daemons. <em>Instinct</em>: To corrupt</p>
@@ -65,7 +65,7 @@
 <li>Warp reality</li>
 <li>Spread corruption</li></ul>
 <p aid:pstyle="MonsterName">Possessed Guardsman	<span aid:cstyle="Tags">Group, Intelligent, Terrifying, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Daemonic claw (d10 damage ignores armor)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats">Daemonic claw (d10 damage ignores armor)	12 Wounds	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Regenerating</p>
 <p aid:pstyle="MonsterDescription">A Guardsman whose body has been taken over by a daemon. They still wear their uniform, but their flesh has been twisted and corrupted. They're faster and stronger than they were in life, and their touch spreads corruption. They're a nightmare to face—not just because of what they are, but because of what they once were. <em>Instinct</em>: To corrupt</p>
@@ -73,7 +73,7 @@
 <li>Spread corruption through touch</li>
 <li>Use knowledge of Imperial tactics</li></ul>
 <p aid:pstyle="MonsterName">Flamer of Tzeentch	<span aid:cstyle="Tags">Group, Magical, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Warp flame (d10 damage ignores armor, area)	11 HP	1 Armor</p>
+<p aid:pstyle="MonsterStats">Warp flame (d10 damage ignores armor, area)	11 Wounds	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Magical</p>
 <p aid:pstyle="MonsterDescription">Daemons of Tzeentch that are living flames of Warp energy. They're constantly shifting and changing, their form never stable. They can burn through anything, and their flames spread corruption as well as destruction. They're drawn to magic and psykers, feeding on their power. They're unpredictable and dangerous, their flames warping reality itself. <em>Instinct</em>: To burn</p>
@@ -81,7 +81,7 @@
 <li>Warp reality around them</li>
 <li>Feed on psychic energy</li></ul>
 <p aid:pstyle="MonsterName">Nurgling Swarm	<span aid:cstyle="Tags">Horde, Tiny, Swarming, Poisonous, Warp-Touched</span></p>
-<p aid:pstyle="MonsterStats">Diseased bite (d4 damage ignores armor)	2 HP	0 Armor</p>
+<p aid:pstyle="MonsterStats">Diseased bite (d4 damage ignores armor)	2 Wounds	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Warp-Touched, Poisonous, Swarming</p>
 <p aid:pstyle="MonsterDescription">Tiny daemons of Nurgle that hunt in swarms. They're disgusting and disease-ridden, spreading corruption wherever they go. Individually weak, but their numbers and the diseases they carry make them deadly. They're drawn to decay and filth, and they spread both wherever they go. They're a sign that Nurgle's influence is growing, and that worse is coming. <em>Instinct</em>: To spread disease</p>
