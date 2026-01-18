@@ -1,0 +1,399 @@
+# Playing the Game
+
+Playing Death World: Catachan means having a conversation under the constant shadow of death. Somebody says something, then you reply, maybe someone else chimes in—but the jungle is always listening, always watching, always waiting for the moment to strike. We talk about the fiction—the world of the characters and the unspeakable horrors that happen around them. As we play, the rules will chime in, too, like the voice of the Emperor himself, dictating your fate. They have something to say about the world, and what they say is rarely kind. There are no turns or rounds in Death World: Catachan, no rules to say whose turn it is to talk. Instead players take turns in the natural flow of the conversation, which always has some back-and-forth, always has the threat of death lurking just beneath the surface. The GM says something, the players respond. The players ask questions or make statements, the GM tells them what happens next—and what wants to kill them, what hungers for their flesh, what waits in the darkness. Death World: Catachan is never a monologue; it is always a conversation, but it is a conversation where every word could be your last, where every moment could be your final breath.
+
+The rules help shape the conversation of play, dictating the harsh realities of survival in the Imperium's darkest reaches. While the GM and the players are talking, the rules and the fiction are talking, too, weaving a tapestry of horror and sacrifice. Every rule has an explicit fictional trigger that tells you when it is meant to come into the conversation, when death itself takes notice of your actions. When you trigger a move, the dice decide your fate—and on Catachan, fate is a cruel master that rarely shows mercy. The dice clatter, and in that moment, your life hangs in the balance.
+
+Like any conversation, the time you spend listening is just as important as the time you spend talking. The details established by the other people at the table (the GM and the other players) are important to you: they might change what moves you can make, set up an opportunity for you, or create a challenge you must face. The conversation works best when we all listen, ask questions, and build on each other's contributions. But remember—on Catachan, listening too carefully might mean you hear something you wish you had not, something that will haunt your dreams, something that should not exist.
+
+This chapter is all about how to play Death World: Catachan. Here, you will find information about the rules—how they arise from and contribute to the game, how they shape the perpetual conflict for survival. We will cover both general rules, like making moves, and more specific rules, like those for dealing with damage and Wounds. Remember: every rule serves the grim reality of survival on a Death World, every mechanic reflects the harsh truth that life is cheap and death is constant.
+
+### Ability Scores and Modifiers
+
+Many of the rules discussed in this chapter rely on a player character's abilities and their modifiers. The abilities are Weapon Skill, Ballistic Skill, Strength, Toughness, Agility, Intelligence, Perception, Willpower, and Leadership. They measure a player character's raw ability in each of those areas on a scale from 3 to 18, where 18 is the peak of mortal ability—and even that might not be enough on Catachan.
+
+Each ability has a modifier associated with it that is used when rolling with that ability. Modifiers range from -3 to +3. The modifier is always derived from the current ability score. When a move says to roll with a stat, use the full name (e.g., roll+Weapon Skill, roll+Perception) or the appropriate stat for the action being taken.
+
+## Making Moves
+
+The most basic unit of rules in Death World: Catachan is the move. A move looks like this:
+
+When you**attack an enemy in melee**, roll+Weapon Skill. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+
+Moves are rules that tell you when they trigger and what effect they have. A move depends on a fictional action and always has some fictional effect. "Fictional" means that the action and effect come from the world of the characters we're describing. In the move above the trigger is "when you attack an enemy in melee." The effect is what follows: a roll to be made and differing fictional effects based on the outcome of the roll.
+
+When a player describes their character doing something that triggers a move, that move happens and its rules apply. If the move requires a roll, its description will tell you what dice to roll and how to read their results. On Catachan, every roll matters—failure doesn't just mean you miss, it means the jungle gets another chance to kill you.
+
+A character can't take the fictional action that triggers a move without that move occurring. For example, if Tom tells the GM that his character dashes past a crazed Ork to the open door, he makes the against the odds move because its trigger is "when you act despite an imminent threat." Tom can't just describe his character running past the Ork without making the against the odds move and he can't make the against the odds move without acting despite an imminent threat or suffering a calamity. The moves and the fiction go hand-in-hand.
+
+Everyone at the table should listen for when moves apply. If it's ever unclear if a move has been triggered, everyone should work together to clarify what's happening. Ask questions of everyone involved until everyone sees the situation the same way and then roll the dice, or don't, as the situation requires. But remember: hesitation kills. On Catachan, taking too long to decide can be as deadly as making the wrong choice.
+
+The GM's enemies, NPCs, and other assorted threats also have moves, but they work differently. They don't roll—they just act. The jungle doesn't need to roll to kill you.
+
+### Moves and Dice
+
+Most moves include the phrase "roll+x" where "x" is one of your character's ability modifiers (Toughness for example). Unless the move tells you otherwise, that "roll" always means that you roll two six-sided dice and add their results to the value of the modifier. Some moves will have you add some other value to your roll instead of an ability modifier.
+
+Some moves grant**Advantage**or**Disadvantage**. When you have Advantage, roll three six-sided dice and keep the best two, adding them to your modifier. When you have Disadvantage, roll three six-sided dice and keep the worst two, adding them to your modifier. Advantage and Disadvantage cancel each other out—if you have both, roll normally with two dice.
+
+I'm making a move that asks me to roll+Weapon Skill and my Weapon Skill modifier is +1. I rolled two six-sided dice, got a one and a four. My total is six.
+
+The results always fall into three basic categories, each one a reflection of the Emperor's will—or his absence. A total of 10 or higher (written 10+) is the best outcome—you succeed, and maybe even get something extra, a moment of grace in the endless darkness. A total of 7–9 is still a success but it comes with compromises or cost, a victory paid for in blood and suffering. You might succeed, but you take damage, or you succeed but something else goes wrong, something that will come back to haunt you. A 6 or lower is trouble—the GM makes a move, and it is never good, never kind, never merciful. But you also get to mark XP, because surviving failure on Catachan teaches you things you cannot learn anywhere else, lessons written in the blood of the fallen.
+
+Each move will tell you what happens on a 10+ and a 7–9. Most moves will not say what happens on a 6-, that is up to the GM but you also always mark XP. The GM's move on a miss is always bad—on Catachan, failure means the jungle, the enemies, or the Warp itself gets another chance to kill you, another opportunity to claim your soul for the darkness.
+
+Damage rolls work a little differently. They use different dice depending on who or what is dealing damage.
+
+### Moves and Equipment
+
+The most important role of a character's equipment is to help describe the moves they make. A character without a weapon of some sort isn't going to trigger the jungle fury move when fighting a Catachan Devil since a bare-knuckle punch really doesn't do much to inch-thick chitinous armor. It doesn't count for the purposes of triggering the move.
+
+Likewise, sometimes equipment will avoid triggering a move. Climbing a sheer rock face is usually defying danger, but with a good set of climbing gear you might be able to avoid the imminent danger or calamity that triggers the move. But remember—equipment can fail. On Catachan, everything breaks eventually.
+
+Weapons are particularly likely to modify what moves you can trigger. A character with a Catachan knife can easily stab the Ork gnawing on his leg, triggering jungle fury, but the character with a heavy bolter is going to have a much harder time bringing it to bear on such a close foe.
+
+Items and gear of every sort have tags. Tags are terms to describe things. Some tags have a specific effect on the rules (things like damage reduction on armor or a bonus to a particular kind of move or stat). Other tags are purely about the fiction (like the close tag, which describes the length of a weapon and how near your enemies need to be for you to attack them). Tags help you describe your character's actions when the items are being used and they give the GM information about how the items you're using might go wrong or cause complications when you fail a roll. On Catachan, equipment failure is just another way the world tries to kill you.
+
+### The Effects of Moves
+
+The effects of moves are always about the fictional world the characters inhabit. A 10+ on jungle fury doesn't just mean the mechanical effects, it means you successfully attacked something and did some type of harm to it—maybe you cut through armor, maybe you found a weak spot, maybe you just got lucky.
+
+Once you've figured out what the effects of the move are, apply them to the fiction and go back to the conversation. Always return to what's going on in the game. But remember—even success on Catachan comes with a cost. You might kill the enemy, but you've made noise. You might survive the fall, but you're bleeding. You might escape the ambush, but you're lost in the jungle.
+
+Some moves have immediate mechanical effects, like dealing damage or giving someone a bonus to their next roll. These effects are always a reflection of the fictional world the characters are in; make sure to use the fiction when describing the effects of the move. On Catachan, every mechanical effect has a fictional cost.
+
+#### Some Moves…
+
+…Use the phrase "deal damage." Dealing damage means you roll the damage dice for your class; sometimes your weapon will add or subtract damage too. You use your damage dice any time you make an attack that could reasonably hurt your target. Usually that means you're wielding a weapon, but your fists can be weapons with the right training or an interesting situation. On Catachan, sometimes your bare hands are all you have left.
+
+…Say "take Advantage." That means to roll three dice and keep the best two on your next move roll (not damage). There also might be a condition, such as "take Advantage to close combat," in which case the Advantage applies only to the next time you roll close combat, not any other move.
+
+…Say "take Advantage" or "take Disadvantage." Advantage means to roll three dice and keep the best two on all move rolls (not damage). Disadvantage means to roll three dice and keep the worst two on all move rolls (not damage). There also might be a condition, such as "take Advantage to suppressive fire." An ongoing effect also says what causes it to end, like "until you dismiss the power" or "until you complete your duty."
+
+…Give you "hold." Hold is currency that allows you to make some choices later on by spending the hold as the move describes. Hold is always saved up for the move that generated it; you can't spend your hold from hold the line on threat assessment or vice versa, for example.
+
+…Present a choice. The choice you make, like all move effects, dictates things that happen in the fiction in addition to any more mechanical effects. The choice you make on the 10+ result of jungle fury to deal more damage at the cost of opening yourself up is exactly what's happening to your character: they have enough advantage that they can stay safe or push their luck. On Catachan, pushing your luck is often the only way to survive.
+
+…Give you a chance to say something about your character and their history. When you spout lore you may get asked how you know the information that the GM reveals. Take that opportunity to contribute to the game and show who your character really is. Just keep in mind the established facts and don't contradict anything that's already been described. On Catachan, knowledge is survival—but some knowledge comes with a price.
+
+…Say "mark XP." That means you add one to your current XP total. On Catachan, you learn from your mistakes—if you survive them.
+
+## Harm and Healing
+
+Cuts, bruises, and mortal wounds are constant companions on Catachan, each one a testament to the ceaseless battle for survival. In the course of play, characters will take damage, heal, and maybe even die, their lives measured in moments of pain and brief respites from the horror. A character's health is measured by their Wounds (Wounds). Damage subtracts from Wounds, each point lost a step closer to the Emperor's judgment. In the right conditions, or with medical help, damage is healed and Wounds is restored. But on Catachan, healing is never guaranteed, and death is always waiting, always watching, always ready to claim another soul.
+
+### Wounds
+
+A character's Wounds is a measure of their stamina, endurance, and health—but it is also a measure of their faith, their will to serve the Emperor, their refusal to surrender to the darkness. More Wounds means the character can fight longer and endure more trauma before facing the Emperor's Embrace. But remember—Wounds is not just physical health. It is your will to survive, your luck, your ability to turn a killing blow into a glancing hit, your faith that the Emperor watches over you. When your Wounds runs out, you have used up all your luck, all your skill, all your will to live, and only the Emperor's grace can save you now.
+
+Your class tells your maximum Wounds. Your Toughness (the ability, not the modifier) comes into play as well, so more Toughness means more Wounds. If your Toughness permanently changes during play you adjust your Wounds to reflect your new Toughness score. Unless your Toughness changes your maximum Wounds stays the same.
+
+### Damage
+
+When a character takes damage they subtract the damage dealt from their current Wounds. Armor mitigates damage; if a character has armor they subtract its value from the damage dealt. This might mean a blow is turned away completely—that's fine, it's what armor is for! But remember—armor can fail. On Catachan, even the best flak armor can't protect you from everything. Damage can never take a character below 0 Wounds.
+
+Damage is determined by the attacker. Player characters deal damage according to their class, the weapon used, and the move they've made.
+
+If a move just says "deal damage" the character rolls their class's damage dice plus any bonuses or penalties from moves, weapons, or effects. If a move specifies an amount of damage, use that in place of the class's damage roll.
+
+Enemies roll damage as listed in their description. Use this damage any time the enemy takes direct action to hurt someone, even if they use a method other than their normal attack.
+
+Other sources of damage—like being struck by a chunk of a collapsing outpost, or falling into a pit of venom-snakes—are left to the GM based on these options:
+
+- It threatens bruises and scrapes at worst: d4 damage
+- It's likely to spill some blood, but nothing horrendous: d6 damage
+- It might break some bones: d8 damage
+- It could kill a common person: d10 damage
+- It will almost certainly kill you: d12 damage
+
+Add the*ignores armor*tag if the source of the damage is particularly large or if the damage comes from Warp energy, poison, or acid.
+
+Temporary or circumstantial armor works the same way as armor that you wear: 1 armor for partial cover, 2 armor for major cover. But remember—cover can be destroyed. That barricade won't protect you forever.
+
+Damage is dealt based on the fiction. Moves that deal damage, like jungle fury, are just a special case of this: the move establishes that damage is being dealt in the fiction. Damage can be assigned even when no move is made, if it follows from the fiction.
+
+Wounds loss is often only part of the effect. If the harm is generalized, like falling into a pit, losing the Wounds is probably all there is to it. When the harm is specific, like an Ork pulling your arm from its socket, Wounds should be part of the effect but not the entirety of it. The bigger issue is dealing with the newly busted arm: how do you fire a lasgun or swing a chainsword? Likewise having your head chopped off is not Wounds damage, it's just you being dead. On Catachan, death comes in many forms, and not all of them are quick.
+
+#### Damage From Multiple Creatures
+
+It's a brave enemy that goes into battle alone. Most creatures fight with someone at their side, and maybe another at their back, and possibly a sniper covering the rear, and so on. This can lead to multiple enemies dealing their damage at once.
+
+If multiple creatures attack at once roll the highest damage among them and add +1 damage for each enemy beyond the first.
+
+A Chaos Marine (d10+1 damage ignores armor) and three Ork Boys (d6 damage) all fire their weapons—a boltgun for the Marine, choppas for the rest—at Marcus as he assaults their position. I roll the highest damage, d10+1 ignores armor, and add +3 damage for the three other Orks. Adding it all up I tell Marcus he takes 9 damage ignoring armor as the bolt rounds tear through his flak armor and the choppas find the gaps.
+
+#### Stun Damage
+
+Stun damage is non-lethal damage. A PC who takes stun damage is defying danger to do anything at all, the danger being "you're stunned." This lasts as long as makes sense in the fiction—you're stunned until you can get a chance to clear your head or fix whatever stunned you. A GM character that takes stun damage doesn't count it against their Wounds but will act accordingly, staggering around for a few seconds, fumbling blindly, etc. On Catachan, being stunned is often a death sentence—the jungle doesn't wait for you to recover.
+
+#### Adding and Subtracting Damage
+
+When a move tells you to add damage, you add that damage to the roll on the dice. If it tells you to add some dice (like "+1d4 damage") you roll that extra dice and add its result to the total.
+
+The same goes for subtracting damage: you subtract the number from the total rolled. If you subtract a dice (like "-1d6 damage") you subtract the rolled amount from the original total. Damage never goes negative—0 damage is the minimum.
+
+#### Best and Worst
+
+Some enemies and moves have you roll damage multiple times and take the best or worst result. In this case roll as normal but only apply the best (or worst) result.
+
+If an enemy rolls its d6 damage twice and takes the best result it's written b[2d6]. The b[] means "best." Likewise, w[] means worst, so w[3d10] means "roll a d10 for damage three times and use the worst result."
+
+### Healing
+
+There are two sources of healing in Death World: Catachan: medical aid and the passage of time.
+
+Medical aid heals damage according to the move or item used. Some moves may fully replenish Wounds while others heal just enough to keep someone standing through a fight. But remember—medical supplies are limited. On Catachan, you can't always count on having a medkit when you need it.
+
+Whenever a character spends some time resting without doing anything to aggravate their wounds they heal. The amount of healing is described in the applicable moves: Make Camp for a night in a dangerous area, R&R for stays in relative safety. But remember—on Catachan, there's no such thing as a truly safe place to rest. The jungle is always hungry.
+
+No matter the source of the healing a character's Wounds can never increase above their maximum.
+
+### Death
+
+Death stalks the edges of every battle, every mission, every moment on Catachan, a constant presence that hungers for the souls of the faithful. A character who is reduced to 0 Wounds or takes a hit that should kill them immediately finds themselves at death's door, standing on the threshold between life and the Emperor's will. Death comes for Guardsman and Commissar alike, for the righteous and the damned—no stat is added to the At Death's Door roll, for in that moment, all are equal before the darkness.
+
+No one knows what lies beyond the Emperor's Embrace, but it is said that many secrets of the mortal plane are laid bare in the land of Death's dominion. When you are at death's door, you might just see them. You might see the Warp, that realm of madness and corruption, you might see the Emperor's light, a beacon of hope in the endless darkness, you might see nothing at all, a void that swallows all meaning. But one thing is certain—Death never forgets a soul, and those who cheat death once may find themselves marked for all eternity.
+
+On Catachan, even near-death experiences come with a price, a toll paid in flesh and spirit. Being at death's door may cost you an advanced move you have learned, permanently reduce one of your abilities, or leave you maimed, your body a testament to the horrors you have survived. Some choose to go out in a blaze of glory rather than pay these costs—a final act of defiance against the enemies of the Imperium, a sacrifice that will be remembered long after their bones have been picked clean.
+
+Depending on the outcome of At Death's Door the character may become stable. A stable character is either at 1 Wounds (Wounded) or remains at 0 Wounds but is alive and unconscious, their life hanging by a thread. If they receive healing they regain consciousness and may return to battle or seek safety. If a stable character takes damage again they find themselves at death's door once more, the darkness reaching for them again. But on Catachan, being stable does not mean you are safe—it just means you are not dead yet, and the jungle is patient.
+
+#### After Death
+
+Being a soldier on Catachan isn't easy—it's cold nights in the jungle and sharp blades and xenos threats. Sooner or later, you're going to make that long walk to the Emperor's Embrace and give up the ghost. That doesn't mean you have to give it the satisfaction of sticking around. Death, in its way, is just another challenge to conquer. Even dead soldiers can rise again—if the Warp has its way.
+
+If your character dies you can ask the GM and the other players to try and resurrect you. The GM will tell them what it will cost to return your poor, dead character to life. If you fulfill the GM's conditions the character is returned to life. But remember—on Catachan, resurrection often comes with a price. The Warp doesn't give up souls easily.
+
+No matter the prospects of resurrection for now you make a new character. Maybe a replacement Guardsman joins the squad, worthy of a place in the real action. Maybe the characters in the party find a new friend in an outpost, willing to join them. Maybe your character had a vengeful family member who now seeks to take up their lasgun and chainsword to make right what happened. In any case, make your new character as you normally would at level 1. If your original character returns to life you can play either character, switching between them as you please (so long as it makes sense).
+
+GM, when you tell the players what needs to be done to bring their comrade back, don't feel like it has to derail the flow of the current game. Weave it in to what you know of the world. This is a great opportunity to change focus or introduce an element you've been waiting to show off. Don't feel, either, that it has to be some great and epic quest. If the character died at the end of an Ork choppa, maybe all it takes is an awkward walk back to the outpost and a few thousand thrones donated to the medicae. Think about the ramifications of such a charitable act and how it might affect the world. Remember: Death never forgets a soul stolen from his realm.
+
+### Debilities
+
+Losing Wounds is a general thing, it's getting tired, bruised, cut, and so on. Some wounds are deeper though. These are debilities.
+
+**Weak (Weapon Skill):**You can't exert much force. Maybe it's just fatigue and injury, or maybe your strength was drained by Warp energy or xenos toxins.
+
+**Shaky (Agility):**You're unsteady on your feet and you've got a shake in your hands. Maybe it's fear, maybe it's injury, maybe it's the jungle getting into your head.
+
+**Sick (Toughness):**Something just isn't right inside. Maybe you've got a disease or a wasting illness. Maybe you just drank too much rotgut last night and it's coming back to haunt you. Or maybe it's something worse—something the jungle put inside you.
+
+**Stunned (Intelligence):**That last knock to the head shook something loose. Brain not work so good. Or maybe it's the Warp, whispering in your ear.
+
+**Confused (Perception/Willpower):**Ears ringing. Vision blurred. You're more than a little out of it. On Catachan, confusion is often the last thing you feel before the jungle takes you.
+
+**Scarred (Leadership):**It may not be permanent, but for now you don't look so good. On Catachan, scars are badges of honor—but they're also reminders of how close you came to death.
+
+Not every attack inflicts a debility—they're most often associated with Warp energy, poison, or stranger things like a Genestealer's psychic influence. Each debility is tied to an ability and gives you -1 to that ability's modifier. The ability's score is unaffected so you don't have to worry about changing your maximum Wounds when you're sick.
+
+You can only have each debility once. If you're already Sick and something makes you Sick you just ignore it.
+
+Debilities are harder to heal than Wounds. Some advanced medical technology can do it, sure, but your best bet is getting somewhere safe and spending a few days in a medicae bay. Of course, debilities are both descriptive and prescriptive: if something happens that would remove a debility, that debility is gone.
+
+Debilities don't replace descriptions and using the established fiction. When someone loses an arm that doesn't mean they're Weak, it means they have one less arm. Don't let debilities limit you. A specific disease can have whatever effects you can dream up. Sick is just a convenient shorthand for some anonymous fever picked up from a filthy mutant or a xenos bite.
+
+## Character Change
+
+Death World: Catachan is ever-changing, a living entity that adapts and evolves to better kill those who dare to walk upon its cursed soil. The characters change, too, their souls scarred by the horrors they have witnessed, their bodies marked by the endless struggle for survival. As their missions progress, player characters gain experience (XP), which lets them level up, becoming more capable of surviving the darkness—but also more marked by it. This prepares them for greater danger, bigger missions, and mightier deeds, but also for greater suffering, deeper horrors, and more profound sacrifices. But remember—on Catachan, experience often comes at a price. Every level you gain is paid for in blood, every advancement earned through pain and loss.
+
+Advancement, like everything else in Death World: Catachan, is both prescriptive and descriptive. Prescriptive means that when a player changes their character sheet the character changes in the fiction, their growth reflected in the world around them. Descriptive means that when the character changes in the fiction the player should change the character sheet to match, ensuring that the mechanical representation reflects the spiritual and physical transformation wrought by the endless horror.
+
+This is not a benefit or detriment to the players or the GM; it is not an excuse to gain more powers or take them away. It is just a reflection of life in Death World: Catachan, where every moment of growth comes at a cost, where every lesson is learned in blood. On Catachan, you do not just gain power—you earn it through survival, through suffering, through the ceaseless battle against the shadows.
+
+Marcus, despite being a Close Combat Specialist, has risen to the notice of the Commissar. After being blessed by the Commissar and saying his vows in the chapel, Marcus is under the Commissar's watch. He can fulfill his Duty and gain benefits like a Sergeant.
+
+Jax offers his signature chainsword, a weapon whose teeth are tempered in Ork blood, as a desperate bargain to save Sergeant Harker from certain death. Without his chainsword he gets none of the benefits of his signature weapon. Should he recover it he'll have access to its benefits again.
+
+Descriptive changes only happen when the character has clearly gained access to an ability. It's not up to any one player to decide this—if you think a character qualifies for a new ability, discuss it as a group.
+
+### Level Up
+
+As you play Death World: Catachan, you will be doing three things most of all: exploring dangerous terrain that hungers for your death, fighting deadly enemies that should not exist, and gathering salvage from the bones of the fallen. For each of these things you will be rewarded XP at the end of the session, each point a testament to your survival in the face of certain doom. Acting according to your Duty and fulfilling the conditions of your Duty moves will grant you XP at the end of each session as well, the Emperor rewarding your faithful service. If the squad marks a shared experience that strengthened your cohesion, you will gain XP, too, for unity in the face of death is what keeps soldiers alive. Any time you roll a 6- you get XP right away, for failure teaches harsh lessons that success cannot. The GM may have special conditions that you can fulfill to earn XP or might change the core ones to reflect the world. They will let you know before you play, for the rules of survival are written in blood.
+
+When your characters have safety and a chance to rest—if such a thing exists on Catachan—they will be able to make the Veteran's Advancement move to level up and gain new moves, their hard-won experience transforming them into something more than they were, something more capable of surviving the endless horror.
+
+#### Multiclass Moves
+
+The multiclass moves allow you to gain moves from another class. You get to choose any move of your level or lower. For the purpose of multiclassing, any starting class moves that depend on each other count as one move. If a move from another class refers to your level, count your levels from the level where you first gained a move from that class.
+
+#### Requires and Replaces
+
+Some moves that you gain at higher levels depend on other moves. If another move is listed along with the word Requires or Replaces you can only gain the new move if you have the listed move.
+
+A move that requires another move can only be taken if you have the move it requires already. You then have both moves and they both apply.
+
+A move that replaces another move can only be taken if you have the move it replaces already. You lose access to the replaced move and just have the new one. The new move will usually include all the benefits of the replaced one: maybe you replace a move that gives you 1 armor with one that gives you 2 armor instead.
+
+#### Beyond 10th Level
+
+Once you've reached 10th level things change a little. When you have enough XP to go to 11th level instead you choose one of these:
+
+- Retire to safety (if such a thing exists on Catachan)
+- Take on an apprentice
+- Change entirely to a new class
+
+If you retire you create a new character to play instead and work with the GM to establish your place in the world. If you take on an apprentice you play a new character (the apprentice) alongside your current character, who stops gaining XP. Changing classes means keeping your ability scores, Wounds, and whatever moves you and the GM agree are core to who your character is. You lose all other class moves, replacing them with the starting moves of your new class.
+
+## Squad Cohesion
+
+Squad Cohesion is what makes you a unit, not just a random assortment of soldiers thrown together by the cruel whims of the Imperium. It represents the trust, coordination, and shared experience that binds your squad together, forged in the crucible of constant danger and endless horror. On Catachan, cohesion is what keeps you alive—your squad is your only family, the only thing standing between you and the darkness that hungers for your soul.
+
+Squad Cohesion starts at 1 when you form your squad. It can range from 0 to 3. When you make the Aid or Interfere move, you roll+Squad Cohesion. When you maintain a formation, you roll+Squad Cohesion. High cohesion means your squad works together seamlessly, covering each other's weaknesses and amplifying each other's strengths. Low cohesion means you're just individuals trying to survive, each watching their own back.
+
+### Orders
+
+Orders are tactical commands that coordinate your squad's actions. Anyone can give orders, but they work best when given by someone with authority or experience. When you give an order, you're trying to coordinate your squad's actions—telling someone to take a shot, ordering a tactical repositioning, coordinating a combined assault, or establishing a formation.
+
+Orders require clear communication and a squad willing to follow them. If Squad Cohesion is 0, orders are likely to be ignored or misunderstood. If Squad Cohesion is 3, your squad moves as one, anticipating each other's actions and covering each other's weaknesses.
+
+Examples of orders: "Cover fire on my mark!", "Fall back to defensive positions!", "Flank left, I'll draw their attention!", "Form a firing line!", "Suppressing fire while we advance!"
+
+### Formations
+
+Formations are tactical arrangements that provide benefits when maintained. A formation represents how your squad positions itself relative to each other and the enemy. Formations must be established through the Give Orders move or by describing how you're positioning yourselves.
+
+Common formations include:
+
+- **Firing Line**: Squad members spread out in a line, providing overlapping fields of fire. Everyone gains +1 armor against ranged attacks, but you're vulnerable to flanking.
+- **Defensive Circle**: Squad forms a circle, covering all angles. Everyone gains +1 armor and enemies cannot get behind you, but movement is restricted.
+- **Wedge/Arrowhead**: Squad forms a V-shape with a point person leading. The point person takes Disadvantage but everyone else gains Advantage on attacks. Good for advancing through hostile terrain.
+- **Overwatch**: Squad members cover each other, some advancing while others provide covering fire. Those providing cover gain Advantage on ranged attacks, those advancing gain +1 armor.
+- **Skirmish Line**: Squad spreads out loosely, maintaining distance. Everyone gains Advantage on movement and evasion, but coordination is harder—orders take Disadvantage.
+
+Formations can be changed during combat, but doing so requires coordination. You can change formation by giving an order, or by having everyone describe how they reposition. Changing formation in the middle of combat might require a Maintain Formation roll if you're under fire.
+
+Formations only work if you can maintain them. If you're ambushed, if someone breaks formation, or if the enemy forces you apart, the formation is lost. You can re-establish it, but it takes coordination and time.
+
+### Building Squad Cohesion
+
+At the end of each session, the squad may mark a shared experience that strengthened your cohesion. This might be surviving a near-death experience together, completing a difficult mission, covering each other in combat, successfully maintaining a formation under fire, or any moment where the squad proved they can rely on each other. When you mark such an experience, everyone marks XP and Squad Cohesion increases by 1 (maximum 3).
+
+Examples of experiences that build cohesion: successfully coordinating an ambush, saving a squadmate from certain death, sharing critical supplies when rations run low, standing together against overwhelming odds, completing a mission objective through teamwork, or maintaining a formation through a devastating assault.
+
+### Losing Squad Cohesion
+
+If the squad suffered a major betrayal, failure, or conflict during the session, Squad Cohesion decreases by 1 (minimum 0). This might happen when someone abandons the squad, when a plan fails catastrophically due to poor coordination, when resources are hoarded instead of shared, when squad members turn on each other, or when orders are consistently ignored or formations break at critical moments.
+
+Examples of experiences that reduce cohesion: a squadmate abandons others to save themselves, a critical failure causes the death of a squadmate, resources are stolen or hoarded, orders are disobeyed leading to disaster, open conflict breaks out between squad members, or a formation breaks at a critical moment causing casualties.
+
+Squad Cohesion is tracked by the entire squad together—it's a shared resource that reflects how well you function as a unit. When cohesion is high, you fight as one, orders are followed instantly, and formations hold even under the most devastating fire. When it's low, you're just individuals trying to survive, each watching their own back, and coordination becomes nearly impossible.
+
+## Duty
+
+Duty is your character's way of thinking and moral compass, the core belief that drives them forward in the endless darkness. For the character, this can be an ethical ideal, religious strictures born of faith in the God-Emperor, or maybe just a gut instinct forged in the crucible of survival. It reflects the things your character might aspire to be and can guide you when you are not sure what to do next, when the darkness closes in and all hope seems lost. Some characters might proudly proclaim their duty while others might hide it away, keeping their true nature secret from those who would judge them. A character might not say, "I am a heretic," but may instead say, "I put myself first." That is all well and good for a character, but the world knows otherwise. Buried deep down inside is the ideal self a person wants to become—it is this core that certain Warp powers and abilities tap into when detecting someone's duty, for the Warp sees the truth that mortals try to hide. Every sentient creature in Death World: Catachan bears a duty, be they a Guardsman sworn to the Emperor, a mutant corrupted by the Warp, or some other, stranger thing that should not exist.
+
+The duties are Service to the Emperor, Duty to the Squad, Survival Above All, Chaos Corruption, and Heretical Acts. Each one shows an aspiration to be a different type of person, each one a path that leads to either salvation or damnation.
+
+Service to the Emperor creatures aspire to impose order on the world, either for their own benefit or for that of others, their faith in the God-Emperor driving them to serve the Imperium's will. Chaos Corruption creatures embrace change and idealize the messy reality of the Warp, prizing freedom above all else, their souls tainted by the dark powers that hunger for reality itself. Duty to the Squad creatures seek to put others before themselves, their loyalty to their comrades stronger than their own survival instinct. Heretical Acts creatures put themselves first at the expense of others, their selfishness a corruption that spreads like a disease.
+
+A Survival Above All creature looks out for itself so long as that does not jeopardize someone else's well-being. Survival Above All characters are content to live their lives and pursue their own goals and let others do the same—so long as survival is not threatened, so long as the darkness does not close in.
+
+Most creatures are Survival Above All. They take no particular pleasure in harming others, but will do it if it is justified by their situation, if it means the difference between life and death. Those that put an ideal—be it Service to the Emperor, Chaos Corruption, Duty to the Squad, or Heretical Acts—above themselves are harder to find, for such devotion is rare in a universe that cares nothing for the individual.
+
+Even two creatures of the same duty can come into conflict. Aspiring to help others does not grant infallibility, two Duty to the Squad creatures may fight and die over two different views of how to do right.
+
+### Changing Duty
+
+Duty can, and will, change. Usually such a change comes about as a gradual move toward a decisive moment. Any time a character's view of the world has fundamentally shifted they can chose a new duty. The player must have a reason for the change which they can explain to the other players.
+
+In some cases a player character may switch duty moves while still keeping the same duty. This reflects a smaller shift, one of priority instead of a wholesale shift in thinking. They simply choose a new move for the same duty from below and mention why their character now sees this as important.
+
+#### Service to the Emperor
+
+- Uphold the letter of Imperial law over the spirit
+- Fulfill a promise of import
+- Bring someone to Imperial justice
+- Choose honor over personal gain
+- Return salvage to its rightful owner
+
+#### Duty to the Squad
+
+- Ignore danger to aid another
+- Lead others into righteous battle
+- Give up powers or riches for the greater good
+- Reveal a dangerous lie
+- Show mercy
+
+#### Survival Above All
+
+- Make an ally of someone powerful
+- Defeat a personally important foe
+- Learn a secret about an enemy
+- Uncover a hidden truth
+
+#### Chaos Corruption
+
+- Reveal corruption
+- Break an unjust law to benefit another
+- Defeat a tyrant
+- Reveal hypocrisy
+
+#### Heretical Acts
+
+- Take advantage of someone's trust
+- Cause suffering for its own sake
+- Destroy something beautiful
+- Upset the rightful order
+- Harm an innocent
+
+## The Soldier's Life
+
+Now you know the basics. It's time you found out what the soldier's life is really like on Catachan. They say it's all glory and honor. That's sometimes true, but sometimes it also means digging through xenos waste for a chance at one more day of survival.
+
+### Mission Areas
+
+As a soldier you'll spend a lot of time in mission areas. The word "mission area" conjures up an image of abandoned outposts, overgrown ruins, and deadly jungle terrain, but a mission area is really any place filled with danger and opportunity. An Ork camp, a Chaos cult's lair, a forgotten sewer, a Warp-tainted structure, the very depths of the jungle.
+
+The most important thing to remember when you're in a mission area is that it's a living place. Just because you cleared the guards out of the entryway doesn't mean they won't be replaced by fresh recruits. Every enemy, soldier, or leader you kill has friends, mates, followers, and spawn somewhere. Don't count on anything in a mission area. The jungle is always hungry, and it's always watching.
+
+Since mission areas are living places you'd better prepare for the long haul. Rations are your best friend. Delving into the ruins of Outpost Gamma-7 isn't a day trip. Once you're inside your exit might be blocked. Even if you could just waltz out the time you spend doing it just gives your enemies time to prepare. Those Orks aren't tough, but when they have time to rally and prepare traps…
+
+Speaking of traps—keep your eyes open for them, too. The Sniper is your best friend there. They can stop you before you wander into a pit trap or fill the room with acid. Without one you're not in dire trouble, but you're likely to need to take your time and be extra careful. You can investigate an area by discerning realities, but you'll be taking more risks than a skilled Sniper would.
+
+When you're unlucky enough to trigger a trap you might have a chance to get out of the way, throw up a quick protective move, or save a friend—most likely by defying danger. Of course not every trap is so crude as to give you time to get out of the way. A well-built trap will have a blade in your side before you even know it's sprung. On Catachan, traps don't just kill you—they make you suffer.
+
+That sounds grim, sure, but it's not as bad as all that. You've got lasguns, skills, and your squad. If you stick together and keep your wits you'll make it out alive. Probably.
+
+### Enemies
+
+The beasts and worse that fill mission areas? We call them enemies.
+
+Not all of them appear monstrous. Sometimes it's just a guy in some armor—no horns, flames, or wings, nothing. But when that guy wants to kill you, well, he's as much an enemy as the rest. On Catachan, the most dangerous enemies are the ones that look human.
+
+Some don't even need arms and armor. A wily psyker or nefarious cultist can stab you in the back a dozen times with a word or two. Be wary of anyone who can stroll around a mission area with nothing but a robe and a staff: there's a reason they don't need a shell of steel. They have something worse.
+
+When it comes to fighting enemies, it's an even bet: your life versus theirs. You should know that going into it. If you can avoid it, never fight with even odds. Unless you have the advantage you're probably better off working to gain that advantage than betting your life on a fight. Find their weaknesses, pad your advantages, and you'll live long enough to enjoy another day. On Catachan, survival is victory.
+
+Fights often mean triggering moves like jungle fury, hold the line, or suppressive fire. Against the odds comes up pretty often too, and class moves. The best fight for you is one where you have the drop—since jungle fury is triggered by attacking in melee, and a defenseless enemy isn't really in melee, the move won't trigger—you'll just bury a weapon in their back and deal your damage.
+
+Enemies generally fall into a few types. Humanoids are more or less like you—Orks, mutants, and so on. Beasts are animals, but not so docile as a grox: think foot-long claws and acid sacs. Constructs are crafted life—servitors, automated defenses, and the like. Xenos monsters come from beyond this world, from places only dreamed of. The Warp-touched might be the worst of all: that which is touched by the Warp is damn hard to kill again.
+
+When you find yourself in a fight with an enemy you have a few different tricks up your sleeve that can help you survive. If the enemy's something you might know about, you could consult your knowledge and spout lore. It never hurts to take a minute to look around and discern realities, too—there might be something helpful nearby that you missed. Make sure you understand your class moves and how they can help you, too. You never know when a move might come in handy in a new way. On Catachan, knowledge is survival.
+
+### The Jungle
+
+There's mission areas, there's outposts, and there's all the stuff in-between: the jungle. The line between a jungle path and a mission area is thinner than you might think—have you ever been lost in the night and surrounded by Catachan Devils?
+
+Journeys by road are easy. When you've got a trail to follow and some modicum of protection you're not even making moves—you just consume some rations on the way and make it to your destination. If it's a perilous journey though…
+
+On a perilous journey you'll need a trailblazer, a scout, and a quartermaster. That means you'll probably want at least three people when you're traveling in dangerous areas. Fewer than three and you'll be neglecting something—that's an invitation for trouble. On Catachan, traveling alone is suicide.
+
+### Friends and Enemies
+
+You're a soldier, so people will pay attention to you. Not all of that attention is going to be positive. You'll find that, especially once you're laden down with salvage, all manner of hangers-on will appear from the woodwork.
+
+Sure, you can get leverage on these people and parley them to get what you want, but the way to build a lasting connection is to do right by them. Forcing Commissar Voss to give you a promotion in return for saving his life will get you the rank, but the reputation that comes along with your shady dealing won't do you many favors. Coercion isn't mind control, so play it nice if you want to make friends.
+
+Warp powers, though, that just might be mind control. The morality of it's debatable but you can bend someone to your will if you don't mind tossing their free will in the corner. But remember—on Catachan, using Warp powers always comes with a price.
+
+It's worth keeping track of who's got your back and who'd sooner stab you in it. The GM will be doing the same, and the worst enemy is the one you don't know. You're not the only ones in Death World: Catachan with grand designs.
+
+While you live the soldier's life, with no fixed address to give, other folks are likely to be more settled. Knowing where the quartermaster is that does the best work, or which outpost's billets will put you up free of charge, is a fine thing indeed.
+
+Keep in mind that not all power is physical. Even if you could take down Commissar Voss in a fight you'll just be inviting retribution from his kin, allies, and command. Station is its own kind of power apart from Warp energy and might.
+
+### The World
+
+You're a soldier; you're a big deal. But there are other forces at work too. The world will go on without you. If you don't deal with the Ork infestation in the ruins maybe someone else will. Or maybe the Orks will take over the outpost. Do you really want to find out?
+
+A world in motion is a world waiting to be changed. Your choices of who to kill (or not), where to go, what bargains to make—it all changes the world you're in. Changing the world requires acting on it—making moves and pursuing salvage and exploration. Change comes in many forms, including XP used to level up and gain new abilities. Those abilities are then used to go back out into the world and stir things up. It's a cycle of change and growth for both you and the world you live in. But remember—on Catachan, change often comes at a price. Every victory is paid for in blood.

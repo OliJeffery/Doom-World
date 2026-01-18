@@ -1,0 +1,106 @@
+# Introduction
+
+## Death World: Catachan
+
+Catachan is a Death World. A blighted sphere in the Imperium's darkest reaches where every leaf conceals a blade, every creature hungers for human flesh, and every breath carries the stench of decay. There is no mercy here. No redemption. Only the endless cycle of death and the Emperor's will that you endure it. The jungle cares nothing for your rank, your service medals, or your desperate prayers to the God-Emperor of Mankind. It knows only that you are meat, and meat is food for the endless hunger of this cursed world.
+
+You are Catachan Jungle Fighters. Born in the crucible of this hell-world, baptized in the blood of the fallen, you have survived where billions have perished. You have learned to read the signs of death—the way the leaves rustle when something monstrous is hunting, the coppery tang of spilled blood on the wind, the oppressive silence that means something unnatural watches from the shadows. You have learned that the jungle is an entity of pure malevolence, always hungry, always waiting, always ready to devour the unwary.
+
+This is not war. This is survival against a planet that despises your very existence. Every step upon this accursed soil could be your last. That vine? It might constrict around your throat and drink your life. That flower? Its pollen might dissolve your lungs from within, leaving you to drown in your own blood. That shadow? It might be a Catachan Devil, and you are already dead—you simply have not yet realized it. But you are Catachan. You have survived this long through faith, fury, and the Emperor's grace. The jungle has not claimed you yet, and by His will, it shall not claim you today.
+
+You and your squad*are*those survivors. You march into the deepest darkness where the jungle is thickest, where the Warp-touched horrors are greatest, where the Imperium's missions take you into the very heart of damnation itself. There are abominations lurking in every shadow, xenos filth hiding in every clearing, and the taint of Chaos corrupting the very air you breathe. Are you ready to face them? Are you ready to die in the Emperor's name?
+
+## The Scout
+
+You move like a wraith through the killing ground, a specter of death that the jungle itself cannot track. While your squad-mates crash through the undergrowth with all the subtlety of a charging grox, you glide ahead, reading the signs of death, spotting the ambushes before they spring. You have spent more time alone in the deep jungle than most men have spent drawing breath. You know which plants will poison you, which creatures are hunting you, and which shadows conceal the things that should not exist.
+
+Your squad's lives depend on you. Without your eyes, they would walk blindly into a Catachan Devil's nest and be torn apart. Without your ears, they would miss the sound of something massive and hungry moving in the canopy above. Without your instincts, they would all be dead, their bones picked clean by the jungle's endless hunger. You are the one who finds the paths that do not lead to death, the water that is not tainted, the high ground that offers a moment's respite. You are the one who keeps them alive, for now.
+
+Keep moving. Keep watching. The jungle never sleeps, and neither can you.
+
+## The Field Medic
+
+On Catachan, death comes in ten thousand forms. Poison that dissolves flesh from bone. Disease that rots the mind before it claims the body. Wounds that fester and refuse to heal, turning proud Guardsmen into screaming wrecks. You have watched men die from mere scratches, their bodies consumed by infection in hours. You have watched men survive wounds that should have killed them instantly, their faith in the Emperor keeping them alive long enough for your ministrations. You know which plants can save a life and which will end it in agony. You know how to treat a man who has been stung by a death-spider, bitten by a venom-snake, or infected with the jungle rot that eats away at the soul.
+
+Your squad trusts you with their lives, for you are all that stands between them and the Emperor's will. When they are bleeding out, when the poison courses through their veins, when the fever burns them alive from within, you are the one who saves them. You are the one who keeps them fighting when their bodies scream for the release of death. You are the difference between life and death, between service and failure, between honor and disgrace.
+
+Save who you can. Learn from the ones you cannot. The jungle teaches harsh lessons, and failure means another soul lost to the darkness.
+
+## The Sergeant
+
+You have been fighting on Catachan longer than most of your squad has been alive. You have seen horrors that would break lesser men. The ambushes that come from nowhere. The traps that claim the unwary. The things that crawl out of the dark, things that should not exist, things that hunger for human flesh. You have lost more friends than you can count, their names etched into your memory alongside their final screams. You bear more scars than you have clean skin, each one a testament to a death you cheated. And you are still here, still fighting, still serving the Emperor's will.
+
+Experience is the only teacher that matters on a Death World, and you have learned every lesson in blood. You have learned the hard way what works and what gets you killed, what tactics save lives and what strategies lead to mass graves. Your squad looks to you for wisdom, for leadership, for the knowledge that only comes from surviving when you should have died a hundred times over. You have forgotten more about jungle warfare than most men will ever learn, and what you remember is written in the scars of the fallen.
+
+Pass on what you know. Keep them alive. That is your duty, your burden, your sacred charge. Fail, and their blood is on your hands for all eternity.
+
+## The Medic
+
+On Catachan, death comes in ten thousand forms. Poison that dissolves flesh from bone. Disease that rots the mind before it claims the body. Wounds that fester and refuse to heal, turning proud Guardsmen into screaming wrecks. You have watched men die from mere scratches, their bodies consumed by infection in hours. You have watched men survive wounds that should have killed them instantly, their faith in the Emperor keeping them alive long enough for your ministrations. You know which plants can save a life and which will end it in agony. You know how to treat a man who has been stung by a death-spider, bitten by a venom-snake, or infected with the jungle rot that eats away at the soul.
+
+Your squad trusts you with their lives, for you are all that stands between them and the Emperor's will. When they are bleeding out, when the poison courses through their veins, when the fever burns them alive from within, you are the one who saves them. You are the one who keeps them fighting when their bodies scream for the release of death. You are the difference between life and death, between service and failure, between honor and disgrace.
+
+Save who you can. Learn from the ones you cannot. The jungle teaches harsh lessons, and failure means another soul lost to the darkness.
+
+## The Sniper
+
+You kill from the shadows, a specter of death that strikes without warning. One shot. One kill. That is your way, your creed, your sacred duty. While your squad-mates fight in the open, you wait in the canopy, in the rocks, in the perfect position where death cannot find you. You have learned the patience of the grave. You have learned to watch, to wait, to strike when the moment is perfect. You have learned that the best way to survive is to never be seen at all, to be a ghost that the jungle itself cannot track.
+
+Your lascarbine is an extension of your will, a tool of the Emperor's judgment. You know every creak, every whisper, every way it can deliver death. You have learned to read the wind, the light, the distance, to calculate the perfect moment when your target's life can be extinguished. You have learned to kill things that most men cannot even see, to end lives from impossible distances. You are the ghost in the jungle, the death that comes from nowhere, the Emperor's judgment made manifest in a single, perfect shot.
+
+Take the shot. Make it count. The jungle is watching, and so is the Emperor.
+
+## The Close Combat Specialist
+
+Your chainsword is your best friend, your constant companion, the instrument of the Emperor's wrath. You have killed more abominations with it than you have with your lasgun, each death a prayer to the God-Emperor. When the fighting gets close, when the jungle closes in, when there is no room to shoot, that is when you shine. You have learned to fight in the dark, in the mud, in places where most men would die screaming. You have learned to kill in the embrace of death itself.
+
+You are not afraid of close combat. You welcome it, you crave it, you live for the moment when your chainsword bites into xenos flesh. You have learned that sometimes the best way to kill something is to get close enough to smell its breath, to see the fear in its eyes before you end its existence. You have learned that a chainsword in the right place can kill things that bullets cannot, can end threats that ranged weapons only anger. You are the one who charges when others retreat, who fights when others run, who stands firm when all hope is lost.
+
+Get close. Get bloody. The jungle respects strength, and the Emperor rewards the faithful.
+
+## The Tech-Priest
+
+The jungle despises technology, hates the works of man with a passion that borders on the sentient. The humidity rusts metal, the plants grow over machinery like a cancer, the animals chew through cables with teeth that should not exist. But you understand the machine-spirit, you commune with the sacred technology of the Omnissiah. You know how to keep the weapons working when they should have failed, how to appease the machine-spirit when it grows angry. You know how to repair the vox when it breaks, how to make the equipment last longer than it has any right to, how to keep the Emperor's tools functioning in this accursed place.
+
+Your squad depends on their gear, and their gear depends on you. Their lasguns, their vox units, their auspex scanners—all are sacred instruments of the Imperium's will. When it breaks, when it fails, when the jungle tries to destroy it, you are the one who fixes it. You are the one who keeps the machine-spirit happy, who ensures the technology survives the Death World's endless attempts to corrupt and destroy. You are the one who stands between your squad and the failure that comes when their tools betray them.
+
+Maintain the gear. Honor the machine-spirit. The jungle is always trying to break things, and you are the one who must keep them whole.
+
+# Why?
+
+Why play Death World: Catachan?
+
+First, to see the characters**survive the impossible**. To witness them face down abominations that should not exist, navigate terrain that hungers for their death, and complete missions that would kill lesser soldiers in moments. To see them caught up in the endless struggle between humanity and a planet that wants to devour them, to watch them cling to life in the face of certain doom, to see them serve the Emperor's will even as the darkness closes in.
+
+Second, to see them**rely on each other**. To watch a squad work together despite their differences, to see them cover each other's backs when the jungle attacks, to witness the cohesion forged in the crucible of constant danger and shared suffering. A Catachan squad that does not trust each other is a dead squad, their bones picked clean by the jungle's endless hunger. Only through unity can they survive.
+
+Third, because**Catachan is endless**. There are always new threats, new missions, new parts of the jungle that have not been explored—or that should never be explored. The planet itself is the enemy, and it has plans of its own, schemes that span millennia. Play to see what horrors await in the next clearing, what missions the Imperium will send you on, and how the jungle will try to kill you next. The darkness is infinite, and so is the struggle.
+
+# How to Use This Book
+
+This book will teach you how to play Death World: Catachan. If you're going to be the GM, you'll need to read the whole thing, though you can skim through the monster stats for now and save the Advanced Missions chapter for later. Try printing the play aids too, they'll help you see what's most important. If you're a player, you might not need to read more than Playing the Game—a lot of the rules in Death World: Catachan will be contained in the character sheets you use during the game itself. You'll come back to the text a few times throughout your game to refer to certain rules, but it should be a rare occasion.
+
+# Setting Up
+
+To play Death World: Catachan, you'll need to gather yourself and 2–5 friends. A group of 4 to 6, including you, is best. Choose one person to be the Game Master (GM). Everyone else will be players, taking the role of the characters in the game (we call these the player characters or PCs). As you play, the players say what their characters say, think, and do. The GM describes everything else in the world—especially the jungle and all the ways it wants to kill you.
+
+You can play a single session or string together multiple sessions into a campaign. Plan accordingly if you plan on playing a campaign, maybe setting aside a night of the week to play. Each session will usually be a few hours and you'll be able to start playing right away within the first session.
+
+You'll need to print some materials. Before you start a new game, find or print off at least:
+
+- A few copies of the basic and special moves
+- One copy of each class sheet
+- One copy of the mission sheet and GM moves
+- Miscellanea such as: pens and pencils, scrap paper for maps and notes, maybe some index cards
+
+Everyone at the table will need something to write with and some six-sided dice. Two dice is the minimum but two dice per player is a good idea.
+
+You'll also need some specialized dice: four-sided, eight-sided, ten-sided and twelve-sided. One of each is enough but more is better: you won't have to pass them around so much.
+
+# What's Death World: Catachan Like to Play?
+
+Playing Death World: Catachan is about discovering what happens when your squad of Catachan Jungle Fighters encounters the unspeakable horrors of their homeworld, completes missions that would break lesser soldiers, and tries to survive another day on a planet that hungers for their death. It is a conversation between the players and the GM—the GM tells the players what they see and hear in the jungle around them, what horrors lurk in the shadows, what abominations await them. The players say what their characters are thinking, feeling, and doing, how they cope with the endless terror, how they serve the Emperor's will in the face of certain doom. Sometimes those descriptions will trigger a move—something that will cause everyone to stop and say "time to roll the dice to see what happens." For a moment everyone hangs on the edges of their seats as the dice clatter to a stop, knowing that failure means death, that success might only delay the inevitable. Tension and horror are always the result, no matter how the dice land, for on Catachan, even victory comes at a price.
+
+As you play your characters they will change from their missions, their souls scarred by the horrors they have witnessed. They will gain experience while learning about the jungle's endless hunger, overcoming threats that should not exist, and surviving encounters that should have killed them. You will discover how they feel about each other, how they cope with the constant pressure of a Death World, how they maintain their faith in the Emperor when all hope seems lost. When they accrue enough experience they will gain levels, becoming more skilled and having more options to survive—but each level comes at a cost, each advancement paid for in blood and suffering.
+
+You can play Death World: Catachan with the same group, session to session, over a long series of missions, watching your characters change and grow together, watching them descend deeper into the darkness even as they become more capable of surviving it. You can play it as a self-contained game in a single-session, too, a brief glimpse into the endless horror that is life on a Death World. Whether a long campaign or a one-shot, Death World: Catachan's rules are here to guide you and help you create a world of action and horror, of sacrifice and survival, of faith and fear. The jungle awaits. The Emperor watches. Time to get out there and survive—if you can.

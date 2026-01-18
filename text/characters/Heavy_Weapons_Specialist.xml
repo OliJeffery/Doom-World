@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Heavy Weapons Specialist</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">When something big comes out of the jungle, something that will not die to a lasgun, something that should not exist, that is when they call for you. You carry the heavy weapons, the instruments of the Emperor's wrath made manifest. The flamers that burn the jungle back, purging the darkness with holy fire. The heavy bolters that can punch through chitin and scale, that can turn the mightiest xenos into paste. The weapons that end threats that lesser arms cannot touch.</p>
-<p>You are not fast. You are not quiet. But when the Catachan Devils come, when the giant scorpions attack, when something that should not exist tries to eat your squad, you are the one who makes it regret that decision. You are the wall of fire and lead that stands between your squad and the things that want to kill them, the barrier that the darkness cannot pass, the instrument of divine judgment that brings death to the enemies of mankind.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">When something big comes out of the jungle, something that won't die to a lasgun, something that shouldn't exist, that is when they call for you. You carry the heavy weapons, the instruments of the Emperor's wrath made manifest. The flamers that burn the jungle back, purging the darkness with holy fire. The heavy bolters that can punch through chitin and scale, that can turn the mightiest xenos into paste. The weapons that end threats that lesser arms can't touch.</p>
+<p>You aren't fast. You aren't quiet. But when the Catachan Devils come, when the giant scorpions attack, when something that shouldn't exist tries to eat your squad, you are the one who makes it regret that decision. You are the wall of fire and lead that stands between your squad and the things that want to kill them, the barrier that the darkness can't pass, the instrument of divine judgment that brings death to the enemies of mankind.</p>
 <p>Lock and load. Make every shot count. The jungle is full of targets, and the Emperor demands their destruction.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Blast, Cannon, Hammer, Lex, Max, Rex, Shell, Thunder, Wex, Vex</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Watchful Eyes</p>
@@ -14,7 +14,7 @@
 <p aid:pstyle="NoIndent">Built Body, Bulky Body, or Scarred Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">Your maximum Wounds is 10+Toughness.</p>
-<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
+<p aid:pstyle="NoIndent">When you attack with a heavy weapon, add +1d8 damage.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are Catachan, so you get this move.</p>
 <h3 aid:pstyle="MoveName">Catachan</h3>
@@ -24,39 +24,10 @@
 <p aid:pstyle="NoIndent">When you <strong>lay down covering fire to protect an ally</strong>, roll+Leadership. ✴On a 10+ you grant them +1 armor or remove one threat. ✴On a 7–9, they are protected, but you draw the threat to yourself.</p>
 <h3 aid:pstyle="BasicMoveName">Armored</h3>
 <p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
-<h3 aid:pstyle="BasicMoveName">Heavy Weapon</h3>
-<p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
-<p>Choose a base description, all are 3 weight:</p>
-<ul><li aid:pstyle="Option">Heavy Bolter</li>
-<li aid:pstyle="Option">Flamer</li>
-<li aid:pstyle="Option">Grenade Launcher</li>
-<li aid:pstyle="Option">Multi-Melta</li>
-<li aid:pstyle="Option">Autocannon</li></ul>
-<p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
-<ul><li aid:pstyle="Option">Near</li>
-<li aid:pstyle="Option">Far</li>
-<li aid:pstyle="Option">Near and Far</li></ul>
-<p aid:pstyle="NoIndent">Choose two enhancements:</p>
-<ul><li aid:pstyle="Option">High-capacity magazine. +3 ammo.</li>
-<li aid:pstyle="Option">Armor-piercing rounds. +2 piercing.</li>
-<li aid:pstyle="Option">Stabilized mount. Add precise.</li>
-<li aid:pstyle="Option">Overcharged. +1 damage, but +1 weight.</li>
-<li aid:pstyle="Option">Area effect. Deal damage to multiple targets.</li>
-<li aid:pstyle="Option">Incendiary. Sets targets on fire.</li>
-<li aid:pstyle="Option">Rapid fire. When you attack, you may fire multiple shots—for each shot beyond the first, reduce ammo by 1 and deal +1d4 damage. You may fire up to 3 shots in a single attack.</li>
-<li aid:pstyle="Option">Well-maintained. -1 weight.</li></ul>
-<p aid:pstyle="NoIndent">Choose a look:</p>
-<ul><li aid:pstyle="Option">Worn</li>
-<li aid:pstyle="Option">Pristine</li>
-<li aid:pstyle="Option">Decorated</li>
-<li aid:pstyle="Option">Blood-stained</li>
-<li aid:pstyle="Option">Sinister</li></ul>
-<h3 aid:pstyle="BasicMoveName">I Am the Wall</h3>
-<p aid:pstyle="NoIndent">When you <strong>give an order based on your heavy weapons support</strong>, roll+Leadership. ✴On a 7+, they choose one:</p>
-<ul><li>Do what you say</li>
-<li>Back away cautiously, then flee</li>
-<li>Attack you</li></ul>
-<p aid:pstyle="NoIndent">✴On a 10+, you also take Advantage against them. ✴On a miss, they do as they please and you take Disadvantage against them.</p></div></div>
+<h3 aid:pstyle="BasicMoveName">Heavy Weapons Expertise</h3>
+<p aid:pstyle="NoIndent">You have mastered the art of heavy weapons warfare. When you <strong>set up a heavy weapon in a prepared position</strong>, you gain +1 to all attacks with that weapon until you move. Additionally, when you attack with a heavy weapon, you may choose to spend extra ammo before rolling. For each point of ammo spent, you may choose an extra target or deal +1d4 damage to your primary target.</p>
+<h3 aid:pstyle="BasicMoveName">Unstoppable Barrage</h3>
+<p aid:pstyle="NoIndent">When you <strong>lay down continuous fire with your heavy weapon</strong>, roll+Strength. ✴On a 10+, you suppress all enemies in the area—they cannot advance and must take cover or suffer your damage. ✴On a 7-9, you suppress enemies in the area, but your weapon begins to overheat—you must stop firing next turn or risk a jam. ✴On a miss, your weapon jams or runs out of ammo at a critical moment.</p></div></div>
 <h2>Duty</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose a duty:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Duty</h3>
@@ -82,8 +53,8 @@
 <p aid:pstyle="NoIndent">When you <strong>lay down suppressing fire in an area</strong>, enemies must press on to enter that area. ✴On a 10+, they can't enter at all. ✴On a 7-9, they can enter but take damage.</p>
 <h3 aid:pstyle="MoveName">Armor Mastery</h3>
 <p aid:pstyle="NoIndent">When you <strong>make your armor take the brunt of damage dealt to you</strong>, the damage is negated but you must reduce the armor value of your armor (your choice) by 1. The value is reduced each time you make this choice. If the reduction leaves the item with 0 armor it is destroyed.</p>
-<h3 aid:pstyle="MoveName">Improved Weapon</h3>
-<p aid:pstyle="NoIndent">Choose one extra enhancement for your heavy weapon.</p>
+<h3 aid:pstyle="MoveName">Weapon Specialization</h3>
+<p aid:pstyle="NoIndent">Choose one type of heavy weapon (Heavy Bolter, Flamer, Grenade Launcher, Multi-Melta, or Autocannon). When you use that weapon type, you deal +1d4 damage and ignore the reload tag.</p>
 <h3 aid:pstyle="MoveName">Target Priority</h3>
 <p aid:pstyle="NoIndent">When you read the signs during combat, you take +1.</p>
 <h3 aid:pstyle="MoveName">Sustained Fire</h3>
@@ -92,8 +63,8 @@
 <p aid:pstyle="NoIndent">Get one move from another specialization. Treat your level as one lower for choosing the move.</p>
 <h3 aid:pstyle="MoveName">Iron Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
-<h3 aid:pstyle="MoveName">Weapon Master</h3>
-<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can upgrade your heavy weapon. Choose one enhancement to add permanently.</p>
+<h3 aid:pstyle="MoveName">Master of Destruction</h3>
+<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can modify your heavy weapon. Choose one: add +1 damage, add +2 piercing, or add the area effect tag. This modification is permanent.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Bloodthirsty</h3>
 <p aid:pstyle="Requirement">Replaces: Merciless</p>
@@ -116,11 +87,11 @@
 <h3 aid:pstyle="MoveName">Steel Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
-<h3 aid:pstyle="MoveName">Master Craftsman</h3>
-<p aid:pstyle="Requirement">Replaces: Weapon Master</p>
-<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can upgrade your heavy weapon. Choose two enhancements to add permanently.</p>
-<h3 aid:pstyle="MoveName">Through Death's Eyes</h3>
-<p aid:pstyle="NoIndent">When you <strong>go into battle</strong>, roll+Perception. ✴On a 10+, name someone who will live <strong>and</strong> someone who will die. ✴On a 7-9, name someone who will live <strong>or</strong> someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it's even remotely possible. ✴On a 6- you see your own death and consequently take Disadvantage throughout the battle.</p>
+<h3 aid:pstyle="MoveName">Master of Destruction</h3>
+<p aid:pstyle="Requirement">Replaces: Master of Destruction</p>
+<p aid:pstyle="NoIndent">When you have access to a tech-priest or armory you can modify your heavy weapon. Choose two: add +1 damage, add +2 piercing, or add the area effect tag. These modifications are permanent. You may take this move multiple times, choosing different modifications each time.</p>
+<h3 aid:pstyle="MoveName">Devastating Impact</h3>
+<p aid:pstyle="NoIndent">When you <strong>strike a target with overwhelming firepower</strong>, roll+Strength. ✴On a 10+, you deal your damage and the target is knocked back, disoriented, or forced into cover—they take Disadvantage on their next action. ✴On a 7-9, you deal your damage and the target is staggered—they take Disadvantage on their next attack. ✴On a miss, your heavy weapon's recoil throws off your aim and you take Disadvantage on your next attack.</p>
 <h3 aid:pstyle="MoveName">Eye for Targets</h3>
 <p aid:pstyle="NoIndent">When you look over an enemy's defenses, ask the GM how much armor they have.</p>
 <h3 aid:pstyle="MoveName">Superior Firepower</h3>

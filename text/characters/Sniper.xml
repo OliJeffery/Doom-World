@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Sniper</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You kill from the shadows, a specter of death that strikes without warning, without mercy, without hesitation. One shot. One kill. That is your way, your creed, your sacred duty to the Emperor. While the others are fighting in the open, you are in the canopy, in the rocks, in the perfect position where death cannot find you. You have learned the patience of the grave. You have learned to wait, to watch, to strike when the moment is perfect. You have learned that the best way to survive is to never be seen at all, to be a ghost that the jungle itself cannot track.</p>
-<p>Your lascarbine is an extension of your will, a tool of divine judgment. You know every creak, every whisper, every way it can deliver death. You have learned to read the wind, the light, the distance, to calculate the perfect moment when your target's life can be extinguished. You have learned to kill things that most men cannot even see, to end lives from impossible distances, to be the instrument of the Emperor's wrath made manifest in a single, perfect shot.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You kill from the shadows, a specter of death that strikes without warning, without mercy, without hesitation. One shot. One kill. That is your way, your creed, your sacred duty to the Emperor. While the others are fighting in the open, you are in the canopy, in the rocks, in the perfect position where death can't find you. You have learned the patience of the grave. You have learned to wait, to watch, to strike when the moment is perfect. You have learned that the best way to survive is to never be seen at all, to be a ghost that the jungle itself can't track.</p>
+<p>Your lascarbine is an extension of your will, a tool of divine judgment. You know every creak, every whisper, every way it can deliver death. You have learned to read the wind, the light, the distance, to calculate the perfect moment when your target's life can be extinguished. You have learned to kill things that most men can't even see, to end lives from impossible distances, to be the instrument of the Emperor's wrath made manifest in a single, perfect shot.</p>
 <p>Take the shot. Make it count. The jungle is watching, and so is the Emperor.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Bolt, Cade, Crosshair, Dex, Longshot, Marbo, Marksman, Striker, Trigger, Vex</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Watchful Eyes or Dead Eyes</p>
@@ -14,7 +14,7 @@
 <p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">Your maximum Wounds is 6+Toughness.</p>
-<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
+<p aid:pstyle="NoIndent">When you attack with a sniper rifle or long-las, add +1d6 damage.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Unseen Lurkers</h3>

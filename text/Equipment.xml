@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Equipment</h1>
-<Body><p aid:pstyle="NoIndent">The abandoned outposts and forgotten caches of Catachan are filled with useful gear, the remnants of those who came before, the tools of the fallen, the weapons of the dead. The close combat specialist can find a well-maintained chainsword, its teeth still sharp, its spirit still hungry for xenos blood. The sniper might stumble across special ammunition, rounds blessed by the Omnissiah, each one a prayer to the Emperor. Most items are mundane—not relics or intrinsically unique in any way, but tools of war that have served the Imperium's will. Any item that is a relic or one-of-a-kind is not mundane for the purposes of moves, for such items carry the weight of history and the blessing of the Emperor. A specialist's signature weapon is never mundane, for it is an extension of their will, a tool of the Emperor's will made manifest.</p>
+<Body><p aid:pstyle="NoIndent">The abandoned outposts and forgotten caches of Catachan are filled with useful gear, the remnants of those who came before, the tools of the fallen, the weapons of the dead. The close combat specialist can find a well-maintained chainsword, its teeth still sharp, its spirit still hungry for xenos blood. The sniper might stumble across special ammunition, rounds blessed by the Omnissiah, each one a prayer to the Emperor. Most items are mundane—not relics or intrinsically unique in any way, but tools of war that have served the Imperium's will. Any item that's a relic or one-of-a-kind isn't mundane for the purposes of moves, for such items carry the weight of history and the blessing of the Emperor. A specialist's signature weapon is never mundane, for it's an extension of their will, a tool of the Emperor's will made manifest.</p>
 <p>Each piece of equipment will have a number of tags. These will tell you something about how the equipment affects the character using it (like +Armor) or suggest something about the way it is used (like the Range tags). Like everything else in Death World: Catachan, these guide the fiction you are creating in play, each tag a reflection of the harsh realities of survival in the endless darkness. If a weapon is awkward, it might mean that you are more likely to drop it when you fail that close combat roll, when the darkness closes in and death itself reaches for you.</p>
 <p>By no means is this an exhaustive list—feel free to create your own tags, to give form to the unending terror through the tools of war that the characters use to survive.</p>
 <h3>General Equipment Tags</h3>
@@ -20,12 +20,12 @@
 <p><em>Worn</em>: To use it, you have to be wearing it.</p>
 <p><em>n Uses</em>: It can only be used <em>n</em> times. </p>
 <h2>Weapons</h2>
-<p aid:pstyle="NoIndent">Weapons do not kill monsters, people do—people with faith in the Emperor, with the will to survive, with the fury to face the darkness and refuse to surrender. That is why weapons in Death World: Catachan do not have a listed damage. A weapon is useful primarily for its tags which describe what the weapon is useful for, how it serves the Emperor's will. A Catachan knife is not useful because it does more or less damage than some other blade. It is useful because it is small and easy to strike with at close distance, because it is an extension of the wielder's will, a tool of death in the ceaseless battle. A lasgun in the hands of a green recruit is not nearly so dangerous as one in the hands of a skilled veteran, for experience is the only teacher that matters on a Death World, and every lesson is learned in blood.</p>
+<p aid:pstyle="NoIndent">Each weapon has a damage die that represents its base lethality, but a weapon's true value lies in its tags which describe what the weapon is useful for, how it serves the Emperor's will. A weapon is only as deadly as the warrior who wields it—faith in the Emperor, the will to survive, and the fury to face the darkness are what truly bring death to the enemies of mankind. A Catachan knife isn't useful because it does more or less damage than some other blade. It's useful because it's small and easy to strike with at close distance, because it is an extension of the wielder's will, a tool of death in the ceaseless battle. A lasgun in the hands of a green recruit isn't nearly so dangerous as one in the hands of a skilled veteran, for experience is the only teacher that matters on a Death World, and every lesson is learned in blood.</p>
 <h3>Weapon Tags</h3>
 <p aid:pstyle="NoIndent">Weapons may have tags that are primarily there to help you describe them (like Rusty or Glowing) but these tags have a specific, mechanical effect.</p>
 <p><em>n Ammo</em>: It counts as ammunition for appropriate ranged weapons. The number indicated does not represent individual rounds or clips, but represents what you have left on hand. </p>
 <p><em>Forceful</em>: It can knock someone back a pace, maybe even off their feet. </p>
-<p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add <em>n</em> to it.</p>
+<p><em>+n Damage</em>: It's particularly harmful to your enemies. When you deal damage, you add <em>n</em> to it.</p>
 <p><em>Ignores Armor</em>: Don’t subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
 <p><em>n Piercing</em>: It goes right through armor. When you deal damage with <em>n</em> piercing, you subtract <em>n</em> from the enemy’s armor for that attack.</p>
@@ -34,7 +34,7 @@
 <p><em>Stun</em>: When you attack with it, it does stun damage instead of normal damage. </p>
 <p><em>Thrown</em>: Throw it at someone to hurt them. If you volley with this weapon, you can't choose to mark off ammo on a 7–9; once you throw it, it's gone until you can recover it. </p>
 <p><em>Rapid fire</em>: When you attack with a rapid fire weapon, you may choose to fire multiple shots. For each additional shot beyond the first, reduce your ammo by 1 and deal +1d4 damage. You may fire up to 3 shots in a single attack. On a 7–9, if you fired multiple shots, you must also choose one of the normal 7–9 options in addition to the ammo cost.</p>
-<p>Weapons have tags to indicate the range at which they are useful. Death World: Catachan doesn’t inflict penalties or grant bonuses for “optimal range” or the like, but if your weapon says Hand and an enemy is ten yards away, a player would have a hard time justifying using that weapon against him.</p>
+<p>Weapons have tags to indicate the range at which they are useful. Death World: Catachan doesn’t inflict penalties or grant bonuses for “optimal range” or the like, but if your weapon says Hand and an enemy's ten yards away, a player would have a hard time justifying using that weapon against him.</p>
 <p><em>Hand</em>: It’s useful for attacking something within your reach, no further.</p>
 <p><em>Close</em>: It’s useful for attacking something at arm’s reach plus a foot or two.</p>
 <p><em>Reach</em>: It’s useful for attacking something that’s several feet away—maybe as far as ten. </p>
@@ -42,24 +42,25 @@
 <p><em>Far</em>: It’s useful for attacking something in shouting distance.</p>
 <h3>Weapon List</h3>
 <p>The stats below are for typical items. There are, of course, variations. A worn lasgun might be -1 damage instead while a well-maintained chainsword could be +1 damage. Consider the following to be stats for typical weapons of their type—a specific weapon could have different tags to represent its features. Weapons are typically assigned based on your specialization and standing, though exceptional service may grant access to better equipment.</p>
-<p aid:pstyle="Item">Laspistol	<span aid:cstyle="Tags">near, standard issue, 1 weight</span></p>
-<p aid:pstyle="Item">Lasgun	<span aid:cstyle="Tags">near, far, standard issue, 2 weight</span></p>
-<p aid:pstyle="Item">Lascarbine	<span aid:cstyle="Tags">near, far, standard issue, 1 weight</span></p>
-<p aid:pstyle="Item">Long-Las Rifle	<span aid:cstyle="Tags">far, +1 damage, precise, 3 Respect, 2 weight</span></p>
-<p aid:pstyle="Item">Hot-Shot Lasgun	<span aid:cstyle="Tags">near, far, +1 damage, 2 piercing, 5 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Laspistol	<span aid:cstyle="Tags">d4 damage, near, standard issue, 1 weight</span></p>
+<p aid:pstyle="Item">Lasgun	<span aid:cstyle="Tags">d6 damage, near, far, standard issue, 2 weight</span></p>
+<p aid:pstyle="Item">Lascarbine	<span aid:cstyle="Tags">d6 damage, near, far, standard issue, 1 weight</span></p>
+<p aid:pstyle="Item">Long-Las Rifle	<span aid:cstyle="Tags">d8 damage, far, +1 damage, precise, 3 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Hot-Shot Lasgun	<span aid:cstyle="Tags">d8 damage, near, far, +1 damage, 2 piercing, 5 Respect, 2 weight</span></p>
 <p aid:pstyle="Item">Power Pack	<span aid:cstyle="Tags">3 ammo, standard issue, 1 weight</span></p>
 <p aid:pstyle="Item">Overcharged Power Pack	<span aid:cstyle="Tags">2 ammo, +1 damage, 2 Respect, 1 weight</span></p>
-<p aid:pstyle="Item">Catachan Knife	<span aid:cstyle="Tags">hand, standard issue, 1 weight</span></p>
-<p aid:pstyle="Item">Combat Blade	<span aid:cstyle="Tags">hand, +1 damage, 1 Respect, 1 weight</span></p>
-<p aid:pstyle="Item">Chainsword	<span aid:cstyle="Tags">close, messy, forceful, 3 Respect, 2 weight</span></p>
-<p aid:pstyle="Item">Power Sword	<span aid:cstyle="Tags">close, 2 piercing, 8 Respect, 1 weight</span></p>
-<p aid:pstyle="Item">Eviscerator	<span aid:cstyle="Tags">close, +1 damage, messy, two-handed, 5 Respect, 3 weight</span></p>
-<p aid:pstyle="Item">Bolt Pistol	<span aid:cstyle="Tags">near, +1 damage, 4 Respect, 1 weight</span></p>
-<p aid:pstyle="Item">Boltgun	<span aid:cstyle="Tags">near, far, +1 damage, 5 Respect, 2 weight</span></p>
-<p aid:pstyle="Item">Flamer	<span aid:cstyle="Tags">near, area effect, 6 Respect, 2 weight</span></p>
-<p aid:pstyle="Item">Heavy Bolter	<span aid:cstyle="Tags">far, +1 damage, two-handed, reload, 8 Respect, 3 weight</span></p>
-<p aid:pstyle="Item">Grenade Launcher	<span aid:cstyle="Tags">near, far, area effect, reload, 7 Respect, 2 weight</span></p>
-<p aid:pstyle="Item">Multi-Melta	<span aid:cstyle="Tags">near, 3 piercing, two-handed, reload, 10 Respect, 3 weight</span></p>
+<p aid:pstyle="Item">Catachan Knife	<span aid:cstyle="Tags">d4 damage, hand, standard issue, 1 weight</span></p>
+<p aid:pstyle="Item">Combat Blade	<span aid:cstyle="Tags">d6 damage, hand, +1 damage, 1 Respect, 1 weight</span></p>
+<p aid:pstyle="Item">Chainsword	<span aid:cstyle="Tags">d8 damage, close, messy, forceful, 3 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Power Sword	<span aid:cstyle="Tags">d8 damage, close, 2 piercing, 8 Respect, 1 weight</span></p>
+<p aid:pstyle="Item">Eviscerator	<span aid:cstyle="Tags">d10 damage, close, +1 damage, messy, two-handed, 5 Respect, 3 weight</span></p>
+<p aid:pstyle="Item">Bolt Pistol	<span aid:cstyle="Tags">d6 damage, near, +1 damage, 4 Respect, 1 weight</span></p>
+<p aid:pstyle="Item">Boltgun	<span aid:cstyle="Tags">d8 damage, near, far, +1 damage, 5 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Flamer	<span aid:cstyle="Tags">d6 damage, near, area effect, 6 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Heavy Bolter	<span aid:cstyle="Tags">d10 damage, far, +1 damage, two-handed, reload, 8 Respect, 3 weight</span></p>
+<p aid:pstyle="Item">Grenade Launcher	<span aid:cstyle="Tags">d8 damage, near, far, area effect, reload, 7 Respect, 2 weight</span></p>
+<p aid:pstyle="Item">Multi-Melta	<span aid:cstyle="Tags">d12 damage, near, 3 piercing, two-handed, reload, 10 Respect, 3 weight</span></p>
+<p aid:pstyle="Item">Ripper Gun	<span aid:cstyle="Tags">d8 damage, near, far, two-handed, 4 Respect, 3 weight</span></p>
 <h2>Armor</h2>
 <p aid:pstyle="NoIndent">Armor is heavy, difficult to wear and is damned uncomfortable in the Catachan heat. Some specializations are better trained to ignore these drawbacks, but anyone can strap on a suit of armor and enjoy the benefits it grants.</p>
 <h3>Armor Tags</h3>
@@ -172,8 +173,8 @@
 <p>Relics are for you to make for your game. Players may discover relics through successful missions, ancient caches, or as rewards for exceptional service. The GM can introduce relics in the spoils of battle or the rewards for completing dangerous missions. This list provides some ideas, but relics are ultimately for you to decide.</p>
 <p>When making your own relics keep in mind that these items are <em>exceptional</em>. Simple modifiers, like +1 damage, are the realm of the mundane—relics should provide more interesting bonuses and unique capabilities.</p>
 <p aid:pstyle="MagicItem">The Emperor's Blade	<span aid:cstyle="Tags">Close, 2 weight</span></p>
-<p aid:pstyle="NoIndent">There are many chainswords in the galaxy, but there is only one Emperor's Blade. It is a weapon of ancient design, revered as a holy relic by all who serve the God-Emperor. Its touch is a blessing and to many, the sight of it brings tears of joy.</p>
-<p>In the hands of a sergeant, it strikes true and strong. A sergeant wielding it increases their damage die to d12 and has access to every sergeant move. As well, The Emperor's Blade can harm any creature of Chaos or Xenos, regardless of any defenses it may have. No creature of the Enemy may touch it without suffering agony. In the hands of any non-sergeant, it is merely a chainsword, heavier and more cumbersome than most—it gains the awkward tag.</p>
+<p aid:pstyle="NoIndent">There are many chainswords in the galaxy, but there is only one Emperor's Blade. It's a weapon of ancient design, revered as a holy relic by all who serve the God-Emperor. Its touch is a blessing and to many, the sight of it brings tears of joy.</p>
+<p>In the hands of a sergeant, it strikes true and strong. A sergeant wielding it increases their damage die to d12 and has access to every sergeant move. As well, The Emperor's Blade can harm any creature of Chaos or Xenos, regardless of any defenses it may have. No creature of the Enemy may touch it without suffering agony. In the hands of any non-sergeant, it's merely a chainsword, heavier and more cumbersome than most—it gains the awkward tag.</p>
 <p>The Emperor's Blade, while not intelligent, will forever be drawn to a cause of true Duty, like iron to a magnet.</p>
 <p aid:pstyle="MagicItem">Seeker Rounds	<span aid:cstyle="Tags">1 ammo, 1 weight</span></p>
 <p aid:pstyle="NoIndent">Crafted by the Tech-Priests of Mars using ancient targeting systems, these special rounds can find their target in even the deepest darkness. A soldier may fire them blind, in the dark, with their eyes bound by heavy cloth and still be assured of a clean shot. The rounds contain micro-servitors that guide them to their target. If exposed to the light of a star, however, the delicate guidance systems overload and the rounds become useless.</p>
@@ -194,19 +195,19 @@
 <p aid:pstyle="NoIndent">A data-slate has a tech-ritual inscribed on it. The ritual must be performable by you or within your specialization's capabilities for you to be able to perform it. When you perform a ritual from a data-slate, the ritual takes effect, simple as that.</p>
 <p aid:pstyle="MagicItem">Sanctified Oil	<span aid:cstyle="Tags">1 use, 0 weight</span></p>
 <p aid:pstyle="NoIndent">A holy oil, created in limited supply by a mute sect of Ecclesiarchy priests whose order protected humanity from the powers of the Warp in ancient epochs. Only a few jars remain. When applied to any weapon and used to strike a denizen of the Warp, the oil undoes the power that binds that creature. In some cases, this will return it to the Warp. In others, it merely undoes any Warp power controlling it. The oil stays on the weapon for a few hours before it dries and flakes away.</p>
-<p>If applied to the edges of a doorway or drawn in a circle, the oil will repel creatures whose home is the Warp. They cannot pass across it. The oil lasts for one full day before it soaks in or evaporates.</p>
+<p>If applied to the edges of a doorway or drawn in a circle, the oil will repel creatures whose home is the Warp. They can't pass across it. The oil lasts for one full day before it soaks in or evaporates.</p>
 <p aid:pstyle="MagicItem">Truth Serum	<span aid:cstyle="Tags">1 use, 0 weight</span></p>
-<p aid:pstyle="NoIndent">A yellowish chemical compound. Seems never to run out and the light it casts is strange and weak. Its consistency is always cool, too. Inject the serum into a target and gain 3 hold. Spend that hold and ask your target a question. They find themselves telling you the whole truth, despite themselves. The consequences, after the fact? Those are up to you to deal with.</p>
+<p aid:pstyle="NoIndent">A yellowish chemical compound. Seems never to run out and the light it casts is strange and weak. Its consistency remains constant, too. Inject the serum into a target and gain 3 hold. Spend that hold and ask your target a question. They find themselves telling you the whole truth, despite themselves. The consequences, after the fact? Those are up to you to deal with.</p>
 <p aid:pstyle="MagicItem">The Epoch Lens	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">A Tech-Priest, old and too frail to leave his forge, crafted this intricate and fragile device of glass and gold to examine the histories and relics he so loved. Looking at an object through the lens reveals visions of who made it and where it came from.</p>
 <p aid:pstyle="MagicItem">The Fiasco Codex	<span aid:cstyle="Tags">0 weight</span></p>
 <p aid:pstyle="NoIndent">A thick tome, said to be penned in the blood of poor fools and heretics by some daemon prince possessed of dark humor, this tome details tales and stories of those whose ambition overwhelmed their reason. Reading from this tome teaches one the value of clear-headedness but leaves a sense of dread behind. When you read from the Fiasco Codex, Roll+Willpower. ✴On a 10+, ask two of the questions below. ✴On a 7–9, ask one.</p>
-<ul><li>What is my greatest opportunity, right now?</li>
+<ul><li>What's my greatest opportunity, right now?</li>
 <li>Who can I betray to gain an advantage?</li>
-<li>Who is an ally I should not trust?</li></ul>
+<li>Who's an ally I shouldn't trust?</li></ul>
 <p aid:pstyle="NoIndent">The codex gives up its answers only once to each reader and takes 2 to 3 hours to read.</p>
 <p aid:pstyle="MagicItem">Rebreather Unit	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">A simple thing, but useful when you need a breath of fresh air. The unit appears empty but cannot be filled, anything added to it simply spills out. This is because the unit is eternally full of air. If placed underwater, it will bubble forever. If pressed to the mouth, one can breathe normally—toxic fumes are no concern, for example. I'm sure you'll find all sorts of unusual uses for it.</p>
+<p aid:pstyle="NoIndent">A simple thing, but useful when you need a breath of fresh air. The unit appears empty but can't be filled, anything added to it simply spills out. This is because the unit is eternally full of air. If placed underwater, it will bubble forever. If pressed to the mouth, one can breathe normally—toxic fumes are no concern, for example. I'm sure you'll find all sorts of unusual uses for it.</p>
 <p aid:pstyle="MagicItem">Jump Pack	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">Who hasn't always wanted to soar the pretty blue sky? In an attempt to grant the wishes of land-bound soldiers, these great jump packs were created. Known by many names and crafted by as many Tech-Priests, they commonly take the shape of whatever local design patterns hold favor. Worn by means of a harness or, in some dire cases, a surgical procedure.</p>
 <p>When you take to the air with this jump pack, roll+Agility. ✴On a 10+, your flight is controlled and you may stay aloft as long as you like. ✴On a 7–9, you make it aloft but your flight is short or erratic and unpredictable, your choice. ✴On a 6-, you make it aloft, but the coming-down part and everything between is up to the GM.</p>
@@ -221,7 +222,7 @@
 <p aid:pstyle="MagicItem">Servitor Skull	<span aid:cstyle="Tags">1 weight</span></p>
 <p aid:pstyle="NoIndent">An old skull, missing its jaw and very much worse-for-wear. The skull remembers the folly of its former owner—a man with more honor than sense. Once per night, the owner of the skull can ask "Who has it in for me?" and the skull will give up one name in a sad, lonely voice. If the owner of the skull is ever killed, it disappears surreptitiously. No one knows where it might turn up next.</p>
 <p aid:pstyle="MagicItem">Sacred Herbs	<span aid:cstyle="Tags">0 weight</span></p>
-<p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost Ecclesiarchy monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+Intelligence. ✴On a 10+, the vision is clear and useful—yielding some valid information. ✴On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand. ✴On a miss, the GM will ask you, "What is it you fear most?" You must answer honestly, of course.</p>
+<p aid:pstyle="NoIndent">The sacred herbs, collected and prepared by an order of lost Ecclesiarchy monks, can be found in bundles with two or three uses to them. Kept dry, they last indefinitely. When smoked in a pipe or consumed in an incense burner and the thick, blue smoke inhaled, these herbs will grant you strange visions of faraway places and distant times. If you focus your will on a particular person, place or thing, the herbs will respond: roll+Intelligence. ✴On a 10+, the vision is clear and useful—yielding some valid information. ✴On a 7–9, the vision is about the thing desired, but is unclear, fraught with metaphor or somehow difficult to understand. ✴On a miss, the GM will ask you, "What's it you fear most?" You must answer honestly, of course.</p>
 <p aid:pstyle="MagicItem">Teleportation Chamber	<span aid:cstyle="Tags">Slow</span></p>
 <p aid:pstyle="NoIndent">James Ninefingers, eccentric genius Tech-Priest, created these room-sized technological apparati. A metal chamber etched with runes and circuitry, glowing with a faint blue light. When you enter and say aloud the name of a location, roll+Intelligence. ✴On a 10+, you arrive exactly where you'd intended. ✴On a 7–9, the GM chooses a safe location nearby. ✴On a miss, you end up someplace. Maybe it's nearby? It's definitely not safe. Strange things sometimes happen to those who bend time and space with these devices.</p>
 <p aid:pstyle="MagicItem">Assassin's Armor	<span aid:cstyle="Tags">1 armor, 1 weight</span></p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Scout</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You move like a wraith through the killing ground, a specter of death that the jungle itself cannot track. While the others crash through the undergrowth like grox in a china shop, you glide ahead, reading the signs of death, spotting the ambushes before they spring. You have spent more time alone in the deep jungle than most men have spent drawing breath, your soul merged with the darkness itself. You know which plants will poison you, which creatures are hunting you, and which shadows conceal the things that should not exist.</p>
-<p>Your squad's lives depend on you. Without your eyes, they would walk blindly into a Catachan Devil's nest and be torn apart. Without your ears, they would miss the sound of something massive and hungry moving in the canopy above. Without your instincts, they would all be dead, their bones picked clean by the jungle's endless hunger. You are the one who finds the paths that do not lead to death, the water that is not tainted, the high ground that offers a moment's respite. You are the one who keeps them alive, for now.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You move like a wraith through the killing ground, a specter of death that the jungle itself can't track. While the others crash through the undergrowth with all the subtlety of a charging grox, you glide ahead, reading the signs of death, spotting the ambushes before they spring. You have spent more time alone in the deep jungle than most men have spent drawing breath, your soul merged with the darkness itself. You know which plants will poison you, which creatures are hunting you, and which shadows conceal the things that shouldn't exist.</p>
+<p>Your squad's lives depend on you. Without your eyes, they would walk blindly into a Catachan Devil's nest and be torn apart. Without your ears, they would miss the sound of something massive and hungry moving in the canopy above. Without your instincts, they would all be dead, their bones picked clean by the jungle's endless hunger. You're the one who finds the paths that don't lead to death, the water that isn't tainted, the high ground that offers a moment's respite. You are the one who keeps them alive, for now.</p>
 <p>Keep moving. Keep watching. The jungle never sleeps, and neither can you.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Rock, Marbo, Arden, Jackson, Straken, Greiss, Ripper, Sly, Nork, Catachan</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Catachan</em>: Ghost, Hunter, Jax, Kael, Shadow, Silent, Stalker, Tracker, Whisper, Wraith</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Sharp Eyes, Watchful Eyes, or Hard Eyes</p>
@@ -14,7 +14,7 @@
 <p aid:pstyle="NoIndent">Lithe Body, Wiry Body, or Scarred Body</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">Your maximum Wounds is 8+Toughness.</p>
-<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
+<p aid:pstyle="NoIndent">When you attack with a ranged weapon, add +1d4 damage.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a regiment and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Unseen Lurkers</h3>

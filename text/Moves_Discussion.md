@@ -1,0 +1,547 @@
+# Basic Moves
+
+This chapter contains the moves that are available to all characters, the tools of survival in the endless darkness. These moves fall into two categories: basic and special, each one a reflection of the harsh realities of life on a Death World.
+
+Basic moves are the bread and butter of the soldier's life, the fundamental actions that define existence in the Imperium's darkest reaches. They cover situations likely to come up in fights, tense negotiations, and dangerous areas, each one a moment where life and death hang in the balance.
+
+Special moves come up a little more rarely, but they are no less important. They cover things like gaining a level, taking a long journey through the killing ground, or returning to the relative safety of an outpost between missions—though on Catachan, safety is a relative term.
+
+All player characters have all the basic and special moves. Each player character will also have some moves from their class—we will get to those later, for each specialization brings its own tools of death and survival.
+
+Each move is presented here starting with its name, then the rules of the move. Some are also accompanied by a quick discussion of how to use the move and some examples of the move being used in play, each example a glimpse into the endless horror that defines life on Catachan.
+
+## Close Combat
+
+When youattack an enemy in melee, roll+Weapon Skill. ✴On a 10+, you deal your damage to the enemy and avoid their attack. At your option, you may choose to do +1d6 damage but expose yourself to the enemy's attack. ✴On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
+
+Close combat is for attacking a prepared enemy, plain and simple, for when you face the darkness head-on and refuse to surrender. If the enemy is not prepared for your attack—if they do not know you are there or they are restrained and helpless—then that is not melee combat. You just deal your damage or murder them outright, depending on the situation, for on Catachan, mercy is a luxury that few can afford. Nasty stuff, but necessary in a universe that cares nothing for the individual.
+
+The enemy's counterattack can be any GM move made directly with that creature. An Ork might just attack you back, or they might jam a poisoned blade into your veins, the toxin coursing through your body like liquid fire. Life is tough, is it not? On Catachan, every moment is a struggle, every breath a victory, every day a testament to your refusal to surrender to the darkness.
+
+Note that an "attack" is some action that a player undertakes that has a chance of causing physical harm to someone else. Attacking a Catachan Devil with inch-thick chitinous armor using a typical lasgun is like swinging a meat cleaver at a tank: it just isn't going to cause any harm, so close combat doesn't apply. Note that circumstances can change that: if you're in a position to shoot the Devil in its soft underbelly (good luck with getting there) it could hurt, so it's an attack.
+
+If the action that triggers the move could reasonably hurt multiple targets roll once and apply damage to each target (they each get their armor).
+
+Some attacks may have additional effects depending on the triggering action, the circumstances, or the weapons involved. An attack could also knock someone down, restrain them, or leave a big bloody splatter.
+
+Oli: Marcus, you're surrounded by Orks. They have you encircled, crude weapons raised. What do you do?
+
+Dan: I've had enough of this. I rev my chainsword and charge the closest Ork.
+
+Oli: This is melee combat. Roll+Weapon Skill for close combat.
+
+Dan: I got an 11. I choose to deal extra damage and take their counterattack. The Emperor protects.
+
+Oli: The chainsword tears through the nearest Ork, the sound of grinding bone filling the air. The Ork's choppa finds your side in return—take 4 damage. What do you do?
+
+Oli: Kael, from the shadows, you've got the drop on those Ork warriors.
+
+Dan: I emerge from cover and bring my chainsword down in a sweeping arc.
+
+Oli: They weren't expecting that—they're caught off guard. You slice into one. Roll damage.
+
+Dan: I deal 6 damage.
+
+Oli: The Ork collapses in a bloody heap. The second Ork freezes, then bares his tusks in a snarl, raising his signal horn from his belt. What do you do?
+
+Oli: Marcus, you've got the traitor completely disarmed and at sword point.
+
+Dan: I won't let you betray the squad again. I run him through.
+
+Oli: He's helpless and can't defend himself. You run him through—he slumps to the ground, blood pooling around him. The sound of the alarm klaxon rings out. What do you do?
+
+## Ranged Combat
+
+When youattack an enemy at range, roll+Ballistic Skill. ✴On a 10+, you have a clear shot—deal your damage. ✴On a 7–9, choose one (whichever you choose you deal your damage):
+
+- You have to move to get the shot placing you in danger as described by the GM
+- You have to take what you can get: -1d6 damage
+- You have to take several shots, reducing your ammo by one
+
+Ranged Combat covers the entire act of drawing, aiming, and firing a ranged weapon or throwing a thrown weapon. The advantage to using a ranged weapon over melee is that the attacker is less likely to be attacked back. Of course they do have to worry about ammunition and getting a clear shot though.
+
+On a 7–9, read "danger" broadly. It can be bad footing, ending in the path of an enemy's weapon, or giving up your firing position to your enemies. Whatever it is, it's impending and it's always something that causes the GM to say "What do you do?" Quite often, the danger will be something that will then require you to dedicate yourself to avoiding it or force you to press on.
+
+If you're throwing something that doesn't have ammo (maybe you've got a move that makes your equipment throwable) you can't choose to mark off ammo. Choose from the other two options instead.
+
+Rob: I'm pinned down on the floor of the command center. The Chaos cultist is chanting his ritual on the pedestal. Marcus has the rest busy—I'll take a shot at the cultist.
+
+Oli: Ranged Combat. Roll+Ballistic Skill.
+
+Rob: I got an 8. I'm low on ammo and wounded. I'll take what I can get—reduced damage. I roll my damage, then subtract a d6. I got a 3.
+
+Oli: The lasbolt strikes the cultist's leg. He roars in pain, the ritual interrupted. But the interruption comes too late—a terrible rumbling echoes from the pit beneath the pedestal, and the masonry begins to crumble. What do you do?
+
+Tom: Orks and a Chaos Spawn. If they're coming for me, I'll make them pay. I take a shot at the mob. I rolled an 8.
+
+Oli: What's your choice? Danger or ammo?
+
+Tom: I'll take the danger.
+
+Oli: The Orks swarm you. You hit one as they close—he falls, but in the chaos you've lost track of the Spawn. It strikes from behind, tentacles smashing into you. Take 12 damage.
+
+Tom: 12 damage? That's more than just danger.
+
+Oli: You're right. The Chaos Spawn looms behind you, tentacles raised for another strike. What do you do?
+
+## Press On
+
+When you**act despite an imminent threat**or**suffer a calamity**, say how you deal with it and roll. If you do it…
+
+- …by powering through, +Strength
+- …by getting out of the way or acting fast, +Agility
+- …by enduring, +Toughness
+- …with quick thinking, +Intelligence
+- …through mental fortitude, +Willpower
+- …using command and authority, +Leadership
+
+✴On a 10+, you do what you set out to, the threat doesn’t come to bear. ✴On a 7–9, you stumble, hesitate, or flinch: the GM will offer you a worse outcome, hard bargain, or ugly choice.
+
+You press on when you do something in the face of impending peril. This may seem like a catch-all. It is! Press on is for those times when it seems like you clearly should be rolling but no other move applies.
+
+Press on also applies when you make another move despite danger not covered by that move. For example, close combat assumes that you're trading blows in battle—you don't need to press on because of the enemy you're fighting unless there's some specific danger that wouldn't be part of your normal attack. On the other hand, if you're trying to engage in melee combat while spikes shoot from hidden traps in the walls, those spikes are a whole different danger.
+
+Danger, here, is anything that requires resilience, concentration, or poise. This move will usually be called for by the GM. They'll tell you what the danger is as you make the move. Something like "You'll have to press on first. The danger is the steep and treacherous terrain you're running across. If you can keep your footing, you can make it to the door before the Warp energy reaches you."
+
+Which stat applies depends on what action you take and your action has to trigger the move. That means you can't press on through treacherous terrain with a commanding presence just so you can use Leadership, since commanding the terrain does nothing to it. On the other hand, making a huge leap would be Strength, placing your feet carefully would be Agility, and so on. Make the move to get the results.
+
+Oli: Jax, as you climb the ravine, a cultist on a nearby ledge channels Warp energy and covers the cliff face with ice. If you want to keep climbing, you need to press on or you'll fall.
+
+Rob: I grit my teeth and dig my fingers into the wall, forcing my way up hand over hand. I'm using Toughness. I got an 8.
+
+Oli: The only way you can gain traction is to use your knife to pull yourself up the last few feet. It'll be lodged in the rock until you have time to retrieve it, and the cultist is still above you.
+
+Rob: The knife is expendable. I finish the climb. The cultist dies next.
+
+Oli: The Catachan Devil swings its massive claw down at you, razor-sharp talons extended. What are you doing, Marcus?
+
+Dan: I charge into melee, chainsword aimed at its legs.
+
+Oli: It has the advantage. You can press the attack, but you'll take that claw head-on unless you press on first.
+
+Dan: I dodge to the side, then press the attack in close combat.
+
+Oli: Press on with your Agility.
+
+Dan: I drop my guard and swing my chainsword with both hands. Close combat.
+
+Oli: Dropping your guard exposes you. The Ork will strike unless you press on first.
+
+Dan: Isn't that what close combat is? Trading blows?
+
+Oli: Close combat it is. Roll+Weapon Skill.
+
+## Cover Fire
+
+When you**stand in defense of a person, item, or location**under attack, roll+Toughness. ✴On a 10+, hold 3. ✴On a 7–9, hold 1. As long as you stand in defense, when you or the thing you defend is attacked you may spend hold, 1 for 1, to choose an option:
+
+- Redirect an attack from the thing you defend to yourself
+- Halve the attack’s effect or damage
+- Open up the attacker to an ally giving that ally Advantage against the attacker
+- Deal damage to the attacker equal to your level
+
+Providing cover fire means standing nearby and focusing on preventing attacks against that thing or stopping anyone from getting near it. When you're no longer nearby or you stop devoting your attention to incoming attacks then you lose any hold you might have had.
+
+You can only spend hold when someone makes an attack on you or the thing you’re defending. The choices you can make depend on the attacker and the type of attack. In particular, you can’t deal damage to an attacker who you can’t reach with your weapon.
+
+An attack is any action you can interfere with that has harmful effects. Chainswords and lasbolts are attacks, of course, but so are Warp powers, grabs, and charges.
+
+If the attack doesn’t deal damage then halving it means the attacker gets some of what they want but not all of it. It’s up to you and the GM to work out what that means depending on the circumstances. If you're defending the relic auspex and an Ork tries to grab it from its pedestal then half effect might mean that the auspex gets knocked to the floor but the Ork doesn't get his hands on it, yet. Or maybe the Ork gets a hold of it but so do you—now you're both fighting over it, tooth and nail. If you and the GM can't agree on a halved effect you can't choose that option.
+
+Defending yourself is certainly an option. It amounts to giving up on making attacks and just trying to keep yourself safe.
+
+Oli: Doc, you begin treating Marcus's wounds, but the mutants are closing in.
+
+Rob: I'll cover Doc. While she treats Marcus, I raise my lasgun and take position. "If you want her, you go through me." I'm providing cover fire for Doc.
+
+Oli: Roll+Toughness for Cover Fire.
+
+Rob: I get an 11. Three hold.
+
+Kris: I got an 8 on my field treatment roll. I choose to put myself in danger to save Marcus.
+
+Oli: The mutants are drawn by the commotion, lurching toward you. You're swarmed—they're everywhere. What do you do?
+
+Kris: I keep working on Marcus. Jax will handle them.
+
+Rob: I spend a point of hold to redirect the attack to me. I shove Doc aside and open fire, cutting down the mutants. I sweep my weapon in an arc, dealing damage and halving the incoming threat. The Emperor protects.
+
+Oli: So, Marcus, you've been providing cover fire for Doc while she heals Kael, but now Kael is better. What do you do?
+
+Kris: I leap forward to drive back the mutants!
+
+Dan: I want to tangle with this Catachan Devil.
+
+Oli: Okay, Doc, the mutants come at you with their crude weapons.
+
+Dan: No way, I still have hold left over, I want to spend it to redirect that attack to myself.
+
+Oli: You two are spread out, now. How are you going to do that if you're 20 yards away? You lost your hold when you attacked the Devil, my friend.
+
+Dan: Yeah, I guess I'm not "providing cover fire" anymore. Forget it, you're on your own, Doc!
+
+## Jungle Knowledge
+
+When you**consult your accumulated knowledge about something**, roll+Intelligence. ✴On a 10+, the GM will tell you something interesting and useful about the subject relevant to your situation. ✴On a 7–9, the GM will only tell you something interesting—it’s on you to make it useful. The GM might ask you “How do you know this?” Tell them the truth, now.
+
+You use Jungle Knowledge any time you want to search your memory for knowledge or facts about something. You take a moment to ponder the things you know about the Ork tribes or the ruins of Outpost Gamma-7 and then reveal that knowledge.
+
+The knowledge you get is like consulting intelligence reports, field manuals, or mission briefings. You get facts about the subject matter. On a 10+ the GM will show you how those facts can be immediately useful, on a 7–9 they're just facts.
+
+On a miss the GM's move will often involve the time you take thinking. Maybe you miss that Ork moving around behind you, or the tripwire across the hallway. It's also a chance to reveal an unwelcome truth.
+
+Just in case it isn’t clear: the answers are always true, even if the GM had to make them up on the spot. Always say what honesty demands.
+
+Rob: The floor was an illusion. Damn the cultists.
+
+Oli: You're in a murky pit. A shadowy humanoid shape, mottled and eyeless, moves toward you, mumbling.
+
+Rob: What is that thing? Will it attack? I think I've seen something like this before—in a briefing, maybe.
+
+Oli: Jungle Knowledge. Roll+Intelligence.
+
+Rob: I rolled an 8.
+
+Oli: You remember a drawing of a creature like this from a briefing. It was standing guard over something. There's a way to get past it, but the details escape you.
+
+Rob: I need to remember. There must be a pattern, a weakness.
+
+Tom: I got a 10 on my Jungle Knowledge about this gilded skull.
+
+Oli: You recognize the metalwork of an ancient xenos race, long since purged from the galaxy.
+
+Tom: What else?
+
+Oli: You recognize specific glyphs. They're Warp-touched, marks of fire, but transmuted. If you channel energy into the skull, it'll convert your lasbolts into fire.
+
+Tom: Fire lasbolts. That could be useful.
+
+## Read the Signs
+
+When youclosely study a situation or person, roll+Perception. ✴On a 10+, ask the GM 3 questions from the list below. ✴On a 7–9, ask 1.
+
+Either way, take Advantage when acting on the answers.
+
+- What happened here recently?
+- What is about to happen?
+- What should I be on the lookout for?
+- What here is useful or valuable to me?
+- Who’s really in control here?
+- What here is not what it appears to be?
+
+To read the signs you must closely observe your target. That usually means interacting with it or watching someone else do the same. You can't just stick your head in the doorway and read the signs about a room. You're not merely scanning for clues—you have to look under and around things, tap the walls, and check for weird patterns in the dust or damage. That sort of thing.
+
+Reading the signs isn't just about noticing a detail, it's about figuring out the bigger picture. The GM always describes what the player characters experience honestly, so during a fight the GM will say that the Chaos cultist stays at the other end of the hall. Reading the signs could reveal the reason behind that: the cultist's motions reveal that he's actually drawing power from the Warp rift behind him, he can't come any closer.
+
+Just like Jungle Knowledge, the answers you get are always honest ones. Even if the GM has to figure it out on the spot. Once they answer, it’s set in stone. You'll want to read the signs to find the truth behind illusions—Warp-touched or otherwise.
+
+Unless a move says otherwise players can only ask questions from the list. If a player asks a question not on the list the GM can tell them to try again or answer a question from the list that seems equivalent.
+
+Of course, some questions might have a negative answer, that’s fine. If there really, honestly is nothing useful or valuable here, the GM will answer that question with “Nothing, sorry.”
+
+Rob: I don't trust this room. I check the walls, tapping them with my knife, looking for anything out of place.
+
+Oli: Read the Signs. Roll+Perception.
+
+Rob: I got a 12. I want to know "What here is not as it appears to be?"
+
+Oli: The north wall has a hollow spot. The panels are newer, the welds fresher—there's a hidden alcove or passageway.
+
+Rob: I want to know what happened here recently.
+
+Oli: The metalwork is bent outward in places. Shoddy work—mutants did this. The only way it'd bend out like that is if something pushed from within.
+
+Rob: So either the mutants sealed it from the other side, or something inside tried to break out.
+
+Oli: Exactly.
+
+## Negotiate
+
+When youhave leverage on a GM Character and manipulate them, roll+Leadership. Leverage is something they need or want. ✴On a 10+, they do what you ask if you first promise what they ask of you. ✴On a 7–9, they will do what you ask, but need some concrete assurance of your promise, right now.
+
+Negotiate covers a lot of ground including old standbys like intimidation and diplomacy. You know you're using negotiate when you're trying to get someone to do something for you by holding a promise or threat over them. Your leverage can be nasty or nice, the tone doesn't matter.
+
+Merely asking someone politely isn't negotiating. That's just talking. You say, "Can I have that relic chainsword?" and Sergeant Telric says, "Hell no, this is my blade, my father forged it and my mother blessed it" and that's that. To negotiate, you have to have leverage. Leverage is anything that could lure the target of your negotiation to do something for you. Maybe it's something they want or something they don't want you to do. Like a cache of thrones. Or punching them in the face. What counts as leverage depends on the people involved and the request being made. Threaten a lone Ork with death and you have leverage. Threaten an Ork backed up by his warband with death and he might think he's better off in a fight.
+
+On a 7+ they ask you for something related to whatever leverage you have. If your leverage is that you're standing before them sharpening your knife and insinuating about how much you'd like to shank them with it they might ask you to let them go. If your leverage is your position in the chain of command above them they might ask for a favor.
+
+Whatever they ask for, on a 10+, you just have to promise it clearly and unambiguously. On a 7–9, that's not enough: you also have to give them some assurance, right now, before they do what you want. If you promise that you'll ensure their safety from the mutants if they do what you want and you roll a 7–9 they won't do their part until you bring a fresh mutant head to prove you can do it, for example. It's worth noting that you don't actually have to keep your promise. Whether you'll follow up or not, well, that's up to you. Of course breaking promises leads to problems. People don't take kindly to oath-breakers and aren't likely to deal with them in the future.
+
+In some cases when you state what you want you may include a possible promise for the creature to make, as in "flee and I'll let you live." It's up to the target of the negotiation if that's the promise they want or if they have something else in mind. They can say "yes, let me live and I'll go" (with assurances, if you rolled a 7–9) or "promise me you won't follow me."
+
+Kris: "Commissar, I need you to vouch for me, or the Colonel will never grant me an audience."
+
+Oli: He's not convinced—it could damage his reputation. "Why should I help you, Doc?"
+
+Kris: I show him the signet ring from the cultist we killed—the one he hired to infiltrate the outpost.
+
+Oli: Roll negotiate.
+
+Kris: An 8.
+
+Oli: "Enough." He looks at you coldly. "You killed my agent. Give me the ring, swear to silence, and I'll do as you ask."
+
+Kris: I toss him the ring. We'll find other leverage later.
+
+Dan: This is where the cult leader hides. I approach the guard. "Open the door." I'm trying to negotiate—roll+Leadership?
+
+Oli: You've only stated what you want. The guard steps in front of you. "Private area, sir." He sounds bored, like he wishes he were elsewhere. To negotiate, you need leverage. What do you have?
+
+## Aid or Interfere
+
+When you**help or hinder someone**, roll+Squad Cohesion. ✴On a 10+, they take Advantage or Disadvantage, your choice. ✴On a 7–9, they still get a modifier, but you also expose yourself to danger, retribution, or cost.
+
+Any time you feel like two players should be rolling against each other, the defender should be interfering with the attacker. This doesn't always mean sabotaging them. It can mean anything from arguing against a negotiation to just being a shifty person who's hard to read. It's about getting in the way of another players' success.
+
+Always ask the person aiding or interfering how they are doing it. As long as they can answer that, they trigger the move. Sometimes, as the GM, you’ll have to ask if interference is happening. Your players might not always notice they’re interfering with each other.
+
+Aid is a little more obvious. If a player can explain how they’re helping with a move and it makes sense, let them roll to aid.
+
+No matter how many people aid or interfere with a given roll, the target only gets the +1 or -2 once. Even if a whole squad aids in attacking a Catachan Devil, the one who makes the final attack only gets +1.
+
+Oli: Nork, you stand alone and bloodied before a pack of Catachan Devils. Behind you, the Commissar cowers, his face pale.
+
+Dan: I stand firm, chainsword raised. I will defend the Commissar.
+
+Rob: I emerge from the shadows, lasgun raised. "You're not alone, Marcus." I take position beside him. "I've seen you fight. If we die today, we die together." I want to aid him, but our Squad Cohesion is low.
+
+Oli: Roll+Squad Cohesion to aid. If you succeed, Marcus takes Advantage to his Cover Fire attempt.
+
+## Give Orders
+
+When you**issue a clear tactical order to coordinate your squad**, roll+Leadership. ✴On a 10+, choose 2. ✴On a 7–9, choose 1. ✴On a miss, your order is misunderstood, ignored, or comes too late—the GM will tell you how it goes wrong.
+
+Orders are tactical commands that coordinate your squad's actions. They work best when given clearly and when the squad has high cohesion. Anyone can give orders, but they're most effective when given by someone with authority, experience, or a clear tactical advantage.
+
+Orders must be specific and actionable. "Attack!" is too vague. "Suppressing fire on the left flank while we advance!" is a clear order. The order should tell someone what to do, when to do it, or how to position themselves.
+
+On a miss, the order fails catastrophically. Maybe someone mishears and does the opposite. Maybe the order comes too late and the opportunity is lost. Maybe someone deliberately ignores it. The GM should make this meaningful and dangerous.
+
+Oli: The Orks are advancing from three directions. You're surrounded, and they're closing in fast.
+
+Tom: I bark out orders. "Form a defensive circle! Heavy weapons in the center, everyone else on the perimeter! We hold here!"
+
+Oli: Give Orders. Roll+Leadership.
+
+Tom: I got a 9. I'll choose to establish the formation and have two allies coordinate their actions.
+
+Oli: The squad moves as one, forming a tight circle. Dan and Kris coordinate their fire, covering each other's reloads. The formation holds, but Rob is slightly out of position—he's exposed on the right flank. What do you do?
+
+## Maintain Formation
+
+When you**fight or move while maintaining a tactical formation**, roll+Squad Cohesion. ✴On a 10+, the formation holds and everyone in it gains the formation's benefit. ✴On a 7–9, the formation holds but one member is exposed or out of position—the GM will tell you who and how. ✴On a miss, the formation breaks and you're all vulnerable.
+
+Formations are tactical arrangements that provide benefits when maintained. They represent how your squad positions itself relative to each other and the enemy. Formations must be established first—usually through the Give Orders move, or by describing how you're positioning yourselves.
+
+Formations only work if you can maintain them. If you're ambushed, if someone breaks formation, or if the enemy forces you apart, the formation is lost. You can re-establish it, but it takes coordination and time.
+
+Common formations include Firing Line (overlapping fields of fire, +1 armor vs ranged), Defensive Circle (cover all angles, +1 armor, no flanking), Wedge/Arrowhead (point person takes Disadvantage, others gain Advantage on attacks), Overwatch (covering fire grants Advantage), and Skirmish Line (loose spread, Advantage on movement but Disadvantage on orders).
+
+When you maintain a formation, you're trying to keep it together under pressure. This might be during combat, while moving through hostile terrain, or when under fire. The roll represents whether the squad can maintain discipline and positioning despite the chaos.
+
+Oli: The Catachan Devils charge your defensive circle. They're coming from all sides, claws extended, jaws wide.
+
+Tom: We hold the formation! Everyone maintains position!
+
+Oli: Maintain Formation. Roll+Squad Cohesion.
+
+Tom: Squad Cohesion is 2, and I rolled a 7. Total of 9.
+
+Oli: The formation holds, but Dan is forced back a step—he's now slightly outside the circle, exposed on the left flank. The Devils are closing. What do you do?
+
+## Scrounge
+
+When you**desperately search for resources in hostile territory**, roll+Perception. ✴On a 10+, you find something useful—the GM will tell you what. ✴On a 7–9, you find something, but choose one:
+
+- It's damaged or degraded—it works but not as well as it should
+- Finding it exposes you to danger—the GM will tell you how
+- You must leave something behind to take it
+
+✴On a miss, you find nothing useful, and your search draws unwanted attention.
+
+On Catachan, resources are everything. Ammunition runs low, rations spoil, equipment breaks, and medical supplies dwindle. Scrounge is for those desperate moments when you need something—anything—to survive, when you're searching through the wreckage of a battle, the ruins of an outpost, or the corpse of a fallen enemy.
+
+This move is different from Resupply, which is for getting things at base. Scrounge is for finding resources in the field, in hostile territory, when you're cut off and desperate. The GM should make what you find appropriate to where you're searching and what you need.
+
+On a 10+, you find something genuinely useful. Maybe it's a half-empty ammo pack, a ration that's still edible, a medkit with some supplies left, or a piece of equipment that can be salvaged. The GM will tell you what you find and how useful it is.
+
+Rob: We're out of ammo, and there are more Orks coming. I need to find something—anything—I can use. I start searching through the bodies of the Orks we just killed.
+
+Oli: Scrounge. Roll+Perception.
+
+Rob: I got a 9. I'll take the danger—I need that ammo.
+
+Oli: You find a crude but functional slugga with three rounds left. As you grab it, you hear the sound of heavy footsteps. A Nob is coming around the corner, and he's seen you. What do you do?
+
+Rob: I raise the slugga and fire. Three rounds. I need to make them count.
+
+## Hold Your Nerve
+
+When you**must maintain composure under extreme psychological pressure**—witnessing unspeakable horrors, facing overwhelming odds, enduring torture, resisting Warp corruption, or staring into the abyss—roll+Willpower. ✴On a 10+, you remain steady and focused. ✴On a 7–9, you hold on, but the pressure takes its toll—choose one:
+
+- You freeze for a moment, unable to act—the GM will tell you when you can move again
+- You take Disadvantage until you can rest
+- You must act immediately or lose your nerve—the GM will tell you what action is required
+- You lash out blindly, attacking the nearest threat or ally
+- You succeed, but something breaks inside you—mark a debility of the GM's choice
+
+✴On a miss, your nerve fails you completely. The GM will tell you how you break.
+
+Survival on Catachan is not just about physical endurance—it's about mental fortitude, about holding on when everything tells you to give up, about maintaining your humanity in the face of endless horror. Hold Your Nerve is for those moments when the psychological pressure becomes unbearable: when you witness unspeakable atrocities, when you're outnumbered ten to one, when you're being tortured, when the Warp whispers promises of power, or when you must make an impossible choice.
+
+This move is different from Press On, which is for physical danger. Hold Your Nerve is specifically for psychological pressure, for moments when your will is being tested, when your faith is being challenged, when your sanity is hanging by a thread. It covers both the initial shock of witnessing something horrific and the ongoing pressure of maintaining composure.
+
+On a miss, your nerve fails completely. You might break and run, surrender, give in to corruption, become catatonic, flee in terror, or even turn on your allies. The GM should make this meaningful and appropriate to the situation.
+
+Oli: Kael, as you round the corner, you see what the cultists have been doing. The chamber is filled with bodies—dozens of them, all Imperial Guardsmen. They're not just dead. They're... changed. Their flesh has been twisted into impossible shapes, their faces frozen in expressions of pure terror. In the center of the room, something that was once human writhes on an altar, its form shifting and changing, Warp energy crackling around it. What do you do?
+
+Tom: I... I can't look away. This is... this is what they did to them. I have to hold my nerve.
+
+Oli: Hold Your Nerve. Roll+Willpower.
+
+Tom: I got a 6.
+
+Oli: The horror of what you've seen breaks something inside you. You drop to your knees, your lasgun clattering to the floor. You can't stop seeing their faces, their twisted forms. You're frozen in place, unable to act. The thing on the altar turns its many eyes toward you. What do you do?
+
+Oli: The Chaos cultist has you pinned, his blade at your throat. "Renounce the False Emperor," he whispers, his breath hot against your ear. "Join us, and you'll live. Refuse, and I'll make you watch as I gut your friends one by one." The Warp energy around him makes your skin crawl. What do you do?
+
+Kris: I... I can't. I won't. The Emperor protects. I hold my nerve.
+
+Oli: Hold Your Nerve. Roll+Willpower.
+
+Kris: I got an 8. I'll take the Disadvantage. I can handle it.
+
+Oli: You steel yourself against the corruption, against the fear, against the temptation. You remain steady, but the effort takes its toll. You take Disadvantage until you can rest. The cultist's eyes narrow. "So be it." What do you do?
+
+Kris: I headbutt him. The Emperor protects.
+
+# Special Moves
+
+Special moves are moves that come up less often or in more specific situations. They're still the basis of what characters do in Death World: Catachan—particularly what they do between missions and high-stakes operations.
+
+## At Death's Door
+
+Whenyou're at death's dooreither by taking a hit that should kill you or by reaching 0 Wounds, roll the dice. ✴On a 10+, suffer harm as the GM feels is appropriate. ✴On a 7–9, choose 1:
+
+- Strike out an advanced move from your character sheet (if already taken, lose its benefit)
+- Lower one of your Stats by 1 permanently
+- The injury leaves you maimed
+
+On a miss, choose all three of the above or have your character go out in a blaze of glory, your call.
+
+A character finds themselves at death's door in two distinct circumstances: 1) when they would reach 0 Wounds and 2) when a fictional circumstance occurs that should kill them.
+
+If a PC takes harm that would put them to 0 Wounds during a mission, they defer rolling At Death's Door until the mission has concluded. Make the roll as soon as you get back to "normal" play. Once a character has been at death's door, so long as they have not chosen "go out in a blaze of glory", it is the GM's choice whether their Wounds is reduced to 1 (Wounded) or they remain at 0 Wounds. Either way, the character is considered "stable" and would not be at death's door again unless they take subsequent harm.
+
+As for fictional circumstances that "should" kill a PC, the GM should be prepared to be lenient with interpreting this. This is a world of war and heroism, and while taking a lasgun wound or being hit by a chainsword in the real world might be things that "should" kill you, it's not necessarily the case in the game. Your job is to be a fan of the PCs; they are the heroes of this story. If a PC is going to be at death's door from a single blow, then make sure that blow is epic indeed.
+
+If a character misses their At Death's Door roll and chooses to go out in a blaze of glory, they need not die that instant. Take a moment to talk with the player about what they would like for their death, and if need be it can be deferred for a little while in order to set up a truly heroic demise. When the moment comes, the player gains authority to narrate the scene. The death of a PC is a big deal and deserves to be treated as such. On Catachan, even death can be a weapon against the enemies of the Emperor.
+
+## Encumbrance
+
+When youmake a move while carrying weightyou may be encumbered. If your weight carried is:
+
+- Equal to or less than your load, you suffer no penalty
+- Less than or equal to your load+2, you take Disadvantage until you lighten your burden
+- Greater than your load+2, you have a choice: drop at least 1 weight and roll at -1, or automatically fail
+
+A PC's load stat is determined by their class and Strength. Being able to haul more is a clear benefit when trying to carry salvage out of a mission area or just making sure you can bring along what you need.
+
+This move only applies to things a person could walk around with and still act. Carrying a boulder on your back is not encumbrance—you can’t really act or move much with it. It affects what moves you can make appropriately in the fiction.
+
+## Bivouac
+
+When you**settle in to rest**consume a ration. If you’re somewhere dangerous decide the watch order as well. If you have enough XP you may level up. When you wake from at least a few uninterrupted hours of sleep heal damage equal to half your max Wounds.
+
+You usually set up a bivouac so that you can do other things, like repair equipment or check your gear. Or, you know, sleep soundly at night. Whenever you stop to catch your breath for more than an hour or so, you've probably set up a bivouac.
+
+Staying a night at a base or outpost is setting up a bivouac, too. Regain your Wounds as usual, but only mark off a ration if you're eating from the food you carry, not paying for a meal or receiving hospitality.
+
+## Stand Watch
+
+Whenyou're on watch and something approaches the bivouacroll+Perception. ✴On a 10+, you're able to wake the squad and prepare a response, everyone in the bivouac takes Advantage. ✴On a 7–9, you react just a moment too late; your companions in the bivouac are awake but haven't had time to prepare. They have weapons and armor but little else. ✴On a miss, whatever lurks outside the perimeter has the drop on you.
+
+## Navigate the Jungle
+
+When you**travel through hostile territory**, choose one member of the squad to act as*trailblazer*, one to*scout*ahead, and one to be*quartermaster*. Each character with a job to do rolls+Perception. ✴On a 10+:
+
+- the quartermaster reduces the number of rations required by one
+- the trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much)
+- the scout will spot any trouble quick enough to let you get the drop on it
+
+✴On a 7–9, each role performs their job as expected: the normal number of rations are consumed, the journey takes about as long as expected, no one gets the drop on you but you don’t get the drop on them either.
+
+You can't assign more than one job to a character. If you don't have enough squad members, or choose not to assign a job, treat that job as if it had been assigned and the responsible player had rolled a 6.
+
+Distances in Death World: Catachan are measured in rations. A ration is the amount of supplies used up in a day. Journeys take more rations when they are long or when travel is slow.
+
+Navigating the jungle is the whole way between two locations. You don't roll for one day's journey and then set up a bivouac only to roll for the next day's journey, too. Make one roll for the entire trip.
+
+This move only applies when you know where you're going. Setting off to explore is not navigating the jungle. It's wandering around looking for cool things to discover. Use up rations as you bivouac and the GM will give you details about the world as you discover them.
+
+## End of Session
+
+When you**reach the end of a session**, the squad may mark a shared experience that strengthened your cohesion. If you do, mark XP and increase Squad Cohesion by 1 (maximum 3). If the squad suffered a major betrayal, failure, or conflict, decrease Squad Cohesion by 1 (minimum 0).
+
+Once Squad Cohesion has been updated look at your duty. If you fulfilled that duty at least once this session, mark XP. Then answer these three questions as a group:
+
+- Did we learn something new and important about the world?
+- Did we overcome a notable enemy or threat?
+- Did we loot a memorable treasure?
+
+For each “yes” answer everyone marks XP.
+
+## Level Up
+
+When you**have downtime (hours or days) and XP equal to (or greater than) your current level+7**, you can reflect on your experiences and hone your skills.
+
+- Subtract your current level+7 from your XP.
+- Increase your level by 1.
+- Choose a new advanced move from your class.
+- If you are a class that gains new abilities, you also get to add a new move to your repertoire.
+- Choose one of your stats and increase it by 1 (this may change your modifier). Changing your Toughness increases your maximum and current Wounds. Ability scores can’t go higher than 18.
+
+## Debrief
+
+When youreturn from a mission and report to command, spend resources and roll + extra resources spent. ✴On a 10+, choose 3. ✴On a 7–9, choose 1. ✴On a miss, you still choose one, but things get complicated (the GM will say how).
+
+- You befriend a useful NPC.
+- You hear rumors of a new mission.
+- You gain useful information.
+- You are not entangled, disciplined, or tricked.
+
+You can only debrief when you return from a mission. That's what draws the attention of command staff, intelligence officers, and fellow soldiers as you report on your latest operation. If you don't report your success or your failure, then who would want to work with you anyway?
+
+## Resupply
+
+When yougo to buy something with gold on hand, if it’s something readily available in the settlement you’re in, you can buy it at market price. If it’s something special, beyond what’s usually available here, or non-mundane, roll+Leadership. ✴On a 10+, you find what you’re looking for at a fair price. ✴On a 7–9, you’ll have to pay more or settle for something that’s not exactly what you wanted, but close. The GM will tell you what your options are.
+
+## Recover
+
+When you**do nothing but rest in comfort and safety**after a day of rest you recover all your Wounds. After three days of rest you remove one debility of your choice. If you’re under the care of a healer (magical or otherwise) you heal a debility for every two days of rest instead.
+
+## Request Reinforcements
+
+When youput in a request for additional personnel, roll. If you make it known…
+
+- …that the mission is critical, take +1
+- …what you're setting out to do, take +1
+- …that they'll see real action, take +1
+
+If you have a useful reputation around base take Advantage. ✴On a 10+, you've got your pick of a number of skilled soldiers, your choice who you get, no penalty for not taking them along. ✴On a 7–9, you'll have to settle for someone available or turn them away. ✴On a miss someone influential and ill-suited declares they'd like to come along (a green recruit, a loose-cannon, or a veiled enemy, for example), bring them and take the consequences or turn them away. If you turn away applicants you take Disadvantage to Request Reinforcements.
+
+## Reputation
+
+When you**return to a base in which you've caused trouble before**, roll+Leadership. ✴On a hit, word has spread of your deeds and everyone recognizes you. ✴On a 7–9, that, and, the GM chooses a complication:
+
+- The base commander has you on report.
+- Someone has a grudge against you.
+- Someone important to you has been put in a bad spot as a result of your actions.
+
+This move is only for places where you've caused trouble, not every base you enter. Being publicly caught up in someone else's trouble still triggers this move.
+
+Bases generally mean the outposts, forward bases, and major installations of the Imperial Guard but it can also apply to any relatively lawful establishment, such as settlements or trading posts. If the PCs have stayed in a place as part of the community, it counts as a base.
+
+## Train
+
+When you**spend your leisure time in study, meditation, or hard practice,**you gain preparation. If you prepare for a week or more, take 1 preparation. If you prepare for a month or longer, take 3 instead. When your preparation pays off spend 1 preparation for +1 to any roll. You can only spend one preparation per roll.

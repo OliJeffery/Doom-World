@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>The Ogryn</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">You are big. Bigger than most men. Bigger than most things that want to kill you. You are strong, too. Strong enough to pull a damaged Chimera across a battlefield, to move mountains if the little 'uns ask you to. Strong enough to carry your wounded friend to safety while being shot at by thousands of enemy troops, your body a shield against the endless rain of death. Strong enough that you do not feel pain like the little 'uns do, your flesh hardened by the perpetual conflict for survival.</p>
-<p>You are not smart. You know that. The little 'uns are smart. They tell you what to do, and you do it. Because they are your friends. Because they keep you safe. Because when the horrors of the deep jungle emerge, when the abominations that hunger for human flesh crawl from the shadows, you are the one who stands between them and your friends. And nothing gets past you. Nothing. You are the wall, the barrier, the unbreakable shield that protects the little 'uns from the shadows.</p>
-<p>Protect your friends. Follow orders. Be strong. That is what you do. That is who you are. That is your duty to the Emperor, and you will not fail.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You are big. Bigger than most men. Bigger than most things that want to kill you. You are strong, too. Strong enough to pull a damaged Chimera across a battlefield, to move mountains if the little 'uns ask you to. Strong enough to carry your wounded friend to safety while being shot at by thousands of enemy troops, your body a shield against the endless rain of death. Strong enough that you don't feel pain like the little 'uns do, your flesh hardened by the perpetual conflict for survival.</p>
+<p>You aren't smart. You know that. The little 'uns are smart. They tell you what to do, and you do it. Because they are your friends. Because they keep you safe. Because when the horrors of the deep jungle emerge, when the abominations that hunger for human flesh crawl from the shadows, you are the one who stands between them and your friends. And nothing gets past you. Nothing. You are the wall, the barrier, the unbreakable shield that protects the little 'uns from the shadows.</p>
+<p>Protect your friends. Follow orders. Be strong. That is what you do. That is who you are. That is your duty to the Emperor, and you won't fail.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Ogryn</em>: Nork, Grug, Thud, Bonk, Smash, Crush, Biggun, Stomp, Grunt, Bork</p></div>
 <h2>Look</h2>
@@ -14,7 +14,7 @@
 <p aid:pstyle="NoIndent">Scarred Skin, Tattooed Skin, or Marked Skin</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">Your maximum Wounds is 12+Toughness.</p>
-<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d12</span>.</p>
+<p aid:pstyle="NoIndent">When you attack with a Ripper Gun in melee or ranged combat, add +1d8 damage.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">You are Ogryn, so you get this move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Ogryn</h3>
